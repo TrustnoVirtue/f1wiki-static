@@ -1,0 +1,138 @@
+{
+    "team": {
+        "id": 848,
+        "slug": "haas",
+        "name": "Haas F1 Team",
+        "nat": "American",
+        "color": "#B6BABD",
+        "logo": "assets/img/teams/848.png",
+        "credit": "Logo: Haas F1 Team · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:TGR_Haas_F1_Team_Logo_(2026).svg",
+        "stats": {
+            "starts": 466,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 392,
+            "championships": 0
+        },
+        "firstSeason": 2016,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "pos": 7,
+            "points": 30,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "pos": 8,
+            "points": 79,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "pos": 7,
+            "points": 58,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "pos": 10,
+            "points": 12,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "pos": 8,
+            "points": 37,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "pos": 10,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2020,
+            "pos": 9,
+            "points": 3,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "pos": 9,
+            "points": 28,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "pos": 6,
+            "points": 93,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "pos": 8,
+            "points": 47,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "pos": 8,
+            "points": 29,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 707,
+            "name": "Esteban Gutiérrez",
+            "photo": "assets/img/drivers/707.jpg"
+        },
+        {
+            "id": 865,
+            "name": "Esteban Ocon",
+            "photo": "assets/img/drivers/865.jpg"
+        },
+        {
+            "id": 753,
+            "name": "Kevin Magnussen",
+            "photo": "assets/img/drivers/753.jpg"
+        },
+        {
+            "id": 1089,
+            "name": "Mick Schumacher",
+            "photo": "assets/img/drivers/1089.jpg"
+        },
+        {
+            "id": 1090,
+            "name": "Nikita Mazepin",
+            "photo": "assets/img/drivers/1090.jpg"
+        },
+        {
+            "id": 1240,
+            "name": "Oliver Bearman",
+            "photo": "assets/img/drivers/1240.jpg"
+        },
+        {
+            "id": 1056,
+            "name": "Pietro Fittipaldi",
+            "photo": "assets/img/drivers/1056.jpg"
+        },
+        {
+            "id": 531,
+            "name": "Romain Grosjean",
+            "photo": "assets/img/drivers/531.jpg"
+        },
+        {
+            "id": 1366,
+            "name": "Ryo Hirakawa",
+            "photo": "assets/img/drivers/1366.jpg"
+        }
+    ]
+}

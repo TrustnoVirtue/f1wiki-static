@@ -1,0 +1,219 @@
+{
+    "driver": {
+        "id": 755,
+        "slug": "marcus-ericsson",
+        "name": "Marcus Ericsson",
+        "nat": "Swedish",
+        "code": "ERI",
+        "number": "",
+        "dob": "1990-09-02",
+        "photo": "assets/img/drivers/755.jpg",
+        "credit": "Photo: Frankie Fouganthin · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Marcus_Ericsson_in_2023.jpg",
+        "teamId": 56,
+        "teamName": "Sauber",
+        "color": "#52E252",
+        "stats": {
+            "starts": 97,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 18,
+            "championships": 0,
+            "best": 17,
+            "bestYear": 2018
+        },
+        "firstSeason": 2014,
+        "lastSeason": 2018
+    },
+    "seasons": [
+        {
+            "year": 2018,
+            "teamId": 56,
+            "team": "Sauber",
+            "color": "#52E252",
+            "pos": 17,
+            "points": 9,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "teamId": 56,
+            "team": "Sauber",
+            "color": "#52E252",
+            "pos": 20,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "teamId": 56,
+            "team": "Sauber",
+            "color": "#52E252",
+            "pos": 22,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "teamId": 56,
+            "team": "Sauber",
+            "color": "#52E252",
+            "pos": 18,
+            "points": 9,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "teamId": 664,
+            "team": "Caterham",
+            "color": "#009B48",
+            "pos": 19,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 944,
+            "race": "2018 Abu Dhabi Grand Prix",
+            "year": 2018,
+            "round": 21,
+            "pos": "R",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Power loss"
+        },
+        {
+            "raceId": 943,
+            "race": "2018 Brazilian Grand Prix",
+            "year": 2018,
+            "round": 20,
+            "pos": "R",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Collision"
+        },
+        {
+            "raceId": 942,
+            "race": "2018 Mexican Grand Prix",
+            "year": 2018,
+            "round": 19,
+            "pos": "9",
+            "points": 2,
+            "team": "Sauber",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 941,
+            "race": "2018 United States Grand Prix",
+            "year": 2018,
+            "round": 18,
+            "pos": "10",
+            "points": 1,
+            "team": "Sauber",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 940,
+            "race": "2018 Japanese Grand Prix",
+            "year": 2018,
+            "round": 17,
+            "pos": "12",
+            "points": 0,
+            "team": "Sauber",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 939,
+            "race": "2018 Russian Grand Prix",
+            "year": 2018,
+            "round": 16,
+            "pos": "13",
+            "points": 0,
+            "team": "Sauber",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 938,
+            "race": "2018 Singapore Grand Prix",
+            "year": 2018,
+            "round": 15,
+            "pos": "11",
+            "points": 0,
+            "team": "Sauber",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 937,
+            "race": "2018 Italian Grand Prix",
+            "year": 2018,
+            "round": 14,
+            "pos": "15",
+            "points": 0,
+            "team": "Sauber",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 936,
+            "race": "2018 Belgian Grand Prix",
+            "year": 2018,
+            "round": 13,
+            "pos": "10",
+            "points": 1,
+            "team": "Sauber",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 935,
+            "race": "2018 Hungarian Grand Prix",
+            "year": 2018,
+            "round": 12,
+            "pos": "15",
+            "points": 0,
+            "team": "Sauber",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 934,
+            "race": "2018 German Grand Prix",
+            "year": 2018,
+            "round": 11,
+            "pos": "9",
+            "points": 2,
+            "team": "Sauber",
+            "status": "Finished"
+        },
+        {
+            "raceId": 933,
+            "race": "2018 British Grand Prix",
+            "year": 2018,
+            "round": 10,
+            "pos": "R",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Accident"
+        },
+        {
+            "raceId": 932,
+            "race": "2018 Austrian Grand Prix",
+            "year": 2018,
+            "round": 9,
+            "pos": "10",
+            "points": 1,
+            "team": "Sauber",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 931,
+            "race": "2018 French Grand Prix",
+            "year": 2018,
+            "round": 8,
+            "pos": "13",
+            "points": 0,
+            "team": "Sauber",
+            "status": "+1 Lap"
+        }
+    ]
+}

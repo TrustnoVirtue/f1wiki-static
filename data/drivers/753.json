@@ -1,0 +1,264 @@
+{
+    "driver": {
+        "id": 753,
+        "slug": "kevin-magnussen",
+        "name": "Kevin Magnussen",
+        "nat": "Danish",
+        "code": "MAG",
+        "number": "",
+        "dob": "1992-10-05",
+        "photo": "assets/img/drivers/753.jpg",
+        "credit": "Photo: Marc Alvarado · CC BY-SA 2.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Kevin_Magnussen,_2019_Formula_One_Tests_Barcelona_(cropped).jpg",
+        "teamId": 848,
+        "teamName": "Haas F1 Team",
+        "color": "#B6BABD",
+        "stats": {
+            "starts": 186,
+            "wins": 0,
+            "podiums": 1,
+            "poles": 0,
+            "fastestLaps": 3,
+            "points": 196,
+            "championships": 0,
+            "best": 9,
+            "bestYear": 2018
+        },
+        "firstSeason": 2014,
+        "lastSeason": 2024
+    },
+    "seasons": [
+        {
+            "year": 2024,
+            "teamId": 848,
+            "team": "Haas F1 Team",
+            "color": "#B6BABD",
+            "pos": 15,
+            "points": 16,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "teamId": 848,
+            "team": "Haas F1 Team",
+            "color": "#B6BABD",
+            "pos": 19,
+            "points": 3,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "teamId": 848,
+            "team": "Haas F1 Team",
+            "color": "#B6BABD",
+            "pos": 13,
+            "points": 25,
+            "wins": 0
+        },
+        {
+            "year": 2020,
+            "teamId": 848,
+            "team": "Haas F1 Team",
+            "color": "#B6BABD",
+            "pos": 20,
+            "points": 1,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "teamId": 848,
+            "team": "Haas F1 Team",
+            "color": "#B6BABD",
+            "pos": 16,
+            "points": 20,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "teamId": 848,
+            "team": "Haas F1 Team",
+            "color": "#B6BABD",
+            "pos": 9,
+            "points": 56,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "teamId": 848,
+            "team": "Haas F1 Team",
+            "color": "#B6BABD",
+            "pos": 14,
+            "points": 19,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 16,
+            "points": 7,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 0,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 11,
+            "points": 55,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1237,
+            "race": "2024 Abu Dhabi Grand Prix",
+            "year": 2024,
+            "round": 24,
+            "pos": "16",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1236,
+            "race": "2024 Qatar Grand Prix",
+            "year": 2024,
+            "round": 23,
+            "pos": "9",
+            "points": 2,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1235,
+            "race": "2024 Las Vegas Grand Prix",
+            "year": 2024,
+            "round": 22,
+            "pos": "12",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1233,
+            "race": "2024 Mexico City Grand Prix",
+            "year": 2024,
+            "round": 20,
+            "pos": "7",
+            "points": 6,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1232,
+            "race": "2024 United States Grand Prix",
+            "year": 2024,
+            "round": 19,
+            "pos": "11",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1231,
+            "race": "2024 Singapore Grand Prix",
+            "year": 2024,
+            "round": 18,
+            "pos": "19",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1229,
+            "race": "2024 Italian Grand Prix",
+            "year": 2024,
+            "round": 16,
+            "pos": "10",
+            "points": 1,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1228,
+            "race": "2024 Dutch Grand Prix",
+            "year": 2024,
+            "round": 15,
+            "pos": "18",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1227,
+            "race": "2024 Belgian Grand Prix",
+            "year": 2024,
+            "round": 14,
+            "pos": "14",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1226,
+            "race": "2024 Hungarian Grand Prix",
+            "year": 2024,
+            "round": 13,
+            "pos": "15",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1225,
+            "race": "2024 British Grand Prix",
+            "year": 2024,
+            "round": 12,
+            "pos": "12",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1224,
+            "race": "2024 Austrian Grand Prix",
+            "year": 2024,
+            "round": 11,
+            "pos": "8",
+            "points": 4,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1223,
+            "race": "2024 Spanish Grand Prix",
+            "year": 2024,
+            "round": 10,
+            "pos": "17",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1222,
+            "race": "2024 Canadian Grand Prix",
+            "year": 2024,
+            "round": 9,
+            "pos": "12",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        }
+    ]
+}

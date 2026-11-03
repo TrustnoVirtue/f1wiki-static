@@ -1,0 +1,273 @@
+{
+    "driver": {
+        "id": 382,
+        "slug": "nico-rosberg",
+        "name": "Nico Rosberg",
+        "nat": "German",
+        "code": "ROS",
+        "number": "",
+        "dob": "1985-06-27",
+        "photo": "assets/img/drivers/382.jpg",
+        "credit": "Photo: Joaquin.ignacio.mc · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nico_Rosberg_obtuvo_el_segundo_lugar.jpg",
+        "teamId": 563,
+        "teamName": "Mercedes",
+        "color": "#27F4D2",
+        "stats": {
+            "starts": 206,
+            "wins": 23,
+            "podiums": 57,
+            "poles": 30,
+            "fastestLaps": 20,
+            "points": 1594.5,
+            "championships": 1,
+            "best": 1,
+            "bestYear": 2016
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2016
+    },
+    "seasons": [
+        {
+            "year": 2016,
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "pos": 1,
+            "points": 385,
+            "wins": 9
+        },
+        {
+            "year": 2015,
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "pos": 2,
+            "points": 322,
+            "wins": 6
+        },
+        {
+            "year": 2014,
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "pos": 2,
+            "points": 317,
+            "wins": 5
+        },
+        {
+            "year": 2013,
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "pos": 6,
+            "points": 171,
+            "wins": 2
+        },
+        {
+            "year": 2012,
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "pos": 9,
+            "points": 93,
+            "wins": 1
+        },
+        {
+            "year": 2011,
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "pos": 7,
+            "points": 89,
+            "wins": 0
+        },
+        {
+            "year": 2010,
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "pos": 7,
+            "points": 142,
+            "wins": 0
+        },
+        {
+            "year": 2009,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 7,
+            "points": 34.5,
+            "wins": 0
+        },
+        {
+            "year": 2008,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 13,
+            "points": 17,
+            "wins": 0
+        },
+        {
+            "year": 2007,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 9,
+            "points": 20,
+            "wins": 0
+        },
+        {
+            "year": 2006,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 17,
+            "points": 4,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 847,
+            "race": "2016 Abu Dhabi Grand Prix",
+            "year": 2016,
+            "round": 21,
+            "pos": "2",
+            "points": 18,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 846,
+            "race": "2016 Brazilian Grand Prix",
+            "year": 2016,
+            "round": 20,
+            "pos": "2",
+            "points": 18,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 845,
+            "race": "2016 Mexican Grand Prix",
+            "year": 2016,
+            "round": 19,
+            "pos": "2",
+            "points": 18,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 844,
+            "race": "2016 United States Grand Prix",
+            "year": 2016,
+            "round": 18,
+            "pos": "2",
+            "points": 18,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 843,
+            "race": "2016 Japanese Grand Prix",
+            "year": 2016,
+            "round": 17,
+            "pos": "1",
+            "points": 25,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 842,
+            "race": "2016 Malaysian Grand Prix",
+            "year": 2016,
+            "round": 16,
+            "pos": "3",
+            "points": 15,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 841,
+            "race": "2016 Singapore Grand Prix",
+            "year": 2016,
+            "round": 15,
+            "pos": "1",
+            "points": 25,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 840,
+            "race": "2016 Italian Grand Prix",
+            "year": 2016,
+            "round": 14,
+            "pos": "1",
+            "points": 25,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 839,
+            "race": "2016 Belgian Grand Prix",
+            "year": 2016,
+            "round": 13,
+            "pos": "1",
+            "points": 25,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 838,
+            "race": "2016 German Grand Prix",
+            "year": 2016,
+            "round": 12,
+            "pos": "4",
+            "points": 12,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 837,
+            "race": "2016 Hungarian Grand Prix",
+            "year": 2016,
+            "round": 11,
+            "pos": "2",
+            "points": 18,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 836,
+            "race": "2016 British Grand Prix",
+            "year": 2016,
+            "round": 10,
+            "pos": "3",
+            "points": 15,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 835,
+            "race": "2016 Austrian Grand Prix",
+            "year": 2016,
+            "round": 9,
+            "pos": "4",
+            "points": 12,
+            "team": "Mercedes",
+            "status": "Finished"
+        },
+        {
+            "raceId": 834,
+            "race": "2016 European Grand Prix",
+            "year": 2016,
+            "round": 8,
+            "pos": "1",
+            "points": 25,
+            "team": "Mercedes",
+            "status": "Finished"
+        }
+    ]
+}

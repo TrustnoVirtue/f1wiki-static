@@ -1,0 +1,220 @@
+{
+    "team": {
+        "id": 563,
+        "slug": "mercedes",
+        "name": "Mercedes",
+        "nat": "German",
+        "color": "#27F4D2",
+        "logo": "assets/img/teams/563.png",
+        "credit": "Logo: Mercedes-AMG Petronas F1 Team · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_Petronas_F1_Team_logo_(2026).svg",
+        "stats": {
+            "starts": 696,
+            "wins": 134,
+            "podiums": 317,
+            "poles": 148,
+            "points": 8580.5,
+            "championships": 9
+        },
+        "firstSeason": 2010,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "pos": 1,
+            "points": 630,
+            "wins": 12
+        },
+        {
+            "year": 2025,
+            "pos": 2,
+            "points": 469,
+            "wins": 2
+        },
+        {
+            "year": 2024,
+            "pos": 4,
+            "points": 468,
+            "wins": 4
+        },
+        {
+            "year": 2023,
+            "pos": 2,
+            "points": 409,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "pos": 3,
+            "points": 515,
+            "wins": 1
+        },
+        {
+            "year": 2021,
+            "pos": 1,
+            "points": 613.5,
+            "wins": 9
+        },
+        {
+            "year": 2020,
+            "pos": 1,
+            "points": 573,
+            "wins": 13
+        },
+        {
+            "year": 2019,
+            "pos": 1,
+            "points": 739,
+            "wins": 15
+        },
+        {
+            "year": 2018,
+            "pos": 1,
+            "points": 655,
+            "wins": 11
+        },
+        {
+            "year": 2017,
+            "pos": 1,
+            "points": 668,
+            "wins": 12
+        },
+        {
+            "year": 2016,
+            "pos": 1,
+            "points": 765,
+            "wins": 19
+        },
+        {
+            "year": 2015,
+            "pos": 1,
+            "points": 703,
+            "wins": 16
+        },
+        {
+            "year": 2014,
+            "pos": 1,
+            "points": 701,
+            "wins": 16
+        },
+        {
+            "year": 2013,
+            "pos": 2,
+            "points": 360,
+            "wins": 3
+        },
+        {
+            "year": 2012,
+            "pos": 5,
+            "points": 142,
+            "wins": 1
+        },
+        {
+            "year": 2011,
+            "pos": 4,
+            "points": 165,
+            "wins": 0
+        },
+        {
+            "year": 2010,
+            "pos": 4,
+            "points": 214,
+            "wins": 0
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 1339,
+            "race": "2026 United States Grand Prix",
+            "year": 2026,
+            "driver": "Andrea Kimi Antonelli",
+            "driverId": 1292
+        },
+        {
+            "raceId": 1336,
+            "race": "2026 Azerbaijan Grand Prix",
+            "year": 2026,
+            "driver": "George Russell",
+            "driverId": 995
+        },
+        {
+            "raceId": 1335,
+            "race": "2026 Spanish Grand Prix",
+            "year": 2026,
+            "driver": "Andrea Kimi Antonelli",
+            "driverId": 1292
+        },
+        {
+            "raceId": 1333,
+            "race": "2026 Italian Grand Prix",
+            "year": 2026,
+            "driver": "Andrea Kimi Antonelli",
+            "driverId": 1292
+        },
+        {
+            "raceId": 1330,
+            "race": "2026 Belgian Grand Prix",
+            "year": 2026,
+            "driver": "Andrea Kimi Antonelli",
+            "driverId": 1292
+        },
+        {
+            "raceId": 1328,
+            "race": "2026 Austrian Grand Prix",
+            "year": 2026,
+            "driver": "George Russell",
+            "driverId": 995
+        },
+        {
+            "raceId": 1326,
+            "race": "2026 Monaco Grand Prix",
+            "year": 2026,
+            "driver": "Andrea Kimi Antonelli",
+            "driverId": 1292
+        },
+        {
+            "raceId": 1325,
+            "race": "2026 Canadian Grand Prix",
+            "year": 2026,
+            "driver": "Andrea Kimi Antonelli",
+            "driverId": 1292
+        },
+        {
+            "raceId": 1324,
+            "race": "2026 Miami Grand Prix",
+            "year": 2026,
+            "driver": "Andrea Kimi Antonelli",
+            "driverId": 1292
+        },
+        {
+            "raceId": 1323,
+            "race": "2026 Japanese Grand Prix",
+            "year": 2026,
+            "driver": "Andrea Kimi Antonelli",
+            "driverId": 1292
+        }
+    ],
+    "lineup": [
+        {
+            "id": 1292,
+            "name": "Andrea Kimi Antonelli",
+            "photo": "assets/img/drivers/1292.jpg"
+        },
+        {
+            "id": 995,
+            "name": "George Russell",
+            "photo": "assets/img/drivers/995.jpg"
+        },
+        {
+            "id": 40,
+            "name": "Michael Schumacher",
+            "photo": "assets/img/drivers/40.jpg"
+        },
+        {
+            "id": 382,
+            "name": "Nico Rosberg",
+            "photo": "assets/img/drivers/382.jpg"
+        }
+    ]
+}

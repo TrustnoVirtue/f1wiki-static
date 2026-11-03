@@ -1,0 +1,149 @@
+{
+    "team": {
+        "id": 383,
+        "slug": "toro_rosso",
+        "name": "Toro Rosso",
+        "nat": "Italian",
+        "color": "#4E7C9B",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 536,
+            "wins": 1,
+            "podiums": 3,
+            "poles": 1,
+            "points": 500,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2019
+    },
+    "seasons": [
+        {
+            "year": 2019,
+            "pos": 6,
+            "points": 85,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "pos": 9,
+            "points": 33,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "pos": 7,
+            "points": 53,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "pos": 7,
+            "points": 63,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "pos": 7,
+            "points": 67,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "pos": 7,
+            "points": 30,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "pos": 8,
+            "points": 33,
+            "wins": 0
+        },
+        {
+            "year": 2012,
+            "pos": 9,
+            "points": 26,
+            "wins": 0
+        },
+        {
+            "year": 2011,
+            "pos": 8,
+            "points": 41,
+            "wins": 0
+        },
+        {
+            "year": 2010,
+            "pos": 9,
+            "points": 13,
+            "wins": 0
+        },
+        {
+            "year": 2009,
+            "pos": 10,
+            "points": 8,
+            "wins": 0
+        },
+        {
+            "year": 2008,
+            "pos": 6,
+            "points": 39,
+            "wins": 1
+        },
+        {
+            "year": 2007,
+            "pos": 7,
+            "points": 8,
+            "wins": 0
+        },
+        {
+            "year": 2006,
+            "pos": 9,
+            "points": 1,
+            "wins": 0
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 471,
+            "race": "2008 Italian Grand Prix",
+            "year": 2008,
+            "driver": "Sebastian Vettel",
+            "driverId": 441
+        }
+    ],
+    "lineup": [
+        {
+            "id": 916,
+            "name": "Brendon Hartley",
+            "photo": "assets/img/drivers/916.jpg"
+        },
+        {
+            "id": 529,
+            "name": "Jaime Alguersuari",
+            "photo": "assets/img/drivers/529.jpg"
+        },
+        {
+            "id": 661,
+            "name": "Jean-Éric Vergne",
+            "photo": "assets/img/drivers/661.jpg"
+        },
+        {
+            "id": 385,
+            "name": "Scott Speed",
+            "photo": "assets/img/drivers/385.jpg"
+        },
+        {
+            "id": 477,
+            "name": "Sébastien Bourdais",
+            "photo": "assets/img/drivers/477.jpg"
+        },
+        {
+            "id": 519,
+            "name": "Sébastien Buemi",
+            "photo": "assets/img/drivers/519.jpg"
+        }
+    ]
+}

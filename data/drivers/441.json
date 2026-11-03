@@ -1,0 +1,318 @@
+{
+    "driver": {
+        "id": 441,
+        "slug": "sebastian-vettel",
+        "name": "Sebastian Vettel",
+        "nat": "German",
+        "code": "VET",
+        "number": "",
+        "dob": "1987-07-03",
+        "photo": "assets/img/drivers/441.jpg",
+        "credit": "Photo: Andrea Diodato · CC BY 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Sebastian_Vettel_at_the_2026_Italian_Grand_Prix_(cropped).jpg",
+        "teamId": 1087,
+        "teamName": "Aston Martin",
+        "color": "#229971",
+        "stats": {
+            "starts": 300,
+            "wins": 53,
+            "podiums": 122,
+            "poles": 57,
+            "fastestLaps": 38,
+            "points": 3098,
+            "championships": 4,
+            "best": 1,
+            "bestYear": 2010
+        },
+        "firstSeason": 2007,
+        "lastSeason": 2022
+    },
+    "seasons": [
+        {
+            "year": 2022,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 12,
+            "points": 37,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 12,
+            "points": 43,
+            "wins": 0
+        },
+        {
+            "year": 2020,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 13,
+            "points": 33,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 5,
+            "points": 240,
+            "wins": 1
+        },
+        {
+            "year": 2018,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 2,
+            "points": 320,
+            "wins": 5
+        },
+        {
+            "year": 2017,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 2,
+            "points": 317,
+            "wins": 5
+        },
+        {
+            "year": 2016,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 4,
+            "points": 212,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 3,
+            "points": 278,
+            "wins": 3
+        },
+        {
+            "year": 2014,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 5,
+            "points": 167,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 1,
+            "points": 397,
+            "wins": 13
+        },
+        {
+            "year": 2012,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 1,
+            "points": 281,
+            "wins": 5
+        },
+        {
+            "year": 2011,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 1,
+            "points": 392,
+            "wins": 11
+        },
+        {
+            "year": 2010,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 1,
+            "points": 256,
+            "wins": 5
+        },
+        {
+            "year": 2009,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 2,
+            "points": 84,
+            "wins": 4
+        },
+        {
+            "year": 2008,
+            "teamId": 383,
+            "team": "Toro Rosso",
+            "color": "#4E7C9B",
+            "pos": 8,
+            "points": 35,
+            "wins": 1
+        },
+        {
+            "year": 2007,
+            "teamId": 383,
+            "team": "Toro Rosso",
+            "color": "#4E7C9B",
+            "pos": 14,
+            "points": 6,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1137,
+            "race": "2022 Abu Dhabi Grand Prix",
+            "year": 2022,
+            "round": 22,
+            "pos": "10",
+            "points": 1,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1136,
+            "race": "2022 São Paulo Grand Prix",
+            "year": 2022,
+            "round": 21,
+            "pos": "11",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1135,
+            "race": "2022 Mexico City Grand Prix",
+            "year": 2022,
+            "round": 20,
+            "pos": "14",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 1134,
+            "race": "2022 United States Grand Prix",
+            "year": 2022,
+            "round": 19,
+            "pos": "8",
+            "points": 4,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1133,
+            "race": "2022 Japanese Grand Prix",
+            "year": 2022,
+            "round": 18,
+            "pos": "6",
+            "points": 8,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1132,
+            "race": "2022 Singapore Grand Prix",
+            "year": 2022,
+            "round": 17,
+            "pos": "8",
+            "points": 4,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1131,
+            "race": "2022 Italian Grand Prix",
+            "year": 2022,
+            "round": 16,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Engine"
+        },
+        {
+            "raceId": 1130,
+            "race": "2022 Dutch Grand Prix",
+            "year": 2022,
+            "round": 15,
+            "pos": "14",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1129,
+            "race": "2022 Belgian Grand Prix",
+            "year": 2022,
+            "round": 14,
+            "pos": "8",
+            "points": 4,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1128,
+            "race": "2022 Hungarian Grand Prix",
+            "year": 2022,
+            "round": 13,
+            "pos": "10",
+            "points": 1,
+            "team": "Aston Martin",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 1127,
+            "race": "2022 French Grand Prix",
+            "year": 2022,
+            "round": 12,
+            "pos": "11",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1126,
+            "race": "2022 Austrian Grand Prix",
+            "year": 2022,
+            "round": 11,
+            "pos": "17",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 1125,
+            "race": "2022 British Grand Prix",
+            "year": 2022,
+            "round": 10,
+            "pos": "9",
+            "points": 2,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1124,
+            "race": "2022 Canadian Grand Prix",
+            "year": 2022,
+            "round": 9,
+            "pos": "12",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Finished"
+        }
+    ]
+}

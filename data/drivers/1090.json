@@ -1,0 +1,183 @@
+{
+    "driver": {
+        "id": 1090,
+        "slug": "nikita-mazepin",
+        "name": "Nikita Mazepin",
+        "nat": "Russian",
+        "code": "MAZ",
+        "number": "",
+        "dob": "1999-03-02",
+        "photo": "assets/img/drivers/1090.jpg",
+        "credit": "Photo: Somanyhorsesru журнал · CC BY 3.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%9C%D0%B0%D0%B7%D0%B5%D0%BF%D0%B8%D0%BD_-_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E_-_2019,_02.jpg",
+        "teamId": 848,
+        "teamName": "Haas F1 Team",
+        "color": "#B6BABD",
+        "stats": {
+            "starts": 22,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 0,
+            "championships": 0,
+            "best": 21,
+            "bestYear": 2021
+        },
+        "firstSeason": 2021,
+        "lastSeason": 2021
+    },
+    "seasons": [
+        {
+            "year": 2021,
+            "teamId": 848,
+            "team": "Haas F1 Team",
+            "color": "#B6BABD",
+            "pos": 21,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1085,
+            "race": "2021 Abu Dhabi Grand Prix",
+            "year": 2021,
+            "round": 22,
+            "pos": "W",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Illness"
+        },
+        {
+            "raceId": 1084,
+            "race": "2021 Saudi Arabian Grand Prix",
+            "year": 2021,
+            "round": 21,
+            "pos": "R",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Collision"
+        },
+        {
+            "raceId": 1082,
+            "race": "2021 Qatar Grand Prix",
+            "year": 2021,
+            "round": 20,
+            "pos": "18",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 1080,
+            "race": "2021 São Paulo Grand Prix",
+            "year": 2021,
+            "round": 19,
+            "pos": "17",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 1079,
+            "race": "2021 Mexico City Grand Prix",
+            "year": 2021,
+            "round": 18,
+            "pos": "18",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "+3 Laps"
+        },
+        {
+            "raceId": 1078,
+            "race": "2021 United States Grand Prix",
+            "year": 2021,
+            "round": 17,
+            "pos": "17",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 1077,
+            "race": "2021 Turkish Grand Prix",
+            "year": 2021,
+            "round": 16,
+            "pos": "20",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 1076,
+            "race": "2021 Russian Grand Prix",
+            "year": 2021,
+            "round": 15,
+            "pos": "18",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 1075,
+            "race": "2021 Italian Grand Prix",
+            "year": 2021,
+            "round": 14,
+            "pos": "R",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Power Unit"
+        },
+        {
+            "raceId": 1074,
+            "race": "2021 Dutch Grand Prix",
+            "year": 2021,
+            "round": 13,
+            "pos": "R",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Hydraulics"
+        },
+        {
+            "raceId": 1072,
+            "race": "2021 Belgian Grand Prix",
+            "year": 2021,
+            "round": 12,
+            "pos": "17",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1071,
+            "race": "2021 Hungarian Grand Prix",
+            "year": 2021,
+            "round": 11,
+            "pos": "R",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Collision"
+        },
+        {
+            "raceId": 1070,
+            "race": "2021 British Grand Prix",
+            "year": 2021,
+            "round": 10,
+            "pos": "17",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 1069,
+            "race": "2021 Austrian Grand Prix",
+            "year": 2021,
+            "round": 9,
+            "pos": "19",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "+2 Laps"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "team": {
+        "id": 1346,
+        "slug": "audi",
+        "name": "Audi",
+        "nat": "German",
+        "color": "#C8102E",
+        "logo": "assets/img/teams/1346.png",
+        "credit": "Logo: Audi Revolut F1 Team / Sauber Motorsports AG · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Audif1.com_logo17_(cropped).svg",
+        "stats": {
+            "starts": 38,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 21,
+            "championships": 0
+        },
+        "firstSeason": 2026,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "pos": 8,
+            "points": 23,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 1293,
+            "name": "Gabriel Bortoleto",
+            "photo": "assets/img/drivers/1293.jpg"
+        },
+        {
+            "id": 564,
+            "name": "Nico Hülkenberg",
+            "photo": "assets/img/drivers/564.jpg"
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "team": {
+        "id": 208,
+        "slug": "renault",
+        "name": "Renault",
+        "nat": "French",
+        "color": "#FFF500",
+        "logo": "assets/img/teams/208.png",
+        "credit": "Logo: Renault S.A. · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Renault_logo.svg",
+        "stats": {
+            "starts": 556,
+            "wins": 20,
+            "podiums": 62,
+            "poles": 20,
+            "points": 1465,
+            "championships": 2
+        },
+        "firstSeason": 2002,
+        "lastSeason": 2020
+    },
+    "seasons": [
+        {
+            "year": 2020,
+            "pos": 5,
+            "points": 181,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "pos": 5,
+            "points": 91,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "pos": 4,
+            "points": 122,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "pos": 6,
+            "points": 57,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "pos": 9,
+            "points": 8,
+            "wins": 0
+        },
+        {
+            "year": 2011,
+            "pos": 5,
+            "points": 73,
+            "wins": 0
+        },
+        {
+            "year": 2010,
+            "pos": 5,
+            "points": 163,
+            "wins": 0
+        },
+        {
+            "year": 2009,
+            "pos": 8,
+            "points": 26,
+            "wins": 0
+        },
+        {
+            "year": 2008,
+            "pos": 4,
+            "points": 80,
+            "wins": 2
+        },
+        {
+            "year": 2007,
+            "pos": 3,
+            "points": 51,
+            "wins": 0
+        },
+        {
+            "year": 2006,
+            "pos": 1,
+            "points": 206,
+            "wins": 8
+        },
+        {
+            "year": 2005,
+            "pos": 1,
+            "points": 191,
+            "wins": 8
+        },
+        {
+            "year": 2004,
+            "pos": 3,
+            "points": 105,
+            "wins": 1
+        },
+        {
+            "year": 2003,
+            "pos": 4,
+            "points": 88,
+            "wins": 1
+        },
+        {
+            "year": 2002,
+            "pos": 4,
+            "points": 23,
+            "wins": 0
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 474,
+            "race": "2008 Japanese Grand Prix",
+            "year": 2008,
+            "driver": "Fernando Alonso",
+            "driverId": 163
+        },
+        {
+            "raceId": 473,
+            "race": "2008 Singapore Grand Prix",
+            "year": 2008,
+            "driver": "Fernando Alonso",
+            "driverId": 163
+        },
+        {
+            "raceId": 379,
+            "race": "2006 Japanese Grand Prix",
+            "year": 2006,
+            "driver": "Fernando Alonso",
+            "driverId": 163
+        },
+        {
+            "raceId": 371,
+            "race": "2006 Canadian Grand Prix",
+            "year": 2006,
+            "driver": "Fernando Alonso",
+            "driverId": 163
+        },
+        {
+            "raceId": 370,
+            "race": "2006 British Grand Prix",
+            "year": 2006,
+            "driver": "Fernando Alonso",
+            "driverId": 163
+        },
+        {
+            "raceId": 369,
+            "race": "2006 Monaco Grand Prix",
+            "year": 2006,
+            "driver": "Fernando Alonso",
+            "driverId": 163
+        },
+        {
+            "raceId": 368,
+            "race": "2006 Spanish Grand Prix",
+            "year": 2006,
+            "driver": "Fernando Alonso",
+            "driverId": 163
+        },
+        {
+            "raceId": 365,
+            "race": "2006 Australian Grand Prix",
+            "year": 2006,
+            "driver": "Fernando Alonso",
+            "driverId": 163
+        },
+        {
+            "raceId": 364,
+            "race": "2006 Malaysian Grand Prix",
+            "year": 2006,
+            "driver": "Giancarlo Fisichella",
+            "driverId": 47
+        },
+        {
+            "raceId": 363,
+            "race": "2006 Bahrain Grand Prix",
+            "year": 2006,
+            "driver": "Fernando Alonso",
+            "driverId": 163
+        }
+    ],
+    "lineup": [
+        {
+            "id": 849,
+            "name": "Jolyon Palmer",
+            "photo": "assets/img/drivers/849.jpg"
+        },
+        {
+            "id": 478,
+            "name": "Nelson Piquet Jr.",
+            "photo": "assets/img/drivers/478.jpg"
+        },
+        {
+            "id": 53,
+            "name": "Nick Heidfeld",
+            "photo": "assets/img/drivers/53.jpg"
+        }
+    ]
+}

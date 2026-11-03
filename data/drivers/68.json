@@ -1,0 +1,255 @@
+{
+    "driver": {
+        "id": 68,
+        "slug": "david-coulthard",
+        "name": "David Coulthard",
+        "nat": "British",
+        "code": "COU",
+        "number": "",
+        "dob": "1971-03-27",
+        "photo": "assets/img/drivers/68.jpg",
+        "credit": "Photo: Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:David_Coulthard_at_the_2025_Adelaide_Grand_Final_Parade_-_12.jpg",
+        "teamId": 335,
+        "teamName": "Red Bull",
+        "color": "#3671C6",
+        "stats": {
+            "starts": 157,
+            "wins": 7,
+            "podiums": 32,
+            "poles": 4,
+            "fastestLaps": 0,
+            "points": 314,
+            "championships": 0,
+            "best": 2,
+            "bestYear": 2001
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2008
+    },
+    "seasons": [
+        {
+            "year": 2008,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 16,
+            "points": 8,
+            "wins": 0
+        },
+        {
+            "year": 2007,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 10,
+            "points": 14,
+            "wins": 0
+        },
+        {
+            "year": 2006,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 13,
+            "points": 14,
+            "wins": 0
+        },
+        {
+            "year": 2005,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 12,
+            "points": 24,
+            "wins": 0
+        },
+        {
+            "year": 2004,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 10,
+            "points": 24,
+            "wins": 0
+        },
+        {
+            "year": 2003,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 7,
+            "points": 51,
+            "wins": 1
+        },
+        {
+            "year": 2002,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 5,
+            "points": 41,
+            "wins": 1
+        },
+        {
+            "year": 2001,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 2,
+            "points": 65,
+            "wins": 2
+        },
+        {
+            "year": 2000,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 3,
+            "points": 73,
+            "wins": 3
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 476,
+            "race": "2008 Brazilian Grand Prix",
+            "year": 2008,
+            "round": 18,
+            "pos": "R",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Collision"
+        },
+        {
+            "raceId": 475,
+            "race": "2008 Chinese Grand Prix",
+            "year": 2008,
+            "round": 17,
+            "pos": "10",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 474,
+            "race": "2008 Japanese Grand Prix",
+            "year": 2008,
+            "round": 16,
+            "pos": "R",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Collision"
+        },
+        {
+            "raceId": 473,
+            "race": "2008 Singapore Grand Prix",
+            "year": 2008,
+            "round": 15,
+            "pos": "7",
+            "points": 2,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 471,
+            "race": "2008 Italian Grand Prix",
+            "year": 2008,
+            "round": 14,
+            "pos": "16",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 470,
+            "race": "2008 Belgian Grand Prix",
+            "year": 2008,
+            "round": 13,
+            "pos": "11",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 469,
+            "race": "2008 European Grand Prix",
+            "year": 2008,
+            "round": 12,
+            "pos": "17",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 467,
+            "race": "2008 Hungarian Grand Prix",
+            "year": 2008,
+            "round": 11,
+            "pos": "11",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 466,
+            "race": "2008 German Grand Prix",
+            "year": 2008,
+            "round": 10,
+            "pos": "13",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 465,
+            "race": "2008 British Grand Prix",
+            "year": 2008,
+            "round": 9,
+            "pos": "R",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Collision"
+        },
+        {
+            "raceId": 464,
+            "race": "2008 French Grand Prix",
+            "year": 2008,
+            "round": 8,
+            "pos": "9",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 463,
+            "race": "2008 Canadian Grand Prix",
+            "year": 2008,
+            "round": 7,
+            "pos": "3",
+            "points": 6,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 462,
+            "race": "2008 Monaco Grand Prix",
+            "year": 2008,
+            "round": 6,
+            "pos": "R",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Accident"
+        },
+        {
+            "raceId": 461,
+            "race": "2008 Turkish Grand Prix",
+            "year": 2008,
+            "round": 5,
+            "pos": "9",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        }
+    ]
+}

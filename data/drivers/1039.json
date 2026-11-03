@@ -1,0 +1,201 @@
+{
+    "driver": {
+        "id": 1039,
+        "slug": "nicholas-latifi",
+        "name": "Nicholas Latifi",
+        "nat": "Canadian",
+        "code": "LAT",
+        "number": "",
+        "dob": "1995-06-29",
+        "photo": "assets/img/drivers/1039.jpg",
+        "credit": "Photo: TIB1245L · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nicholas_Latifi_at_Singapore_in_2022_(cropped).jpg",
+        "teamId": 44,
+        "teamName": "Williams",
+        "color": "#64C4FF",
+        "stats": {
+            "starts": 61,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 9,
+            "championships": 0,
+            "best": 17,
+            "bestYear": 2021
+        },
+        "firstSeason": 2020,
+        "lastSeason": 2022
+    },
+    "seasons": [
+        {
+            "year": 2022,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 20,
+            "points": 2,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 17,
+            "points": 7,
+            "wins": 0
+        },
+        {
+            "year": 2020,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 21,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1137,
+            "race": "2022 Abu Dhabi Grand Prix",
+            "year": 2022,
+            "round": 22,
+            "pos": "19",
+            "points": 0,
+            "team": "Williams",
+            "status": "Collision damage"
+        },
+        {
+            "raceId": 1136,
+            "race": "2022 São Paulo Grand Prix",
+            "year": 2022,
+            "round": 21,
+            "pos": "16",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1135,
+            "race": "2022 Mexico City Grand Prix",
+            "year": 2022,
+            "round": 20,
+            "pos": "18",
+            "points": 0,
+            "team": "Williams",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 1134,
+            "race": "2022 United States Grand Prix",
+            "year": 2022,
+            "round": 19,
+            "pos": "17",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1133,
+            "race": "2022 Japanese Grand Prix",
+            "year": 2022,
+            "round": 18,
+            "pos": "9",
+            "points": 2,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1132,
+            "race": "2022 Singapore Grand Prix",
+            "year": 2022,
+            "round": 17,
+            "pos": "R",
+            "points": 0,
+            "team": "Williams",
+            "status": "Collision damage"
+        },
+        {
+            "raceId": 1131,
+            "race": "2022 Italian Grand Prix",
+            "year": 2022,
+            "round": 16,
+            "pos": "15",
+            "points": 0,
+            "team": "Williams",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 1130,
+            "race": "2022 Dutch Grand Prix",
+            "year": 2022,
+            "round": 15,
+            "pos": "18",
+            "points": 0,
+            "team": "Williams",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 1129,
+            "race": "2022 Belgian Grand Prix",
+            "year": 2022,
+            "round": 14,
+            "pos": "18",
+            "points": 0,
+            "team": "Williams",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 1128,
+            "race": "2022 Hungarian Grand Prix",
+            "year": 2022,
+            "round": 13,
+            "pos": "18",
+            "points": 0,
+            "team": "Williams",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 1127,
+            "race": "2022 French Grand Prix",
+            "year": 2022,
+            "round": 12,
+            "pos": "R",
+            "points": 0,
+            "team": "Williams",
+            "status": "Collision damage"
+        },
+        {
+            "raceId": 1126,
+            "race": "2022 Austrian Grand Prix",
+            "year": 2022,
+            "round": 11,
+            "pos": "R",
+            "points": 0,
+            "team": "Williams",
+            "status": "Undertray"
+        },
+        {
+            "raceId": 1125,
+            "race": "2022 British Grand Prix",
+            "year": 2022,
+            "round": 10,
+            "pos": "12",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1124,
+            "race": "2022 Canadian Grand Prix",
+            "year": 2022,
+            "round": 9,
+            "pos": "16",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        }
+    ]
+}

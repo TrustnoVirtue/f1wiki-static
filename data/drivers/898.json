@@ -1,0 +1,264 @@
+{
+    "driver": {
+        "id": 898,
+        "slug": "lance-stroll",
+        "name": "Lance Stroll",
+        "nat": "Canadian",
+        "code": "STR",
+        "number": "",
+        "dob": "1998-10-29",
+        "photo": "assets/img/drivers/898.jpg",
+        "credit": "Photo: Liauzh · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_Aston_Martin_-_Lance_Stroll_-_Fanzone_Stage_(cropped).jpg",
+        "teamId": 1087,
+        "teamName": "Aston Martin",
+        "color": "#229971",
+        "stats": {
+            "starts": 210,
+            "wins": 0,
+            "podiums": 3,
+            "poles": 1,
+            "fastestLaps": 0,
+            "points": 315,
+            "championships": 0,
+            "best": 10,
+            "bestYear": 2023
+        },
+        "firstSeason": 2017,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 21,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 16,
+            "points": 33,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 13,
+            "points": 24,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 10,
+            "points": 74,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 15,
+            "points": 18,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 13,
+            "points": 34,
+            "wins": 0
+        },
+        {
+            "year": 2020,
+            "teamId": 992,
+            "team": "Racing Point",
+            "color": "#F596C8",
+            "pos": 11,
+            "points": 75,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "teamId": 992,
+            "team": "Racing Point",
+            "color": "#F596C8",
+            "pos": 15,
+            "points": 21,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 18,
+            "points": 6,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 12,
+            "points": 40,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "round": 19,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1339,
+            "race": "2026 United States Grand Prix",
+            "year": 2026,
+            "round": 18,
+            "pos": "15",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1338,
+            "race": "2026 Singapore Grand Prix",
+            "year": 2026,
+            "round": 17,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1337,
+            "race": "2026 Bahrain Grand Prix in Malaysia",
+            "year": 2026,
+            "round": 16,
+            "pos": "12",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1336,
+            "race": "2026 Azerbaijan Grand Prix",
+            "year": 2026,
+            "round": 15,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1335,
+            "race": "2026 Spanish Grand Prix",
+            "year": 2026,
+            "round": 14,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1333,
+            "race": "2026 Italian Grand Prix",
+            "year": 2026,
+            "round": 13,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1332,
+            "race": "2026 Dutch Grand Prix",
+            "year": 2026,
+            "round": 12,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1331,
+            "race": "2026 Hungarian Grand Prix",
+            "year": 2026,
+            "round": 11,
+            "pos": "13",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1330,
+            "race": "2026 Belgian Grand Prix",
+            "year": 2026,
+            "round": 10,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1329,
+            "race": "2026 British Grand Prix",
+            "year": 2026,
+            "round": 9,
+            "pos": "19",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1328,
+            "race": "2026 Austrian Grand Prix",
+            "year": 2026,
+            "round": 8,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1327,
+            "race": "2026 Barcelona Grand Prix",
+            "year": 2026,
+            "round": 7,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1326,
+            "race": "2026 Monaco Grand Prix",
+            "year": 2026,
+            "round": 6,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        }
+    ]
+}

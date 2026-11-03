@@ -1,0 +1,309 @@
+{
+    "driver": {
+        "id": 616,
+        "slug": "sergio-perez",
+        "name": "Sergio Pérez",
+        "nat": "Mexican",
+        "code": "PER",
+        "number": "",
+        "dob": "1990-01-26",
+        "photo": "assets/img/drivers/616.jpg",
+        "credit": "Photo: XaviYuahanda · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Sergio_P%C3%A9rez_2019_(cropped).jpg",
+        "teamId": 1347,
+        "teamName": "Cadillac F1 Team",
+        "color": "#C0C0C0",
+        "stats": {
+            "starts": 302,
+            "wins": 6,
+            "podiums": 39,
+            "poles": 3,
+            "fastestLaps": 12,
+            "points": 1585,
+            "championships": 0,
+            "best": 2,
+            "bestYear": 2023
+        },
+        "firstSeason": 2011,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 1347,
+            "team": "Cadillac F1 Team",
+            "color": "#C0C0C0",
+            "pos": 24,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 8,
+            "points": 152,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 2,
+            "points": 285,
+            "wins": 2
+        },
+        {
+            "year": 2022,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 3,
+            "points": 305,
+            "wins": 2
+        },
+        {
+            "year": 2021,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 4,
+            "points": 190,
+            "wins": 1
+        },
+        {
+            "year": 2020,
+            "teamId": 992,
+            "team": "Racing Point",
+            "color": "#F596C8",
+            "pos": 4,
+            "points": 125,
+            "wins": 1
+        },
+        {
+            "year": 2019,
+            "teamId": 992,
+            "team": "Racing Point",
+            "color": "#F596C8",
+            "pos": 10,
+            "points": 52,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "teamId": 479,
+            "team": "Force India",
+            "color": "#F596C8",
+            "pos": 8,
+            "points": 62,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "teamId": 479,
+            "team": "Force India",
+            "color": "#F596C8",
+            "pos": 7,
+            "points": 100,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "teamId": 479,
+            "team": "Force India",
+            "color": "#F596C8",
+            "pos": 7,
+            "points": 101,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "teamId": 479,
+            "team": "Force India",
+            "color": "#F596C8",
+            "pos": 9,
+            "points": 78,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "teamId": 479,
+            "team": "Force India",
+            "color": "#F596C8",
+            "pos": 10,
+            "points": 59,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 11,
+            "points": 49,
+            "wins": 0
+        },
+        {
+            "year": 2012,
+            "teamId": 56,
+            "team": "Sauber",
+            "color": "#52E252",
+            "pos": 10,
+            "points": 66,
+            "wins": 0
+        },
+        {
+            "year": 2011,
+            "teamId": 56,
+            "team": "Sauber",
+            "color": "#52E252",
+            "pos": 16,
+            "points": 14,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "round": 19,
+            "pos": "17",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1339,
+            "race": "2026 United States Grand Prix",
+            "year": 2026,
+            "round": 18,
+            "pos": "19",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1338,
+            "race": "2026 Singapore Grand Prix",
+            "year": 2026,
+            "round": 17,
+            "pos": "17",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1337,
+            "race": "2026 Bahrain Grand Prix in Malaysia",
+            "year": 2026,
+            "round": 16,
+            "pos": "19",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1336,
+            "race": "2026 Azerbaijan Grand Prix",
+            "year": 2026,
+            "round": 15,
+            "pos": "14",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1335,
+            "race": "2026 Spanish Grand Prix",
+            "year": 2026,
+            "round": 14,
+            "pos": "R",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1333,
+            "race": "2026 Italian Grand Prix",
+            "year": 2026,
+            "round": 13,
+            "pos": "18",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1332,
+            "race": "2026 Dutch Grand Prix",
+            "year": 2026,
+            "round": 12,
+            "pos": "15",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1331,
+            "race": "2026 Hungarian Grand Prix",
+            "year": 2026,
+            "round": 11,
+            "pos": "R",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1330,
+            "race": "2026 Belgian Grand Prix",
+            "year": 2026,
+            "round": 10,
+            "pos": "R",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1329,
+            "race": "2026 British Grand Prix",
+            "year": 2026,
+            "round": 9,
+            "pos": "14",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1328,
+            "race": "2026 Austrian Grand Prix",
+            "year": 2026,
+            "round": 8,
+            "pos": "R",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1327,
+            "race": "2026 Barcelona Grand Prix",
+            "year": 2026,
+            "round": 7,
+            "pos": "14",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1326,
+            "race": "2026 Monaco Grand Prix",
+            "year": 2026,
+            "round": 6,
+            "pos": "15",
+            "points": 0,
+            "team": "Cadillac F1 Team",
+            "status": "Finished"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "driver": {
+        "id": 1056,
+        "slug": "pietro-fittipaldi",
+        "name": "Pietro Fittipaldi",
+        "nat": "Brazilian",
+        "code": "FIT",
+        "number": "",
+        "dob": "1996-06-25",
+        "photo": "assets/img/drivers/1056.jpg",
+        "credit": "Photo: Stock Car · CC BY 3.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Pietro_Fittipaldi_Stock_Car_2021.png",
+        "teamId": 848,
+        "teamName": "Haas F1 Team",
+        "color": "#B6BABD",
+        "stats": {
+            "starts": 2,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 0,
+            "championships": 0,
+            "best": 23,
+            "bestYear": 2020
+        },
+        "firstSeason": 2020,
+        "lastSeason": 2020
+    },
+    "seasons": [
+        {
+            "year": 2020,
+            "teamId": 848,
+            "team": "Haas F1 Team",
+            "color": "#B6BABD",
+            "pos": 23,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1037,
+            "race": "2020 Abu Dhabi Grand Prix",
+            "year": 2020,
+            "round": 17,
+            "pos": "19",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 1036,
+            "race": "2020 Sakhir Grand Prix",
+            "year": 2020,
+            "round": 16,
+            "pos": "17",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        }
+    ]
+}

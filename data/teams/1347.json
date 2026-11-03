@@ -1,0 +1,43 @@
+{
+    "team": {
+        "id": 1347,
+        "slug": "cadillac",
+        "name": "Cadillac F1 Team",
+        "nat": "American",
+        "color": "#C0C0C0",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 38,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2026,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "pos": 11,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 616,
+            "name": "Sergio Pérez",
+            "photo": "assets/img/drivers/616.jpg"
+        },
+        {
+            "id": 708,
+            "name": "Valtteri Bottas",
+            "photo": "assets/img/drivers/708.jpg"
+        }
+    ]
+}

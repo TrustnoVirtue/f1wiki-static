@@ -1,0 +1,153 @@
+{
+    "driver": {
+        "id": 338,
+        "slug": "patrick-friesacher",
+        "name": "Patrick Friesacher",
+        "nat": "Austrian",
+        "code": "FRI",
+        "number": "",
+        "dob": "1980-09-26",
+        "photo": "assets/img/drivers/338.jpg",
+        "credit": "Photo: Wikimedia contributor · CC BY-SA 2.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Patrick_Friesacher.jpg",
+        "teamId": 52,
+        "teamName": "Minardi",
+        "color": "#111111",
+        "stats": {
+            "starts": 11,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 3,
+            "championships": 0,
+            "best": 21,
+            "bestYear": 2005
+        },
+        "firstSeason": 2005,
+        "lastSeason": 2005
+    },
+    "seasons": [
+        {
+            "year": 2005,
+            "teamId": 52,
+            "team": "Minardi",
+            "color": "#111111",
+            "pos": 21,
+            "points": 3,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 325,
+            "race": "2005 British Grand Prix",
+            "year": 2005,
+            "round": 11,
+            "pos": "19",
+            "points": 0,
+            "team": "Minardi",
+            "status": "+4 Laps"
+        },
+        {
+            "raceId": 324,
+            "race": "2005 French Grand Prix",
+            "year": 2005,
+            "round": 10,
+            "pos": "R",
+            "points": 0,
+            "team": "Minardi",
+            "status": "Puncture"
+        },
+        {
+            "raceId": 323,
+            "race": "2005 United States Grand Prix",
+            "year": 2005,
+            "round": 9,
+            "pos": "6",
+            "points": 3,
+            "team": "Minardi",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 322,
+            "race": "2005 Canadian Grand Prix",
+            "year": 2005,
+            "round": 8,
+            "pos": "R",
+            "points": 0,
+            "team": "Minardi",
+            "status": "Hydraulics"
+        },
+        {
+            "raceId": 321,
+            "race": "2005 European Grand Prix",
+            "year": 2005,
+            "round": 7,
+            "pos": "18",
+            "points": 0,
+            "team": "Minardi",
+            "status": "+3 Laps"
+        },
+        {
+            "raceId": 320,
+            "race": "2005 Monaco Grand Prix",
+            "year": 2005,
+            "round": 6,
+            "pos": "R",
+            "points": 0,
+            "team": "Minardi",
+            "status": "Accident"
+        },
+        {
+            "raceId": 319,
+            "race": "2005 Spanish Grand Prix",
+            "year": 2005,
+            "round": 5,
+            "pos": "R",
+            "points": 0,
+            "team": "Minardi",
+            "status": "Spun off"
+        },
+        {
+            "raceId": 318,
+            "race": "2005 San Marino Grand Prix",
+            "year": 2005,
+            "round": 4,
+            "pos": "R",
+            "points": 0,
+            "team": "Minardi",
+            "status": "Clutch"
+        },
+        {
+            "raceId": 317,
+            "race": "2005 Bahrain Grand Prix",
+            "year": 2005,
+            "round": 3,
+            "pos": "12",
+            "points": 0,
+            "team": "Minardi",
+            "status": "+3 Laps"
+        },
+        {
+            "raceId": 316,
+            "race": "2005 Malaysian Grand Prix",
+            "year": 2005,
+            "round": 2,
+            "pos": "R",
+            "points": 0,
+            "team": "Minardi",
+            "status": "Spun off"
+        },
+        {
+            "raceId": 315,
+            "race": "2005 Australian Grand Prix",
+            "year": 2005,
+            "round": 1,
+            "pos": "17",
+            "points": 0,
+            "team": "Minardi",
+            "status": "+4 Laps"
+        }
+    ]
+}

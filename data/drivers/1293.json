@@ -1,0 +1,192 @@
+{
+    "driver": {
+        "id": 1293,
+        "slug": "gabriel-bortoleto",
+        "name": "Gabriel Bortoleto",
+        "nat": "Brazilian",
+        "code": "BOR",
+        "number": "",
+        "dob": "2004-10-14",
+        "photo": "assets/img/drivers/1293.jpg",
+        "credit": "Photo: Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Gabriel_Bortoleto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A8581)_cropped.jpg",
+        "teamId": 1346,
+        "teamName": "Audi",
+        "color": "#C8102E",
+        "stats": {
+            "starts": 43,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 29,
+            "championships": 0,
+            "best": 15,
+            "bestYear": 2026
+        },
+        "firstSeason": 2025,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 1346,
+            "team": "Audi",
+            "color": "#C8102E",
+            "pos": 15,
+            "points": 10,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "teamId": 56,
+            "team": "Sauber",
+            "color": "#52E252",
+            "pos": 19,
+            "points": 19,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "round": 19,
+            "pos": "11",
+            "points": 0,
+            "team": "Audi",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1339,
+            "race": "2026 United States Grand Prix",
+            "year": 2026,
+            "round": 18,
+            "pos": "13",
+            "points": 0,
+            "team": "Audi",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1338,
+            "race": "2026 Singapore Grand Prix",
+            "year": 2026,
+            "round": 17,
+            "pos": "R",
+            "points": 0,
+            "team": "Audi",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1337,
+            "race": "2026 Bahrain Grand Prix in Malaysia",
+            "year": 2026,
+            "round": 16,
+            "pos": "18",
+            "points": 0,
+            "team": "Audi",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1336,
+            "race": "2026 Azerbaijan Grand Prix",
+            "year": 2026,
+            "round": 15,
+            "pos": "15",
+            "points": 0,
+            "team": "Audi",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1335,
+            "race": "2026 Spanish Grand Prix",
+            "year": 2026,
+            "round": 14,
+            "pos": "13",
+            "points": 0,
+            "team": "Audi",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1333,
+            "race": "2026 Italian Grand Prix",
+            "year": 2026,
+            "round": 13,
+            "pos": "11",
+            "points": 0,
+            "team": "Audi",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1332,
+            "race": "2026 Dutch Grand Prix",
+            "year": 2026,
+            "round": 12,
+            "pos": "13",
+            "points": 0,
+            "team": "Audi",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1331,
+            "race": "2026 Hungarian Grand Prix",
+            "year": 2026,
+            "round": 11,
+            "pos": "11",
+            "points": 0,
+            "team": "Audi",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1330,
+            "race": "2026 Belgian Grand Prix",
+            "year": 2026,
+            "round": 10,
+            "pos": "8",
+            "points": 4,
+            "team": "Audi",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1329,
+            "race": "2026 British Grand Prix",
+            "year": 2026,
+            "round": 9,
+            "pos": "8",
+            "points": 4,
+            "team": "Audi",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1328,
+            "race": "2026 Austrian Grand Prix",
+            "year": 2026,
+            "round": 8,
+            "pos": "11",
+            "points": 0,
+            "team": "Audi",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1327,
+            "race": "2026 Barcelona Grand Prix",
+            "year": 2026,
+            "round": 7,
+            "pos": "11",
+            "points": 0,
+            "team": "Audi",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1326,
+            "race": "2026 Monaco Grand Prix",
+            "year": 2026,
+            "round": 6,
+            "pos": "11",
+            "points": 0,
+            "team": "Audi",
+            "status": "Finished"
+        }
+    ]
+}

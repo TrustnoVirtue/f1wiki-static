@@ -1,0 +1,105 @@
+{
+    "team": {
+        "id": 206,
+        "slug": "toyota",
+        "name": "Toyota",
+        "nat": "Japanese",
+        "color": "#CC0000",
+        "logo": "assets/img/teams/206.png",
+        "credit": "Logo: Toyota · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Toyota_logo.svg",
+        "stats": {
+            "starts": 280,
+            "wins": 0,
+            "podiums": 13,
+            "poles": 3,
+            "points": 278.5,
+            "championships": 0
+        },
+        "firstSeason": 2002,
+        "lastSeason": 2009
+    },
+    "seasons": [
+        {
+            "year": 2009,
+            "pos": 5,
+            "points": 59.5,
+            "wins": 0
+        },
+        {
+            "year": 2008,
+            "pos": 5,
+            "points": 56,
+            "wins": 0
+        },
+        {
+            "year": 2007,
+            "pos": 6,
+            "points": 13,
+            "wins": 0
+        },
+        {
+            "year": 2006,
+            "pos": 6,
+            "points": 35,
+            "wins": 0
+        },
+        {
+            "year": 2005,
+            "pos": 4,
+            "points": 88,
+            "wins": 0
+        },
+        {
+            "year": 2004,
+            "pos": 8,
+            "points": 9,
+            "wins": 0
+        },
+        {
+            "year": 2003,
+            "pos": 8,
+            "points": 16,
+            "wins": 0
+        },
+        {
+            "year": 2002,
+            "pos": 10,
+            "points": 2,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 210,
+            "name": "Allan McNish",
+            "photo": "assets/img/drivers/210.jpg"
+        },
+        {
+            "id": 249,
+            "name": "Cristiano da Matta",
+            "photo": "assets/img/drivers/249.jpg"
+        },
+        {
+            "id": 55,
+            "name": "Mika Salo",
+            "photo": "assets/img/drivers/55.jpg"
+        },
+        {
+            "id": 162,
+            "name": "Olivier Panis",
+            "photo": "assets/img/drivers/162.jpg"
+        },
+        {
+            "id": 43,
+            "name": "Ralf Schumacher",
+            "photo": "assets/img/drivers/43.jpg"
+        },
+        {
+            "id": 49,
+            "name": "Ricardo Zonta",
+            "photo": "assets/img/drivers/49.jpg"
+        }
+    ]
+}

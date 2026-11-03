@@ -1,0 +1,164 @@
+{
+    "team": {
+        "id": 56,
+        "slug": "sauber",
+        "name": "Sauber",
+        "nat": "Swiss",
+        "color": "#52E252",
+        "logo": "assets/img/teams/56.jpg",
+        "credit": "Logo: Wikimedia contributor · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Logo_sauber_2023.jpg",
+        "stats": {
+            "starts": 658,
+            "wins": 0,
+            "podiums": 7,
+            "poles": 0,
+            "points": 547,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2025
+    },
+    "seasons": [
+        {
+            "year": 2025,
+            "pos": 9,
+            "points": 70,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "pos": 10,
+            "points": 4,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "pos": 8,
+            "points": 48,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "pos": 10,
+            "points": 5,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "pos": 10,
+            "points": 2,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "pos": 8,
+            "points": 36,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "pos": 10,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "pos": 7,
+            "points": 57,
+            "wins": 0
+        },
+        {
+            "year": 2012,
+            "pos": 6,
+            "points": 126,
+            "wins": 0
+        },
+        {
+            "year": 2011,
+            "pos": 7,
+            "points": 44,
+            "wins": 0
+        },
+        {
+            "year": 2010,
+            "pos": 8,
+            "points": 44,
+            "wins": 0
+        },
+        {
+            "year": 2005,
+            "pos": 8,
+            "points": 20,
+            "wins": 0
+        },
+        {
+            "year": 2004,
+            "pos": 6,
+            "points": 34,
+            "wins": 0
+        },
+        {
+            "year": 2003,
+            "pos": 6,
+            "points": 19,
+            "wins": 0
+        },
+        {
+            "year": 2002,
+            "pos": 5,
+            "points": 11,
+            "wins": 0
+        },
+        {
+            "year": 2001,
+            "pos": 4,
+            "points": 21,
+            "wins": 0
+        },
+        {
+            "year": 2000,
+            "pos": 8,
+            "points": 6,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 433,
+            "name": "Adrian Sutil",
+            "photo": "assets/img/drivers/433.jpg"
+        },
+        {
+            "id": 799,
+            "name": "Felipe Nasr",
+            "photo": "assets/img/drivers/799.jpg"
+        },
+        {
+            "id": 1138,
+            "name": "Guanyu Zhou",
+            "photo": "assets/img/drivers/1138.jpg"
+        },
+        {
+            "id": 60,
+            "name": "Heinz-Harald Frentzen",
+            "photo": "assets/img/drivers/60.jpg"
+        },
+        {
+            "id": 755,
+            "name": "Marcus Ericsson",
+            "photo": "assets/img/drivers/755.jpg"
+        },
+        {
+            "id": 850,
+            "name": "Pascal Wehrlein",
+            "photo": "assets/img/drivers/850.jpg"
+        },
+        {
+            "id": 58,
+            "name": "Pedro Diniz",
+            "photo": "assets/img/drivers/58.jpg"
+        }
+    ]
+}

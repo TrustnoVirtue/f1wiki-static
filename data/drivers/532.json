@@ -1,0 +1,63 @@
+{
+    "driver": {
+        "id": 532,
+        "slug": "luca-badoer",
+        "name": "Luca Badoer",
+        "nat": "Italian",
+        "code": "BAD",
+        "number": "",
+        "dob": "1971-01-25",
+        "photo": "assets/img/drivers/532.jpg",
+        "credit": "Photo: Antiuser · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Luca_Badoer_2021_(cropped).jpg",
+        "teamId": 41,
+        "teamName": "Ferrari",
+        "color": "#E8002D",
+        "stats": {
+            "starts": 2,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 0,
+            "championships": 0,
+            "best": 25,
+            "bestYear": 2009
+        },
+        "firstSeason": 2009,
+        "lastSeason": 2009
+    },
+    "seasons": [
+        {
+            "year": 2009,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 25,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 511,
+            "race": "2009 Belgian Grand Prix",
+            "year": 2009,
+            "round": 12,
+            "pos": "14",
+            "points": 0,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 510,
+            "race": "2009 European Grand Prix",
+            "year": 2009,
+            "round": 11,
+            "pos": "17",
+            "points": 0,
+            "team": "Ferrari",
+            "status": "+1 Lap"
+        }
+    ]
+}

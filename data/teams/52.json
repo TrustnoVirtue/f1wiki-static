@@ -1,0 +1,98 @@
+{
+    "team": {
+        "id": 52,
+        "slug": "minardi",
+        "name": "Minardi",
+        "nat": "Italian",
+        "color": "#111111",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 204,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 10,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2005
+    },
+    "seasons": [
+        {
+            "year": 2005,
+            "pos": 10,
+            "points": 7,
+            "wins": 0
+        },
+        {
+            "year": 2004,
+            "pos": 10,
+            "points": 1,
+            "wins": 0
+        },
+        {
+            "year": 2003,
+            "pos": 10,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2002,
+            "pos": 9,
+            "points": 2,
+            "wins": 0
+        },
+        {
+            "year": 2001,
+            "pos": 0,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2000,
+            "pos": 0,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 182,
+            "name": "Alex Yoong",
+            "photo": "assets/img/drivers/182.jpg"
+        },
+        {
+            "id": 293,
+            "name": "Gianmaria Bruni",
+            "photo": "assets/img/drivers/293.jpg"
+        },
+        {
+            "id": 66,
+            "name": "Jos Verstappen",
+            "photo": "assets/img/drivers/66.jpg"
+        },
+        {
+            "id": 262,
+            "name": "Nicolas Kiesa",
+            "photo": "assets/img/drivers/262.jpg"
+        },
+        {
+            "id": 338,
+            "name": "Patrick Friesacher",
+            "photo": "assets/img/drivers/338.jpg"
+        },
+        {
+            "id": 165,
+            "name": "Tarso Marques",
+            "photo": "assets/img/drivers/165.jpg"
+        },
+        {
+            "id": 264,
+            "name": "Zsolt Baumgartner",
+            "photo": "assets/img/drivers/264.jpg"
+        }
+    ]
+}

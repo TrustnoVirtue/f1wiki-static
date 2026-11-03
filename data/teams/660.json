@@ -1,0 +1,81 @@
+{
+    "team": {
+        "id": 660,
+        "slug": "lotus_f1",
+        "name": "Lotus F1",
+        "nat": "British",
+        "color": "#FFB800",
+        "logo": "assets/img/teams/660.jpg",
+        "credit": "Logo: Matthias v.d. Elbe · CC BY-SA 3.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Lotus_F1_Team_logo.jpg",
+        "stats": {
+            "starts": 154,
+            "wins": 2,
+            "podiums": 25,
+            "poles": 0,
+            "points": 706,
+            "championships": 0
+        },
+        "firstSeason": 2012,
+        "lastSeason": 2015
+    },
+    "seasons": [
+        {
+            "year": 2015,
+            "pos": 6,
+            "points": 78,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "pos": 8,
+            "points": 10,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "pos": 4,
+            "points": 315,
+            "wins": 1
+        },
+        {
+            "year": 2012,
+            "pos": 4,
+            "points": 303,
+            "wins": 1
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 688,
+            "race": "2013 Australian Grand Prix",
+            "year": 2013,
+            "driver": "Kimi Räikkönen",
+            "driverId": 161
+        },
+        {
+            "raceId": 656,
+            "race": "2012 Abu Dhabi Grand Prix",
+            "year": 2012,
+            "driver": "Kimi Räikkönen",
+            "driverId": 161
+        }
+    ],
+    "lineup": [
+        {
+            "id": 432,
+            "name": "Heikki Kovalainen",
+            "photo": "assets/img/drivers/432.jpg"
+        },
+        {
+            "id": 614,
+            "name": "Jérôme d'Ambrosio",
+            "photo": "assets/img/drivers/614.jpg"
+        },
+        {
+            "id": 615,
+            "name": "Pastor Maldonado",
+            "photo": "assets/img/drivers/615.jpg"
+        }
+    ]
+}

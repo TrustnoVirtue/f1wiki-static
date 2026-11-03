@@ -1,0 +1,192 @@
+{
+    "driver": {
+        "id": 82,
+        "slug": "luciano-burti",
+        "name": "Luciano Burti",
+        "nat": "Brazilian",
+        "code": "",
+        "number": "",
+        "dob": "1975-03-05",
+        "photo": "assets/img/drivers/82.jpg",
+        "credit": "Photo: Daniela_and_Luciano_Burti.jpg: senna.org.br/Carina Zaratin derivative work: Minerva97 · CC BY 2.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Luciano_Burti_in_2010.jpg",
+        "teamId": 54,
+        "teamName": "Prost",
+        "color": "#1B3D6D",
+        "stats": {
+            "starts": 15,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 0,
+            "championships": 0,
+            "best": 0,
+            "bestYear": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2001
+    },
+    "seasons": [
+        {
+            "year": 2001,
+            "teamId": 54,
+            "team": "Prost",
+            "color": "#1B3D6D",
+            "pos": 0,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2000,
+            "teamId": 71,
+            "team": "Jaguar",
+            "color": "#0B5C2E",
+            "pos": 0,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 157,
+            "race": "2001 Belgian Grand Prix",
+            "year": 2001,
+            "round": 14,
+            "pos": "R",
+            "points": 0,
+            "team": "Prost",
+            "status": "Collision"
+        },
+        {
+            "raceId": 156,
+            "race": "2001 Hungarian Grand Prix",
+            "year": 2001,
+            "round": 13,
+            "pos": "R",
+            "points": 0,
+            "team": "Prost",
+            "status": "Spun off"
+        },
+        {
+            "raceId": 155,
+            "race": "2001 German Grand Prix",
+            "year": 2001,
+            "round": 12,
+            "pos": "R",
+            "points": 0,
+            "team": "Prost",
+            "status": "Spun off"
+        },
+        {
+            "raceId": 154,
+            "race": "2001 British Grand Prix",
+            "year": 2001,
+            "round": 11,
+            "pos": "R",
+            "points": 0,
+            "team": "Prost",
+            "status": "Engine"
+        },
+        {
+            "raceId": 153,
+            "race": "2001 French Grand Prix",
+            "year": 2001,
+            "round": 10,
+            "pos": "10",
+            "points": 0,
+            "team": "Prost",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 152,
+            "race": "2001 European Grand Prix",
+            "year": 2001,
+            "round": 9,
+            "pos": "12",
+            "points": 0,
+            "team": "Prost",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 151,
+            "race": "2001 Canadian Grand Prix",
+            "year": 2001,
+            "round": 8,
+            "pos": "8",
+            "points": 0,
+            "team": "Prost",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 150,
+            "race": "2001 Monaco Grand Prix",
+            "year": 2001,
+            "round": 7,
+            "pos": "R",
+            "points": 0,
+            "team": "Prost",
+            "status": "Gearbox"
+        },
+        {
+            "raceId": 149,
+            "race": "2001 Austrian Grand Prix",
+            "year": 2001,
+            "round": 6,
+            "pos": "11",
+            "points": 0,
+            "team": "Prost",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 148,
+            "race": "2001 Spanish Grand Prix",
+            "year": 2001,
+            "round": 5,
+            "pos": "11",
+            "points": 0,
+            "team": "Prost",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 147,
+            "race": "2001 San Marino Grand Prix",
+            "year": 2001,
+            "round": 4,
+            "pos": "11",
+            "points": 0,
+            "team": "Jaguar",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 146,
+            "race": "2001 Brazilian Grand Prix",
+            "year": 2001,
+            "round": 3,
+            "pos": "R",
+            "points": 0,
+            "team": "Jaguar",
+            "status": "Engine"
+        },
+        {
+            "raceId": 145,
+            "race": "2001 Malaysian Grand Prix",
+            "year": 2001,
+            "round": 2,
+            "pos": "10",
+            "points": 0,
+            "team": "Jaguar",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 144,
+            "race": "2001 Australian Grand Prix",
+            "year": 2001,
+            "round": 1,
+            "pos": "8",
+            "points": 0,
+            "team": "Jaguar",
+            "status": "+1 Lap"
+        }
+    ]
+}

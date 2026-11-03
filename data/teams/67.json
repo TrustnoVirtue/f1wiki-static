@@ -1,0 +1,50 @@
+{
+    "team": {
+        "id": 67,
+        "slug": "arrows",
+        "name": "Arrows",
+        "nat": "British",
+        "color": "#FF6A00",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 90,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 10,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2002
+    },
+    "seasons": [
+        {
+            "year": 2002,
+            "pos": 11,
+            "points": 2,
+            "wins": 0
+        },
+        {
+            "year": 2001,
+            "pos": 10,
+            "points": 1,
+            "wins": 0
+        },
+        {
+            "year": 2000,
+            "pos": 7,
+            "points": 7,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 166,
+            "name": "Enrique Bernoldi",
+            "photo": "assets/img/drivers/166.jpg"
+        }
+    ]
+}

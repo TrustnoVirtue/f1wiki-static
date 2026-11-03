@@ -1,0 +1,60 @@
+{
+    "team": {
+        "id": 662,
+        "slug": "marussia",
+        "name": "Marussia",
+        "nat": "Russian",
+        "color": "#6E6E6E",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 109,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 2,
+            "championships": 0
+        },
+        "firstSeason": 2012,
+        "lastSeason": 2014
+    },
+    "seasons": [
+        {
+            "year": 2014,
+            "pos": 9,
+            "points": 2,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "pos": 10,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2012,
+            "pos": 11,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 709,
+            "name": "Jules Bianchi",
+            "photo": "assets/img/drivers/709.jpg"
+        },
+        {
+            "id": 710,
+            "name": "Max Chilton",
+            "photo": "assets/img/drivers/710.jpg"
+        },
+        {
+            "id": 301,
+            "name": "Timo Glock",
+            "photo": "assets/img/drivers/301.jpg"
+        }
+    ]
+}

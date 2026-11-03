@@ -1,0 +1,44 @@
+{
+    "team": {
+        "id": 568,
+        "slug": "virgin",
+        "name": "Virgin",
+        "nat": "British",
+        "color": "#E4002B",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 76,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2010,
+        "lastSeason": 2011
+    },
+    "seasons": [
+        {
+            "year": 2011,
+            "pos": 12,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2010,
+            "pos": 12,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 570,
+            "name": "Lucas di Grassi",
+            "photo": "assets/img/drivers/570.jpg"
+        }
+    ]
+}

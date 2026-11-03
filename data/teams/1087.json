@@ -1,0 +1,78 @@
+{
+    "team": {
+        "id": 1087,
+        "slug": "aston_martin",
+        "name": "Aston Martin",
+        "nat": "British",
+        "color": "#229971",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 265,
+            "wins": 0,
+            "podiums": 9,
+            "poles": 0,
+            "points": 579,
+            "championships": 0
+        },
+        "firstSeason": 2021,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "pos": 10,
+            "points": 7,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "pos": 7,
+            "points": 89,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "pos": 5,
+            "points": 94,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "pos": 5,
+            "points": 280,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "pos": 7,
+            "points": 55,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "pos": 7,
+            "points": 77,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 163,
+            "name": "Fernando Alonso",
+            "photo": "assets/img/drivers/163.jpg"
+        },
+        {
+            "id": 898,
+            "name": "Lance Stroll",
+            "photo": "assets/img/drivers/898.jpg"
+        },
+        {
+            "id": 441,
+            "name": "Sebastian Vettel",
+            "photo": "assets/img/drivers/441.jpg"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "driver": {
+        "id": 1138,
+        "slug": "guanyu-zhou",
+        "name": "Guanyu Zhou",
+        "nat": "Chinese",
+        "code": "ZHO",
+        "number": "",
+        "dob": "1999-05-30",
+        "photo": "assets/img/drivers/1138.jpg",
+        "credit": "Photo: Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Zhou_Guanyu_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A7999).jpg",
+        "teamId": 56,
+        "teamName": "Sauber",
+        "color": "#52E252",
+        "stats": {
+            "starts": 68,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 2,
+            "points": 16,
+            "championships": 0,
+            "best": 18,
+            "bestYear": 2022
+        },
+        "firstSeason": 2022,
+        "lastSeason": 2024
+    },
+    "seasons": [
+        {
+            "year": 2024,
+            "teamId": 56,
+            "team": "Sauber",
+            "color": "#52E252",
+            "pos": 20,
+            "points": 4,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "teamId": 991,
+            "team": "Alfa Romeo",
+            "color": "#FF87BC",
+            "pos": 18,
+            "points": 6,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "teamId": 991,
+            "team": "Alfa Romeo",
+            "color": "#FF87BC",
+            "pos": 18,
+            "points": 6,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1237,
+            "race": "2024 Abu Dhabi Grand Prix",
+            "year": 2024,
+            "round": 24,
+            "pos": "13",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1236,
+            "race": "2024 Qatar Grand Prix",
+            "year": 2024,
+            "round": 23,
+            "pos": "8",
+            "points": 4,
+            "team": "Sauber",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1235,
+            "race": "2024 Las Vegas Grand Prix",
+            "year": 2024,
+            "round": 22,
+            "pos": "13",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1234,
+            "race": "2024 São Paulo Grand Prix",
+            "year": 2024,
+            "round": 21,
+            "pos": "15",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1233,
+            "race": "2024 Mexico City Grand Prix",
+            "year": 2024,
+            "round": 20,
+            "pos": "15",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1232,
+            "race": "2024 United States Grand Prix",
+            "year": 2024,
+            "round": 19,
+            "pos": "19",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1231,
+            "race": "2024 Singapore Grand Prix",
+            "year": 2024,
+            "round": 18,
+            "pos": "15",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1230,
+            "race": "2024 Azerbaijan Grand Prix",
+            "year": 2024,
+            "round": 17,
+            "pos": "14",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1229,
+            "race": "2024 Italian Grand Prix",
+            "year": 2024,
+            "round": 16,
+            "pos": "18",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1228,
+            "race": "2024 Dutch Grand Prix",
+            "year": 2024,
+            "round": 15,
+            "pos": "20",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1227,
+            "race": "2024 Belgian Grand Prix",
+            "year": 2024,
+            "round": 14,
+            "pos": "R",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1226,
+            "race": "2024 Hungarian Grand Prix",
+            "year": 2024,
+            "round": 13,
+            "pos": "19",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1225,
+            "race": "2024 British Grand Prix",
+            "year": 2024,
+            "round": 12,
+            "pos": "18",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1224,
+            "race": "2024 Austrian Grand Prix",
+            "year": 2024,
+            "round": 11,
+            "pos": "17",
+            "points": 0,
+            "team": "Sauber",
+            "status": "Lapped"
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "driver": {
+        "id": 1201,
+        "slug": "liam-lawson",
+        "name": "Liam Lawson",
+        "nat": "New Zealander",
+        "code": "LAW",
+        "number": "",
+        "dob": "2002-02-11",
+        "photo": "assets/img/drivers/1201.jpg",
+        "credit": "Photo: Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk,_Melbourne_(028A7795).jpg",
+        "teamId": 1238,
+        "teamName": "RB F1 Team",
+        "color": "#6692FF",
+        "stats": {
+            "starts": 54,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 116,
+            "championships": 0,
+            "best": 9,
+            "bestYear": 2026
+        },
+        "firstSeason": 2023,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 9,
+            "points": 79,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "teamId": 1238,
+            "team": "RB F1 Team",
+            "color": "#6692FF",
+            "pos": 14,
+            "points": 38,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "teamId": 1238,
+            "team": "RB F1 Team",
+            "color": "#6692FF",
+            "pos": 21,
+            "points": 4,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "teamId": 1038,
+            "team": "AlphaTauri",
+            "color": "#5E8FAA",
+            "pos": 20,
+            "points": 2,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "round": 19,
+            "pos": "9",
+            "points": 2,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1339,
+            "race": "2026 United States Grand Prix",
+            "year": 2026,
+            "round": 18,
+            "pos": "9",
+            "points": 2,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1338,
+            "race": "2026 Singapore Grand Prix",
+            "year": 2026,
+            "round": 17,
+            "pos": "7",
+            "points": 6,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1337,
+            "race": "2026 Bahrain Grand Prix in Malaysia",
+            "year": 2026,
+            "round": 16,
+            "pos": "7",
+            "points": 6,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1336,
+            "race": "2026 Azerbaijan Grand Prix",
+            "year": 2026,
+            "round": 15,
+            "pos": "12",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1335,
+            "race": "2026 Spanish Grand Prix",
+            "year": 2026,
+            "round": 14,
+            "pos": "6",
+            "points": 8,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1333,
+            "race": "2026 Italian Grand Prix",
+            "year": 2026,
+            "round": 13,
+            "pos": "14",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1332,
+            "race": "2026 Dutch Grand Prix",
+            "year": 2026,
+            "round": 12,
+            "pos": "7",
+            "points": 6,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1331,
+            "race": "2026 Hungarian Grand Prix",
+            "year": 2026,
+            "round": 11,
+            "pos": "8",
+            "points": 4,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1330,
+            "race": "2026 Belgian Grand Prix",
+            "year": 2026,
+            "round": 10,
+            "pos": "12",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1329,
+            "race": "2026 British Grand Prix",
+            "year": 2026,
+            "round": 9,
+            "pos": "6",
+            "points": 8,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1328,
+            "race": "2026 Austrian Grand Prix",
+            "year": 2026,
+            "round": 8,
+            "pos": "9",
+            "points": 2,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1327,
+            "race": "2026 Barcelona Grand Prix",
+            "year": 2026,
+            "round": 7,
+            "pos": "8",
+            "points": 4,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1326,
+            "race": "2026 Monaco Grand Prix",
+            "year": 2026,
+            "round": 6,
+            "pos": "5",
+            "points": 10,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        }
+    ]
+}

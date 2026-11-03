@@ -1,0 +1,802 @@
+[
+    {
+        "id": 991,
+        "slug": "alfa",
+        "name": "Alfa Romeo",
+        "nat": "Swiss",
+        "color": "#FF87BC",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 208,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 147,
+            "championships": 0
+        },
+        "firstSeason": 2019,
+        "lastSeason": 2023
+    },
+    {
+        "id": 1038,
+        "slug": "alphatauri",
+        "name": "AlphaTauri",
+        "nat": "Italian",
+        "color": "#5E8FAA",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 166,
+            "wins": 1,
+            "podiums": 2,
+            "poles": 0,
+            "points": 306,
+            "championships": 0
+        },
+        "firstSeason": 2020,
+        "lastSeason": 2023
+    },
+    {
+        "id": 1088,
+        "slug": "alpine",
+        "name": "Alpine F1 Team",
+        "nat": "French",
+        "color": "#FF87BC",
+        "logo": "assets/img/teams/1088.png",
+        "credit": "Logo: originally uploaded to en.wikipedia by SuperUserCode under the file name Alpine logo.svg.(+/−) · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Alpine_logo.svg",
+        "stats": {
+            "starts": 266,
+            "wins": 1,
+            "podiums": 6,
+            "poles": 1,
+            "points": 590,
+            "championships": 0
+        },
+        "firstSeason": 2021,
+        "lastSeason": 2026
+    },
+    {
+        "id": 67,
+        "slug": "arrows",
+        "name": "Arrows",
+        "nat": "British",
+        "color": "#FF6A00",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 90,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 10,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2002
+    },
+    {
+        "id": 1087,
+        "slug": "aston_martin",
+        "name": "Aston Martin",
+        "nat": "British",
+        "color": "#229971",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 265,
+            "wins": 0,
+            "podiums": 9,
+            "poles": 0,
+            "points": 579,
+            "championships": 0
+        },
+        "firstSeason": 2021,
+        "lastSeason": 2026
+    },
+    {
+        "id": 1346,
+        "slug": "audi",
+        "name": "Audi",
+        "nat": "German",
+        "color": "#C8102E",
+        "logo": "assets/img/teams/1346.png",
+        "credit": "Logo: Audi Revolut F1 Team / Sauber Motorsports AG · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Audif1.com_logo17_(cropped).svg",
+        "stats": {
+            "starts": 38,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 21,
+            "championships": 0
+        },
+        "firstSeason": 2026,
+        "lastSeason": 2026
+    },
+    {
+        "id": 46,
+        "slug": "bar",
+        "name": "BAR",
+        "nat": "British",
+        "color": "#A7A9AC",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 204,
+            "wins": 0,
+            "podiums": 15,
+            "poles": 2,
+            "points": 227,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2005
+    },
+    {
+        "id": 48,
+        "slug": "benetton",
+        "name": "Benetton",
+        "nat": "Italian",
+        "color": "#00A19C",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 68,
+            "wins": 0,
+            "podiums": 4,
+            "poles": 0,
+            "points": 30,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2001
+    },
+    {
+        "id": 384,
+        "slug": "bmw_sauber",
+        "name": "BMW Sauber",
+        "nat": "German",
+        "color": "#293B6A",
+        "logo": "assets/img/teams/384.png",
+        "credit": "Logo: BMW · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:BMW.svg",
+        "stats": {
+            "starts": 140,
+            "wins": 1,
+            "podiums": 17,
+            "poles": 1,
+            "points": 308,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2009
+    },
+    {
+        "id": 518,
+        "slug": "brawn",
+        "name": "Brawn",
+        "nat": "British",
+        "color": "#B8FD36",
+        "logo": "assets/img/teams/518.png",
+        "credit": "Logo: Brawn GP · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Brawn_GP_logo.svg",
+        "stats": {
+            "starts": 34,
+            "wins": 8,
+            "podiums": 15,
+            "poles": 5,
+            "points": 172,
+            "championships": 1
+        },
+        "firstSeason": 2009,
+        "lastSeason": 2009
+    },
+    {
+        "id": 1347,
+        "slug": "cadillac",
+        "name": "Cadillac F1 Team",
+        "nat": "American",
+        "color": "#C0C0C0",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 38,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2026,
+        "lastSeason": 2026
+    },
+    {
+        "id": 664,
+        "slug": "caterham",
+        "name": "Caterham",
+        "nat": "Malaysian",
+        "color": "#009B48",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 112,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2012,
+        "lastSeason": 2014
+    },
+    {
+        "id": 41,
+        "slug": "ferrari",
+        "name": "Ferrari",
+        "nat": "Italian",
+        "color": "#E8002D",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 1044,
+            "wins": 125,
+            "podiums": 413,
+            "poles": 128,
+            "points": 8634.5,
+            "championships": 7
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2026
+    },
+    {
+        "id": 479,
+        "slug": "force_india",
+        "name": "Force India",
+        "nat": "Indian",
+        "color": "#F596C8",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 424,
+            "wins": 0,
+            "podiums": 6,
+            "poles": 1,
+            "points": 1098,
+            "championships": 0
+        },
+        "firstSeason": 2008,
+        "lastSeason": 2018
+    },
+    {
+        "id": 848,
+        "slug": "haas",
+        "name": "Haas F1 Team",
+        "nat": "American",
+        "color": "#B6BABD",
+        "logo": "assets/img/teams/848.png",
+        "credit": "Logo: Haas F1 Team · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:TGR_Haas_F1_Team_Logo_(2026).svg",
+        "stats": {
+            "starts": 466,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 392,
+            "championships": 0
+        },
+        "firstSeason": 2016,
+        "lastSeason": 2026
+    },
+    {
+        "id": 381,
+        "slug": "honda",
+        "name": "Honda",
+        "nat": "Japanese",
+        "color": "#E40521",
+        "logo": "assets/img/teams/381.png",
+        "credit": "Logo: Honda Motor Co., Ltd. and its subsidiaries and affiliates. · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Honda_new_h_mark.svg",
+        "stats": {
+            "starts": 106,
+            "wins": 1,
+            "podiums": 4,
+            "poles": 1,
+            "points": 106,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2008
+    },
+    {
+        "id": 567,
+        "slug": "hrt",
+        "name": "HRT",
+        "nat": "Spanish",
+        "color": "#E10600",
+        "logo": "assets/img/teams/567.png",
+        "credit": "Logo: Unknown authorUnknown author · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:HRT_F1_TEAM_2012.svg",
+        "stats": {
+            "starts": 112,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2010,
+        "lastSeason": 2012
+    },
+    {
+        "id": 71,
+        "slug": "jaguar",
+        "name": "Jaguar",
+        "nat": "British",
+        "color": "#0B5C2E",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 170,
+            "wins": 0,
+            "podiums": 2,
+            "poles": 0,
+            "points": 49,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2004
+    },
+    {
+        "id": 61,
+        "slug": "jordan",
+        "name": "Jordan",
+        "nat": "Irish",
+        "color": "#F7D117",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 208,
+            "wins": 1,
+            "podiums": 4,
+            "poles": 0,
+            "points": 75,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2005
+    },
+    {
+        "id": 565,
+        "slug": "lotus_racing",
+        "name": "Lotus",
+        "nat": "Malaysian",
+        "color": "#009B77",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 76,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2010,
+        "lastSeason": 2011
+    },
+    {
+        "id": 660,
+        "slug": "lotus_f1",
+        "name": "Lotus F1",
+        "nat": "British",
+        "color": "#FFB800",
+        "logo": "assets/img/teams/660.jpg",
+        "credit": "Logo: Matthias v.d. Elbe · CC BY-SA 3.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Lotus_F1_Team_logo.jpg",
+        "stats": {
+            "starts": 154,
+            "wins": 2,
+            "podiums": 25,
+            "poles": 0,
+            "points": 706,
+            "championships": 0
+        },
+        "firstSeason": 2012,
+        "lastSeason": 2015
+    },
+    {
+        "id": 804,
+        "slug": "manor",
+        "name": "Manor Marussia",
+        "nat": "British",
+        "color": "#6E6E6E",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 78,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 1,
+            "championships": 0
+        },
+        "firstSeason": 2015,
+        "lastSeason": 2016
+    },
+    {
+        "id": 662,
+        "slug": "marussia",
+        "name": "Marussia",
+        "nat": "Russian",
+        "color": "#6E6E6E",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 109,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 2,
+            "championships": 0
+        },
+        "firstSeason": 2012,
+        "lastSeason": 2014
+    },
+    {
+        "id": 65,
+        "slug": "mclaren",
+        "name": "McLaren",
+        "nat": "British",
+        "color": "#FF8000",
+        "logo": "assets/img/teams/65.png",
+        "credit": "Logo: https://www.mclaren.com/ · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:McLaren_Racing_logo.png",
+        "stats": {
+            "starts": 1044,
+            "wins": 82,
+            "podiums": 260,
+            "poles": 77,
+            "points": 5837,
+            "championships": 2
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2026
+    },
+    {
+        "id": 563,
+        "slug": "mercedes",
+        "name": "Mercedes",
+        "nat": "German",
+        "color": "#27F4D2",
+        "logo": "assets/img/teams/563.png",
+        "credit": "Logo: Mercedes-AMG Petronas F1 Team · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-AMG_Petronas_F1_Team_logo_(2026).svg",
+        "stats": {
+            "starts": 696,
+            "wins": 134,
+            "podiums": 317,
+            "poles": 148,
+            "points": 8580.5,
+            "championships": 9
+        },
+        "firstSeason": 2010,
+        "lastSeason": 2026
+    },
+    {
+        "id": 386,
+        "slug": "mf1",
+        "name": "MF1",
+        "nat": "Russian",
+        "color": "#3671C6",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 28,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2006
+    },
+    {
+        "id": 52,
+        "slug": "minardi",
+        "name": "Minardi",
+        "nat": "Italian",
+        "color": "#111111",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 204,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 10,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2005
+    },
+    {
+        "id": 54,
+        "slug": "prost",
+        "name": "Prost",
+        "nat": "French",
+        "color": "#1B3D6D",
+        "logo": "assets/img/teams/54.png",
+        "credit": "Logo: https://www.freepng.es/ · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Prost_Grand_Prix_Formula_One_Logo.png",
+        "stats": {
+            "starts": 67,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 4,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2001
+    },
+    {
+        "id": 992,
+        "slug": "racing_point",
+        "name": "Racing Point",
+        "nat": "British",
+        "color": "#F596C8",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 76,
+            "wins": 1,
+            "podiums": 4,
+            "poles": 1,
+            "points": 283,
+            "championships": 0
+        },
+        "firstSeason": 2019,
+        "lastSeason": 2020
+    },
+    {
+        "id": 1238,
+        "slug": "rb",
+        "name": "RB F1 Team",
+        "nat": "Italian",
+        "color": "#6692FF",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 134,
+            "wins": 0,
+            "podiums": 1,
+            "poles": 0,
+            "points": 224,
+            "championships": 0
+        },
+        "firstSeason": 2024,
+        "lastSeason": 2026
+    },
+    {
+        "id": 335,
+        "slug": "red_bull",
+        "name": "Red Bull",
+        "nat": "Austrian",
+        "color": "#3671C6",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 874,
+            "wins": 133,
+            "podiums": 310,
+            "poles": 113,
+            "points": 8443,
+            "championships": 6
+        },
+        "firstSeason": 2005,
+        "lastSeason": 2026
+    },
+    {
+        "id": 208,
+        "slug": "renault",
+        "name": "Renault",
+        "nat": "French",
+        "color": "#FFF500",
+        "logo": "assets/img/teams/208.png",
+        "credit": "Logo: Renault S.A. · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Renault_logo.svg",
+        "stats": {
+            "starts": 556,
+            "wins": 20,
+            "podiums": 62,
+            "poles": 20,
+            "points": 1465,
+            "championships": 2
+        },
+        "firstSeason": 2002,
+        "lastSeason": 2020
+    },
+    {
+        "id": 56,
+        "slug": "sauber",
+        "name": "Sauber",
+        "nat": "Swiss",
+        "color": "#52E252",
+        "logo": "assets/img/teams/56.jpg",
+        "credit": "Logo: Wikimedia contributor · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Logo_sauber_2023.jpg",
+        "stats": {
+            "starts": 658,
+            "wins": 0,
+            "podiums": 7,
+            "poles": 0,
+            "points": 547,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2025
+    },
+    {
+        "id": 434,
+        "slug": "spyker",
+        "name": "Spyker",
+        "nat": "Dutch",
+        "color": "#F26522",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 34,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 1,
+            "championships": 0
+        },
+        "firstSeason": 2007,
+        "lastSeason": 2007
+    },
+    {
+        "id": 406,
+        "slug": "spyker_mf1",
+        "name": "Spyker MF1",
+        "nat": "Dutch",
+        "color": "#229971",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 8,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2006
+    },
+    {
+        "id": 387,
+        "slug": "super_aguri",
+        "name": "Super Aguri",
+        "nat": "Japanese",
+        "color": "#E60012",
+        "logo": "assets/img/teams/387.png",
+        "credit": "Logo: Flyz1 · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Super_Aguri_logo.svg",
+        "stats": {
+            "starts": 78,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 4,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2008
+    },
+    {
+        "id": 383,
+        "slug": "toro_rosso",
+        "name": "Toro Rosso",
+        "nat": "Italian",
+        "color": "#4E7C9B",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 536,
+            "wins": 1,
+            "podiums": 3,
+            "poles": 1,
+            "points": 500,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2019
+    },
+    {
+        "id": 206,
+        "slug": "toyota",
+        "name": "Toyota",
+        "nat": "Japanese",
+        "color": "#CC0000",
+        "logo": "assets/img/teams/206.png",
+        "credit": "Logo: Toyota · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Toyota_logo.svg",
+        "stats": {
+            "starts": 280,
+            "wins": 0,
+            "podiums": 13,
+            "poles": 3,
+            "points": 278.5,
+            "championships": 0
+        },
+        "firstSeason": 2002,
+        "lastSeason": 2009
+    },
+    {
+        "id": 568,
+        "slug": "virgin",
+        "name": "Virgin",
+        "nat": "British",
+        "color": "#E4002B",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 76,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2010,
+        "lastSeason": 2011
+    },
+    {
+        "id": 44,
+        "slug": "williams",
+        "name": "Williams",
+        "nat": "British",
+        "color": "#64C4FF",
+        "logo": "assets/img/teams/44.png",
+        "credit": "Logo: Atlassian Williams F1 Team · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Atlassian_Williams_F1_Team_logo.svg",
+        "stats": {
+            "starts": 1043,
+            "wins": 11,
+            "podiums": 67,
+            "poles": 20,
+            "points": 1781.5,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2026
+    }
+]

@@ -1,0 +1,192 @@
+{
+    "driver": {
+        "id": 1187,
+        "slug": "logan-sargeant",
+        "name": "Logan Sargeant",
+        "nat": "American",
+        "code": "SAR",
+        "number": "",
+        "dob": "2000-12-31",
+        "photo": "assets/img/drivers/1187.jpg",
+        "credit": "Photo: JazzyJoeyD · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Logan_Sargeant_NYC_(cropped).jpg",
+        "teamId": 44,
+        "teamName": "Williams",
+        "color": "#64C4FF",
+        "stats": {
+            "starts": 36,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 1,
+            "championships": 0,
+            "best": 21,
+            "bestYear": 2023
+        },
+        "firstSeason": 2023,
+        "lastSeason": 2024
+    },
+    "seasons": [
+        {
+            "year": 2024,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 23,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 21,
+            "points": 1,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1228,
+            "race": "2024 Dutch Grand Prix",
+            "year": 2024,
+            "round": 15,
+            "pos": "16",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1227,
+            "race": "2024 Belgian Grand Prix",
+            "year": 2024,
+            "round": 14,
+            "pos": "17",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1226,
+            "race": "2024 Hungarian Grand Prix",
+            "year": 2024,
+            "round": 13,
+            "pos": "17",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1225,
+            "race": "2024 British Grand Prix",
+            "year": 2024,
+            "round": 12,
+            "pos": "11",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1224,
+            "race": "2024 Austrian Grand Prix",
+            "year": 2024,
+            "round": 11,
+            "pos": "19",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1223,
+            "race": "2024 Spanish Grand Prix",
+            "year": 2024,
+            "round": 10,
+            "pos": "20",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1222,
+            "race": "2024 Canadian Grand Prix",
+            "year": 2024,
+            "round": 9,
+            "pos": "R",
+            "points": 0,
+            "team": "Williams",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1221,
+            "race": "2024 Monaco Grand Prix",
+            "year": 2024,
+            "round": 8,
+            "pos": "15",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1220,
+            "race": "2024 Emilia Romagna Grand Prix",
+            "year": 2024,
+            "round": 7,
+            "pos": "17",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1219,
+            "race": "2024 Miami Grand Prix",
+            "year": 2024,
+            "round": 6,
+            "pos": "R",
+            "points": 0,
+            "team": "Williams",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1218,
+            "race": "2024 Chinese Grand Prix",
+            "year": 2024,
+            "round": 5,
+            "pos": "17",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1217,
+            "race": "2024 Japanese Grand Prix",
+            "year": 2024,
+            "round": 4,
+            "pos": "17",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1215,
+            "race": "2024 Saudi Arabian Grand Prix",
+            "year": 2024,
+            "round": 2,
+            "pos": "14",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1214,
+            "race": "2024 Bahrain Grand Prix",
+            "year": 2024,
+            "round": 1,
+            "pos": "20",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        }
+    ]
+}

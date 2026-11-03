@@ -1,0 +1,300 @@
+{
+    "driver": {
+        "id": 625,
+        "slug": "daniel-ricciardo",
+        "name": "Daniel Ricciardo",
+        "nat": "Australian",
+        "code": "RIC",
+        "number": "",
+        "dob": "1989-07-01",
+        "photo": "assets/img/drivers/625.jpg",
+        "credit": "Photo: DaHuzyBru · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Daniel_Ricciardo_January_2024.jpg",
+        "teamId": 1238,
+        "teamName": "RB F1 Team",
+        "color": "#6692FF",
+        "stats": {
+            "starts": 257,
+            "wins": 8,
+            "podiums": 32,
+            "poles": 3,
+            "fastestLaps": 17,
+            "points": 1320,
+            "championships": 0,
+            "best": 3,
+            "bestYear": 2014
+        },
+        "firstSeason": 2011,
+        "lastSeason": 2024
+    },
+    "seasons": [
+        {
+            "year": 2024,
+            "teamId": 1238,
+            "team": "RB F1 Team",
+            "color": "#6692FF",
+            "pos": 17,
+            "points": 12,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "teamId": 1038,
+            "team": "AlphaTauri",
+            "color": "#5E8FAA",
+            "pos": 17,
+            "points": 6,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 11,
+            "points": 37,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 8,
+            "points": 115,
+            "wins": 1
+        },
+        {
+            "year": 2020,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 5,
+            "points": 119,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 9,
+            "points": 54,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 6,
+            "points": 170,
+            "wins": 2
+        },
+        {
+            "year": 2017,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 5,
+            "points": 200,
+            "wins": 1
+        },
+        {
+            "year": 2016,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 3,
+            "points": 256,
+            "wins": 1
+        },
+        {
+            "year": 2015,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 8,
+            "points": 92,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 3,
+            "points": 238,
+            "wins": 3
+        },
+        {
+            "year": 2013,
+            "teamId": 383,
+            "team": "Toro Rosso",
+            "color": "#4E7C9B",
+            "pos": 14,
+            "points": 20,
+            "wins": 0
+        },
+        {
+            "year": 2012,
+            "teamId": 383,
+            "team": "Toro Rosso",
+            "color": "#4E7C9B",
+            "pos": 18,
+            "points": 10,
+            "wins": 0
+        },
+        {
+            "year": 2011,
+            "teamId": 567,
+            "team": "HRT",
+            "color": "#E10600",
+            "pos": 27,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1231,
+            "race": "2024 Singapore Grand Prix",
+            "year": 2024,
+            "round": 18,
+            "pos": "18",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1230,
+            "race": "2024 Azerbaijan Grand Prix",
+            "year": 2024,
+            "round": 17,
+            "pos": "13",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1229,
+            "race": "2024 Italian Grand Prix",
+            "year": 2024,
+            "round": 16,
+            "pos": "13",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1228,
+            "race": "2024 Dutch Grand Prix",
+            "year": 2024,
+            "round": 15,
+            "pos": "12",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1227,
+            "race": "2024 Belgian Grand Prix",
+            "year": 2024,
+            "round": 14,
+            "pos": "10",
+            "points": 1,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1226,
+            "race": "2024 Hungarian Grand Prix",
+            "year": 2024,
+            "round": 13,
+            "pos": "12",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1225,
+            "race": "2024 British Grand Prix",
+            "year": 2024,
+            "round": 12,
+            "pos": "13",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1224,
+            "race": "2024 Austrian Grand Prix",
+            "year": 2024,
+            "round": 11,
+            "pos": "9",
+            "points": 2,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1223,
+            "race": "2024 Spanish Grand Prix",
+            "year": 2024,
+            "round": 10,
+            "pos": "15",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1222,
+            "race": "2024 Canadian Grand Prix",
+            "year": 2024,
+            "round": 9,
+            "pos": "8",
+            "points": 4,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1221,
+            "race": "2024 Monaco Grand Prix",
+            "year": 2024,
+            "round": 8,
+            "pos": "12",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1220,
+            "race": "2024 Emilia Romagna Grand Prix",
+            "year": 2024,
+            "round": 7,
+            "pos": "13",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1219,
+            "race": "2024 Miami Grand Prix",
+            "year": 2024,
+            "round": 6,
+            "pos": "15",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1218,
+            "race": "2024 Chinese Grand Prix",
+            "year": 2024,
+            "round": 5,
+            "pos": "R",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Retired"
+        }
+    ]
+}

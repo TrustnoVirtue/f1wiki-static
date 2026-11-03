@@ -1,0 +1,192 @@
+{
+    "driver": {
+        "id": 1294,
+        "slug": "isack-hadjar",
+        "name": "Isack Hadjar",
+        "nat": "French",
+        "code": "HAD",
+        "number": "",
+        "dob": "2004-09-28",
+        "photo": "assets/img/drivers/1294.jpg",
+        "credit": "Photo: Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A8753)_(cropped).jpg",
+        "teamId": 335,
+        "teamName": "Red Bull",
+        "color": "#3671C6",
+        "stats": {
+            "starts": 40,
+            "wins": 0,
+            "podiums": 3,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 155,
+            "championships": 0,
+            "best": 8,
+            "bestYear": 2026
+        },
+        "firstSeason": 2025,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 8,
+            "points": 105,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "teamId": 1238,
+            "team": "RB F1 Team",
+            "color": "#6692FF",
+            "pos": 12,
+            "points": 51,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "round": 19,
+            "pos": "12",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1339,
+            "race": "2026 United States Grand Prix",
+            "year": 2026,
+            "round": 18,
+            "pos": "6",
+            "points": 8,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1338,
+            "race": "2026 Singapore Grand Prix",
+            "year": 2026,
+            "round": 17,
+            "pos": "10",
+            "points": 1,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1337,
+            "race": "2026 Bahrain Grand Prix in Malaysia",
+            "year": 2026,
+            "round": 16,
+            "pos": "5",
+            "points": 10,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1336,
+            "race": "2026 Azerbaijan Grand Prix",
+            "year": 2026,
+            "round": 15,
+            "pos": "3",
+            "points": 15,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1331,
+            "race": "2026 Hungarian Grand Prix",
+            "year": 2026,
+            "round": 11,
+            "pos": "6",
+            "points": 8,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1330,
+            "race": "2026 Belgian Grand Prix",
+            "year": 2026,
+            "round": 10,
+            "pos": "6",
+            "points": 8,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1329,
+            "race": "2026 British Grand Prix",
+            "year": 2026,
+            "round": 9,
+            "pos": "5",
+            "points": 10,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1328,
+            "race": "2026 Austrian Grand Prix",
+            "year": 2026,
+            "round": 8,
+            "pos": "6",
+            "points": 8,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1327,
+            "race": "2026 Barcelona Grand Prix",
+            "year": 2026,
+            "round": 7,
+            "pos": "6",
+            "points": 8,
+            "team": "Red Bull",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1326,
+            "race": "2026 Monaco Grand Prix",
+            "year": 2026,
+            "round": 6,
+            "pos": "3",
+            "points": 15,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1325,
+            "race": "2026 Canadian Grand Prix",
+            "year": 2026,
+            "round": 5,
+            "pos": "5",
+            "points": 10,
+            "team": "Red Bull",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1324,
+            "race": "2026 Miami Grand Prix",
+            "year": 2026,
+            "round": 4,
+            "pos": "R",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1323,
+            "race": "2026 Japanese Grand Prix",
+            "year": 2026,
+            "round": 3,
+            "pos": "12",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        }
+    ]
+}

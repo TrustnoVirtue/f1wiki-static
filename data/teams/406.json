@@ -1,0 +1,38 @@
+{
+    "team": {
+        "id": 406,
+        "slug": "spyker_mf1",
+        "name": "Spyker MF1",
+        "nat": "Dutch",
+        "color": "#229971",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 8,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2006
+    },
+    "seasons": [
+        {
+            "year": 2006,
+            "pos": 12,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 337,
+            "name": "Tiago Monteiro",
+            "photo": "assets/img/drivers/337.jpg"
+        }
+    ]
+}

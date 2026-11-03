@@ -1,0 +1,201 @@
+{
+    "driver": {
+        "id": 661,
+        "slug": "jean-eric-vergne",
+        "name": "Jean-Éric Vergne",
+        "nat": "French",
+        "code": "VER",
+        "number": "",
+        "dob": "1990-04-25",
+        "photo": "assets/img/drivers/661.jpg",
+        "credit": "Photo: Morio · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Jean-Eric_Vergne_2024_WEC_Fuji.jpg",
+        "teamId": 383,
+        "teamName": "Toro Rosso",
+        "color": "#4E7C9B",
+        "stats": {
+            "starts": 58,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 51,
+            "championships": 0,
+            "best": 13,
+            "bestYear": 2014
+        },
+        "firstSeason": 2012,
+        "lastSeason": 2014
+    },
+    "seasons": [
+        {
+            "year": 2014,
+            "teamId": 383,
+            "team": "Toro Rosso",
+            "color": "#4E7C9B",
+            "pos": 13,
+            "points": 22,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "teamId": 383,
+            "team": "Toro Rosso",
+            "color": "#4E7C9B",
+            "pos": 15,
+            "points": 13,
+            "wins": 0
+        },
+        {
+            "year": 2012,
+            "teamId": 383,
+            "team": "Toro Rosso",
+            "color": "#4E7C9B",
+            "pos": 17,
+            "points": 16,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 752,
+            "race": "2014 Abu Dhabi Grand Prix",
+            "year": 2014,
+            "round": 19,
+            "pos": "12",
+            "points": 0,
+            "team": "Toro Rosso",
+            "status": "Finished"
+        },
+        {
+            "raceId": 751,
+            "race": "2014 Brazilian Grand Prix",
+            "year": 2014,
+            "round": 18,
+            "pos": "13",
+            "points": 0,
+            "team": "Toro Rosso",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 750,
+            "race": "2014 United States Grand Prix",
+            "year": 2014,
+            "round": 17,
+            "pos": "10",
+            "points": 1,
+            "team": "Toro Rosso",
+            "status": "Finished"
+        },
+        {
+            "raceId": 749,
+            "race": "2014 Russian Grand Prix",
+            "year": 2014,
+            "round": 16,
+            "pos": "13",
+            "points": 0,
+            "team": "Toro Rosso",
+            "status": "Finished"
+        },
+        {
+            "raceId": 747,
+            "race": "2014 Japanese Grand Prix",
+            "year": 2014,
+            "round": 15,
+            "pos": "9",
+            "points": 2,
+            "team": "Toro Rosso",
+            "status": "Finished"
+        },
+        {
+            "raceId": 746,
+            "race": "2014 Singapore Grand Prix",
+            "year": 2014,
+            "round": 14,
+            "pos": "6",
+            "points": 8,
+            "team": "Toro Rosso",
+            "status": "Finished"
+        },
+        {
+            "raceId": 745,
+            "race": "2014 Italian Grand Prix",
+            "year": 2014,
+            "round": 13,
+            "pos": "13",
+            "points": 0,
+            "team": "Toro Rosso",
+            "status": "Finished"
+        },
+        {
+            "raceId": 744,
+            "race": "2014 Belgian Grand Prix",
+            "year": 2014,
+            "round": 12,
+            "pos": "11",
+            "points": 0,
+            "team": "Toro Rosso",
+            "status": "Finished"
+        },
+        {
+            "raceId": 743,
+            "race": "2014 Hungarian Grand Prix",
+            "year": 2014,
+            "round": 11,
+            "pos": "9",
+            "points": 2,
+            "team": "Toro Rosso",
+            "status": "Finished"
+        },
+        {
+            "raceId": 742,
+            "race": "2014 German Grand Prix",
+            "year": 2014,
+            "round": 10,
+            "pos": "13",
+            "points": 0,
+            "team": "Toro Rosso",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 741,
+            "race": "2014 British Grand Prix",
+            "year": 2014,
+            "round": 9,
+            "pos": "10",
+            "points": 1,
+            "team": "Toro Rosso",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 740,
+            "race": "2014 Austrian Grand Prix",
+            "year": 2014,
+            "round": 8,
+            "pos": "R",
+            "points": 0,
+            "team": "Toro Rosso",
+            "status": "Brakes"
+        },
+        {
+            "raceId": 739,
+            "race": "2014 Canadian Grand Prix",
+            "year": 2014,
+            "round": 7,
+            "pos": "8",
+            "points": 4,
+            "team": "Toro Rosso",
+            "status": "Finished"
+        },
+        {
+            "raceId": 738,
+            "race": "2014 Monaco Grand Prix",
+            "year": 2014,
+            "round": 6,
+            "pos": "R",
+            "points": 0,
+            "team": "Toro Rosso",
+            "status": "Engine"
+        }
+    ]
+}

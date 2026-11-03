@@ -1,0 +1,569 @@
+[
+    {
+        "year": 2026,
+        "rounds": 23,
+        "completed": 19,
+        "champion": {
+            "year": 2026,
+            "driverId": 1292,
+            "driver": "Andrea Kimi Antonelli",
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "points": 380
+        },
+        "teamChampion": {
+            "name": "Mercedes",
+            "color": "#27F4D2",
+            "logo": "assets/img/teams/563.png"
+        },
+        "driverCount": 24,
+        "teamCount": 11
+    },
+    {
+        "year": 2025,
+        "rounds": 24,
+        "completed": 24,
+        "champion": {
+            "year": 2025,
+            "driverId": 993,
+            "driver": "Lando Norris",
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "points": 423
+        },
+        "teamChampion": {
+            "name": "McLaren",
+            "color": "#FF8000",
+            "logo": "assets/img/teams/65.png"
+        },
+        "driverCount": 21,
+        "teamCount": 10
+    },
+    {
+        "year": 2024,
+        "rounds": 24,
+        "completed": 24,
+        "champion": {
+            "year": 2024,
+            "driverId": 801,
+            "driver": "Max Verstappen",
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "points": 437
+        },
+        "teamChampion": {
+            "name": "McLaren",
+            "color": "#FF8000",
+            "logo": "assets/img/teams/65.png"
+        },
+        "driverCount": 24,
+        "teamCount": 10
+    },
+    {
+        "year": 2023,
+        "rounds": 22,
+        "completed": 22,
+        "champion": {
+            "year": 2023,
+            "driverId": 801,
+            "driver": "Max Verstappen",
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "points": 575
+        },
+        "teamChampion": {
+            "name": "Red Bull",
+            "color": "#3671C6",
+            "logo": ""
+        },
+        "driverCount": 22,
+        "teamCount": 10
+    },
+    {
+        "year": 2022,
+        "rounds": 22,
+        "completed": 22,
+        "champion": {
+            "year": 2022,
+            "driverId": 801,
+            "driver": "Max Verstappen",
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "points": 454
+        },
+        "teamChampion": {
+            "name": "Red Bull",
+            "color": "#3671C6",
+            "logo": ""
+        },
+        "driverCount": 22,
+        "teamCount": 10
+    },
+    {
+        "year": 2021,
+        "rounds": 22,
+        "completed": 22,
+        "champion": {
+            "year": 2021,
+            "driverId": 801,
+            "driver": "Max Verstappen",
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "points": 395.5
+        },
+        "teamChampion": {
+            "name": "Mercedes",
+            "color": "#27F4D2",
+            "logo": "assets/img/teams/563.png"
+        },
+        "driverCount": 21,
+        "teamCount": 10
+    },
+    {
+        "year": 2020,
+        "rounds": 17,
+        "completed": 17,
+        "champion": {
+            "year": 2020,
+            "driverId": 431,
+            "driver": "Lewis Hamilton",
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "points": 347
+        },
+        "teamChampion": {
+            "name": "Mercedes",
+            "color": "#27F4D2",
+            "logo": "assets/img/teams/563.png"
+        },
+        "driverCount": 23,
+        "teamCount": 10
+    },
+    {
+        "year": 2019,
+        "rounds": 21,
+        "completed": 21,
+        "champion": {
+            "year": 2019,
+            "driverId": 431,
+            "driver": "Lewis Hamilton",
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "points": 413
+        },
+        "teamChampion": {
+            "name": "Mercedes",
+            "color": "#27F4D2",
+            "logo": "assets/img/teams/563.png"
+        },
+        "driverCount": 20,
+        "teamCount": 10
+    },
+    {
+        "year": 2018,
+        "rounds": 21,
+        "completed": 21,
+        "champion": {
+            "year": 2018,
+            "driverId": 431,
+            "driver": "Lewis Hamilton",
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "points": 408
+        },
+        "teamChampion": {
+            "name": "Mercedes",
+            "color": "#27F4D2",
+            "logo": "assets/img/teams/563.png"
+        },
+        "driverCount": 20,
+        "teamCount": 10
+    },
+    {
+        "year": 2017,
+        "rounds": 20,
+        "completed": 20,
+        "champion": {
+            "year": 2017,
+            "driverId": 613,
+            "driver": "Paul di Resta",
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "points": 0
+        },
+        "teamChampion": {
+            "name": "Mercedes",
+            "color": "#27F4D2",
+            "logo": "assets/img/teams/563.png"
+        },
+        "driverCount": 25,
+        "teamCount": 10
+    },
+    {
+        "year": 2016,
+        "rounds": 21,
+        "completed": 21,
+        "champion": {
+            "year": 2016,
+            "driverId": 382,
+            "driver": "Nico Rosberg",
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "points": 385
+        },
+        "teamChampion": {
+            "name": "Mercedes",
+            "color": "#27F4D2",
+            "logo": "assets/img/teams/563.png"
+        },
+        "driverCount": 24,
+        "teamCount": 11
+    },
+    {
+        "year": 2015,
+        "rounds": 19,
+        "completed": 19,
+        "champion": {
+            "year": 2015,
+            "driverId": 753,
+            "driver": "Kevin Magnussen",
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "points": 0
+        },
+        "teamChampion": {
+            "name": "Mercedes",
+            "color": "#27F4D2",
+            "logo": "assets/img/teams/563.png"
+        },
+        "driverCount": 22,
+        "teamCount": 10
+    },
+    {
+        "year": 2014,
+        "rounds": 19,
+        "completed": 19,
+        "champion": {
+            "year": 2014,
+            "driverId": 767,
+            "driver": "André Lotterer",
+            "teamId": 563,
+            "team": "Mercedes",
+            "color": "#27F4D2",
+            "points": 0
+        },
+        "teamChampion": {
+            "name": "Mercedes",
+            "color": "#27F4D2",
+            "logo": "assets/img/teams/563.png"
+        },
+        "driverCount": 24,
+        "teamCount": 11
+    },
+    {
+        "year": 2013,
+        "rounds": 19,
+        "completed": 19,
+        "champion": {
+            "year": 2013,
+            "driverId": 441,
+            "driver": "Sebastian Vettel",
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "points": 397
+        },
+        "teamChampion": {
+            "name": "Red Bull",
+            "color": "#3671C6",
+            "logo": ""
+        },
+        "driverCount": 23,
+        "teamCount": 11
+    },
+    {
+        "year": 2012,
+        "rounds": 20,
+        "completed": 20,
+        "champion": {
+            "year": 2012,
+            "driverId": 441,
+            "driver": "Sebastian Vettel",
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "points": 281
+        },
+        "teamChampion": {
+            "name": "Red Bull",
+            "color": "#3671C6",
+            "logo": ""
+        },
+        "driverCount": 25,
+        "teamCount": 12
+    },
+    {
+        "year": 2011,
+        "rounds": 19,
+        "completed": 19,
+        "champion": {
+            "year": 2011,
+            "driverId": 441,
+            "driver": "Sebastian Vettel",
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "points": 392
+        },
+        "teamChampion": {
+            "name": "Red Bull",
+            "color": "#3671C6",
+            "logo": ""
+        },
+        "driverCount": 28,
+        "teamCount": 12
+    },
+    {
+        "year": 2010,
+        "rounds": 19,
+        "completed": 19,
+        "champion": {
+            "year": 2010,
+            "driverId": 441,
+            "driver": "Sebastian Vettel",
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "points": 256
+        },
+        "teamChampion": {
+            "name": "Red Bull",
+            "color": "#3671C6",
+            "logo": ""
+        },
+        "driverCount": 27,
+        "teamCount": 12
+    },
+    {
+        "year": 2009,
+        "rounds": 17,
+        "completed": 17,
+        "champion": {
+            "year": 2009,
+            "driverId": 57,
+            "driver": "Jenson Button",
+            "teamId": 518,
+            "team": "Brawn",
+            "color": "#B8FD36",
+            "points": 95
+        },
+        "teamChampion": {
+            "name": "Brawn",
+            "color": "#B8FD36",
+            "logo": "assets/img/teams/518.png"
+        },
+        "driverCount": 25,
+        "teamCount": 10
+    },
+    {
+        "year": 2008,
+        "rounds": 18,
+        "completed": 18,
+        "champion": {
+            "year": 2008,
+            "driverId": 431,
+            "driver": "Lewis Hamilton",
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "points": 98
+        },
+        "teamChampion": {
+            "name": "Ferrari",
+            "color": "#E8002D",
+            "logo": ""
+        },
+        "driverCount": 22,
+        "teamCount": 11
+    },
+    {
+        "year": 2007,
+        "rounds": 17,
+        "completed": 17,
+        "champion": {
+            "year": 2007,
+            "driverId": 445,
+            "driver": "Markus Winkelhock",
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "points": 0
+        },
+        "teamChampion": {
+            "name": "McLaren",
+            "color": "#FF8000",
+            "logo": "assets/img/teams/65.png"
+        },
+        "driverCount": 26,
+        "teamCount": 11
+    },
+    {
+        "year": 2006,
+        "rounds": 18,
+        "completed": 18,
+        "champion": {
+            "year": 2006,
+            "driverId": 163,
+            "driver": "Fernando Alonso",
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "points": 134
+        },
+        "teamChampion": {
+            "name": "Renault",
+            "color": "#FFF500",
+            "logo": "assets/img/teams/208.png"
+        },
+        "driverCount": 27,
+        "teamCount": 12
+    },
+    {
+        "year": 2005,
+        "rounds": 19,
+        "completed": 19,
+        "champion": {
+            "year": 2005,
+            "driverId": 49,
+            "driver": "Ricardo Zonta",
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "points": 0
+        },
+        "teamChampion": {
+            "name": "Renault",
+            "color": "#FFF500",
+            "logo": "assets/img/teams/208.png"
+        },
+        "driverCount": 27,
+        "teamCount": 10
+    },
+    {
+        "year": 2004,
+        "rounds": 18,
+        "completed": 18,
+        "champion": {
+            "year": 2004,
+            "driverId": 40,
+            "driver": "Michael Schumacher",
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "points": 148
+        },
+        "teamChampion": {
+            "name": "Ferrari",
+            "color": "#E8002D",
+            "logo": ""
+        },
+        "driverCount": 25,
+        "teamCount": 10
+    },
+    {
+        "year": 2003,
+        "rounds": 16,
+        "completed": 16,
+        "champion": {
+            "year": 2003,
+            "driverId": 40,
+            "driver": "Michael Schumacher",
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "points": 93
+        },
+        "teamChampion": {
+            "name": "Ferrari",
+            "color": "#E8002D",
+            "logo": ""
+        },
+        "driverCount": 24,
+        "teamCount": 10
+    },
+    {
+        "year": 2002,
+        "rounds": 17,
+        "completed": 17,
+        "champion": {
+            "year": 2002,
+            "driverId": 223,
+            "driver": "Anthony Davidson",
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "points": 0
+        },
+        "teamChampion": {
+            "name": "Ferrari",
+            "color": "#E8002D",
+            "logo": ""
+        },
+        "driverCount": 23,
+        "teamCount": 11
+    },
+    {
+        "year": 2001,
+        "rounds": 17,
+        "completed": 17,
+        "champion": {
+            "year": 2001,
+            "driverId": 59,
+            "driver": "Gastón Mazzacane",
+            "teamId": 52,
+            "team": "Minardi",
+            "color": "#111111",
+            "points": 0
+        },
+        "teamChampion": {
+            "name": "Minardi",
+            "color": "#111111",
+            "logo": ""
+        },
+        "driverCount": 26,
+        "teamCount": 11
+    },
+    {
+        "year": 2000,
+        "rounds": 17,
+        "completed": 17,
+        "champion": {
+            "year": 2000,
+            "driverId": 53,
+            "driver": "Nick Heidfeld",
+            "teamId": 52,
+            "team": "Minardi",
+            "color": "#111111",
+            "points": 0
+        },
+        "teamChampion": {
+            "name": "Minardi",
+            "color": "#111111",
+            "logo": ""
+        },
+        "driverCount": 23,
+        "teamCount": 11
+    }
+]

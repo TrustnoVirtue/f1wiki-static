@@ -1,0 +1,20 @@
+{
+    "id": 1343,
+    "name": "2026 Qatar Grand Prix",
+    "year": 2026,
+    "round": 22,
+    "date": "2026-11-29",
+    "hasResults": false,
+    "circuitId": 1081,
+    "circuit": "Lusail International Circuit",
+    "country": "Qatar",
+    "winnerId": 0,
+    "winner": "",
+    "winnerTeam": "",
+    "winnerColor": "#E10600",
+    "poleId": 0,
+    "pole": "",
+    "fastestId": 0,
+    "fastest": "",
+    "results": []
+}

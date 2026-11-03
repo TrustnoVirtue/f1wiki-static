@@ -1,0 +1,72 @@
+{
+    "team": {
+        "id": 71,
+        "slug": "jaguar",
+        "name": "Jaguar",
+        "nat": "British",
+        "color": "#0B5C2E",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 170,
+            "wins": 0,
+            "podiums": 2,
+            "poles": 0,
+            "points": 49,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2004
+    },
+    "seasons": [
+        {
+            "year": 2004,
+            "pos": 7,
+            "points": 10,
+            "wins": 0
+        },
+        {
+            "year": 2003,
+            "pos": 7,
+            "points": 18,
+            "wins": 0
+        },
+        {
+            "year": 2002,
+            "pos": 7,
+            "points": 8,
+            "wins": 0
+        },
+        {
+            "year": 2001,
+            "pos": 8,
+            "points": 9,
+            "wins": 0
+        },
+        {
+            "year": 2000,
+            "pos": 9,
+            "points": 4,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 70,
+            "name": "Eddie Irvine",
+            "photo": "assets/img/drivers/70.jpg"
+        },
+        {
+            "id": 72,
+            "name": "Johnny Herbert",
+            "photo": "assets/img/drivers/72.jpg"
+        },
+        {
+            "id": 248,
+            "name": "Justin Wilson",
+            "photo": "assets/img/drivers/248.jpg"
+        }
+    ]
+}

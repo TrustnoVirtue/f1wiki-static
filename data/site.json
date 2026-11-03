@@ -1,0 +1,23 @@
+{
+    "generated": "2026-11-03",
+    "from": 2000,
+    "to": 2026,
+    "counts": {
+        "drivers": 131,
+        "teams": 40,
+        "circuits": 39,
+        "races": 526,
+        "seasons": 27,
+        "results": 10968
+    },
+    "latestSeason": 2026,
+    "leader": {
+        "year": 2026,
+        "driverId": 1292,
+        "driver": "Andrea Kimi Antonelli",
+        "teamId": 563,
+        "team": "Mercedes",
+        "color": "#27F4D2",
+        "points": 380
+    }
+}

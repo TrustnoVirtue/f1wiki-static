@@ -1,0 +1,65 @@
+{
+    "team": {
+        "id": 1238,
+        "slug": "rb",
+        "name": "RB F1 Team",
+        "nat": "Italian",
+        "color": "#6692FF",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 134,
+            "wins": 0,
+            "podiums": 1,
+            "poles": 0,
+            "points": 224,
+            "championships": 0
+        },
+        "firstSeason": 2024,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "pos": 5,
+            "points": 104,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "pos": 6,
+            "points": 92,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "pos": 8,
+            "points": 46,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 1345,
+            "name": "Arvid Lindblad",
+            "photo": "assets/img/drivers/1345.jpg"
+        },
+        {
+            "id": 625,
+            "name": "Daniel Ricciardo",
+            "photo": "assets/img/drivers/625.jpg"
+        },
+        {
+            "id": 1201,
+            "name": "Liam Lawson",
+            "photo": "assets/img/drivers/1201.jpg"
+        },
+        {
+            "id": 1086,
+            "name": "Yuki Tsunoda",
+            "photo": "assets/img/drivers/1086.jpg"
+        }
+    ]
+}

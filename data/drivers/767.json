@@ -1,0 +1,53 @@
+{
+    "driver": {
+        "id": 767,
+        "slug": "andre-lotterer",
+        "name": "André Lotterer",
+        "nat": "German",
+        "code": "LOT",
+        "number": "",
+        "dob": "1981-11-19",
+        "photo": "assets/img/drivers/767.jpg",
+        "credit": "Photo: Morio · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Andre_Lotterer_2024_WEC_Fuji_2.jpg",
+        "teamId": 664,
+        "teamName": "Caterham",
+        "color": "#009B48",
+        "stats": {
+            "starts": 1,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 0,
+            "championships": 0,
+            "best": 0,
+            "bestYear": 0
+        },
+        "firstSeason": 2014,
+        "lastSeason": 2014
+    },
+    "seasons": [
+        {
+            "year": 2014,
+            "teamId": 664,
+            "team": "Caterham",
+            "color": "#009B48",
+            "pos": 0,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 744,
+            "race": "2014 Belgian Grand Prix",
+            "year": 2014,
+            "round": 12,
+            "pos": "R",
+            "points": 0,
+            "team": "Caterham",
+            "status": "Power Unit"
+        }
+    ]
+}

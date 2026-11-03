@@ -1,0 +1,280 @@
+{
+    "team": {
+        "id": 41,
+        "slug": "ferrari",
+        "name": "Ferrari",
+        "nat": "Italian",
+        "color": "#E8002D",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 1044,
+            "wins": 125,
+            "podiums": 413,
+            "poles": 128,
+            "points": 8634.5,
+            "championships": 7
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "pos": 2,
+            "points": 504,
+            "wins": 2
+        },
+        {
+            "year": 2025,
+            "pos": 4,
+            "points": 398,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "pos": 2,
+            "points": 652,
+            "wins": 5
+        },
+        {
+            "year": 2023,
+            "pos": 3,
+            "points": 406,
+            "wins": 1
+        },
+        {
+            "year": 2022,
+            "pos": 2,
+            "points": 554,
+            "wins": 4
+        },
+        {
+            "year": 2021,
+            "pos": 3,
+            "points": 323.5,
+            "wins": 0
+        },
+        {
+            "year": 2020,
+            "pos": 6,
+            "points": 131,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "pos": 2,
+            "points": 504,
+            "wins": 3
+        },
+        {
+            "year": 2018,
+            "pos": 2,
+            "points": 571,
+            "wins": 6
+        },
+        {
+            "year": 2017,
+            "pos": 2,
+            "points": 522,
+            "wins": 5
+        },
+        {
+            "year": 2016,
+            "pos": 3,
+            "points": 398,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "pos": 2,
+            "points": 428,
+            "wins": 3
+        },
+        {
+            "year": 2014,
+            "pos": 4,
+            "points": 216,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "pos": 3,
+            "points": 354,
+            "wins": 2
+        },
+        {
+            "year": 2012,
+            "pos": 2,
+            "points": 400,
+            "wins": 3
+        },
+        {
+            "year": 2011,
+            "pos": 3,
+            "points": 375,
+            "wins": 1
+        },
+        {
+            "year": 2010,
+            "pos": 3,
+            "points": 396,
+            "wins": 5
+        },
+        {
+            "year": 2009,
+            "pos": 4,
+            "points": 70,
+            "wins": 1
+        },
+        {
+            "year": 2008,
+            "pos": 1,
+            "points": 172,
+            "wins": 8
+        },
+        {
+            "year": 2007,
+            "pos": 1,
+            "points": 204,
+            "wins": 9
+        },
+        {
+            "year": 2006,
+            "pos": 2,
+            "points": 201,
+            "wins": 9
+        },
+        {
+            "year": 2005,
+            "pos": 3,
+            "points": 100,
+            "wins": 1
+        },
+        {
+            "year": 2004,
+            "pos": 1,
+            "points": 262,
+            "wins": 15
+        },
+        {
+            "year": 2003,
+            "pos": 1,
+            "points": 158,
+            "wins": 8
+        },
+        {
+            "year": 2002,
+            "pos": 1,
+            "points": 221,
+            "wins": 15
+        },
+        {
+            "year": 2001,
+            "pos": 1,
+            "points": 179,
+            "wins": 9
+        },
+        {
+            "year": 2000,
+            "pos": 1,
+            "points": 170,
+            "wins": 10
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 1329,
+            "race": "2026 British Grand Prix",
+            "year": 2026,
+            "driver": "Charles Leclerc",
+            "driverId": 945
+        },
+        {
+            "raceId": 1327,
+            "race": "2026 Barcelona Grand Prix",
+            "year": 2026,
+            "driver": "Lewis Hamilton",
+            "driverId": 431
+        },
+        {
+            "raceId": 1233,
+            "race": "2024 Mexico City Grand Prix",
+            "year": 2024,
+            "driver": "Carlos Sainz",
+            "driverId": 800
+        },
+        {
+            "raceId": 1232,
+            "race": "2024 United States Grand Prix",
+            "year": 2024,
+            "driver": "Charles Leclerc",
+            "driverId": 945
+        },
+        {
+            "raceId": 1229,
+            "race": "2024 Italian Grand Prix",
+            "year": 2024,
+            "driver": "Charles Leclerc",
+            "driverId": 945
+        },
+        {
+            "raceId": 1221,
+            "race": "2024 Monaco Grand Prix",
+            "year": 2024,
+            "driver": "Charles Leclerc",
+            "driverId": 945
+        },
+        {
+            "raceId": 1216,
+            "race": "2024 Australian Grand Prix",
+            "year": 2024,
+            "driver": "Carlos Sainz",
+            "driverId": 800
+        },
+        {
+            "raceId": 1178,
+            "race": "2023 Singapore Grand Prix",
+            "year": 2023,
+            "driver": "Carlos Sainz",
+            "driverId": 800
+        },
+        {
+            "raceId": 1126,
+            "race": "2022 Austrian Grand Prix",
+            "year": 2022,
+            "driver": "Charles Leclerc",
+            "driverId": 945
+        },
+        {
+            "raceId": 1125,
+            "race": "2022 British Grand Prix",
+            "year": 2022,
+            "driver": "Carlos Sainz",
+            "driverId": 800
+        }
+    ],
+    "lineup": [
+        {
+            "id": 945,
+            "name": "Charles Leclerc",
+            "photo": "assets/img/drivers/945.jpg"
+        },
+        {
+            "id": 47,
+            "name": "Giancarlo Fisichella",
+            "photo": "assets/img/drivers/47.jpg"
+        },
+        {
+            "id": 431,
+            "name": "Lewis Hamilton",
+            "photo": "assets/img/drivers/431.jpg"
+        },
+        {
+            "id": 532,
+            "name": "Luca Badoer",
+            "photo": "assets/img/drivers/532.jpg"
+        }
+    ]
+}

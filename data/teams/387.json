@@ -1,0 +1,65 @@
+{
+    "team": {
+        "id": 387,
+        "slug": "super_aguri",
+        "name": "Super Aguri",
+        "nat": "Japanese",
+        "color": "#E60012",
+        "logo": "assets/img/teams/387.png",
+        "credit": "Logo: Flyz1 · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Super_Aguri_logo.svg",
+        "stats": {
+            "starts": 78,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 4,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2008
+    },
+    "seasons": [
+        {
+            "year": 2008,
+            "pos": 11,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2007,
+            "pos": 9,
+            "points": 4,
+            "wins": 0
+        },
+        {
+            "year": 2006,
+            "pos": 11,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 223,
+            "name": "Anthony Davidson",
+            "photo": "assets/img/drivers/223.jpg"
+        },
+        {
+            "id": 393,
+            "name": "Franck Montagny",
+            "photo": "assets/img/drivers/393.jpg"
+        },
+        {
+            "id": 207,
+            "name": "Takuma Sato",
+            "photo": "assets/img/drivers/207.jpg"
+        },
+        {
+            "id": 388,
+            "name": "Yuji Ide",
+            "photo": "assets/img/drivers/388.jpg"
+        }
+    ]
+}

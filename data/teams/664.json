@@ -1,0 +1,70 @@
+{
+    "team": {
+        "id": 664,
+        "slug": "caterham",
+        "name": "Caterham",
+        "nat": "Malaysian",
+        "color": "#009B48",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 112,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2012,
+        "lastSeason": 2014
+    },
+    "seasons": [
+        {
+            "year": 2014,
+            "pos": 11,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "pos": 11,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2012,
+            "pos": 10,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 767,
+            "name": "André Lotterer",
+            "photo": "assets/img/drivers/767.jpg"
+        },
+        {
+            "id": 663,
+            "name": "Charles Pic",
+            "photo": "assets/img/drivers/663.jpg"
+        },
+        {
+            "id": 711,
+            "name": "Giedo van der Garde",
+            "photo": "assets/img/drivers/711.jpg"
+        },
+        {
+            "id": 538,
+            "name": "Kamui Kobayashi",
+            "photo": "assets/img/drivers/538.jpg"
+        },
+        {
+            "id": 569,
+            "name": "Vitaly Petrov",
+            "photo": "assets/img/drivers/569.jpg"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "team": {
+        "id": 804,
+        "slug": "manor",
+        "name": "Manor Marussia",
+        "nat": "British",
+        "color": "#6E6E6E",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 78,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 1,
+            "championships": 0
+        },
+        "firstSeason": 2015,
+        "lastSeason": 2016
+    },
+    "seasons": [
+        {
+            "year": 2016,
+            "pos": 11,
+            "points": 1,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "pos": 10,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 816,
+            "name": "Alexander Rossi",
+            "photo": "assets/img/drivers/816.jpg"
+        },
+        {
+            "id": 851,
+            "name": "Rio Haryanto",
+            "photo": "assets/img/drivers/851.jpg"
+        },
+        {
+            "id": 803,
+            "name": "Roberto Merhi",
+            "photo": "assets/img/drivers/803.jpg"
+        },
+        {
+            "id": 775,
+            "name": "Will Stevens",
+            "photo": "assets/img/drivers/775.jpg"
+        }
+    ]
+}

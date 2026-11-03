@@ -1,0 +1,53 @@
+{
+    "driver": {
+        "id": 1366,
+        "slug": "ryo-hirakawa",
+        "name": "Ryo Hirakawa",
+        "nat": "Japanese",
+        "code": "HIR",
+        "number": "",
+        "dob": "1994-03-07",
+        "photo": "assets/img/drivers/1366.jpg",
+        "credit": "Photo: Morio · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Ryo_Hirakawa_2024_WEC_Fuji_3.jpg",
+        "teamId": 848,
+        "teamName": "Haas F1 Team",
+        "color": "#B6BABD",
+        "stats": {
+            "starts": 1,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 0,
+            "championships": 0,
+            "best": 23,
+            "bestYear": 2026
+        },
+        "firstSeason": 2026,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 848,
+            "team": "Haas F1 Team",
+            "color": "#B6BABD",
+            "pos": 23,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "round": 19,
+            "pos": "13",
+            "points": 0,
+            "team": "Haas F1 Team",
+            "status": "Finished"
+        }
+    ]
+}

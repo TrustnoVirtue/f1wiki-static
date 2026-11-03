@@ -1,0 +1,49 @@
+{
+    "team": {
+        "id": 565,
+        "slug": "lotus_racing",
+        "name": "Lotus",
+        "nat": "Malaysian",
+        "color": "#009B77",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 76,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2010,
+        "lastSeason": 2011
+    },
+    "seasons": [
+        {
+            "year": 2011,
+            "pos": 10,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2010,
+            "pos": 10,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 62,
+            "name": "Jarno Trulli",
+            "photo": "assets/img/drivers/62.jpg"
+        },
+        {
+            "id": 571,
+            "name": "Karun Chandhok",
+            "photo": "assets/img/drivers/571.jpg"
+        }
+    ]
+}

@@ -1,0 +1,255 @@
+{
+    "team": {
+        "id": 335,
+        "slug": "red_bull",
+        "name": "Red Bull",
+        "nat": "Austrian",
+        "color": "#3671C6",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 874,
+            "wins": 133,
+            "podiums": 310,
+            "poles": 113,
+            "points": 8443,
+            "championships": 6
+        },
+        "firstSeason": 2005,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "pos": 3,
+            "points": 380,
+            "wins": 3
+        },
+        {
+            "year": 2025,
+            "pos": 3,
+            "points": 451,
+            "wins": 8
+        },
+        {
+            "year": 2024,
+            "pos": 3,
+            "points": 589,
+            "wins": 9
+        },
+        {
+            "year": 2023,
+            "pos": 1,
+            "points": 860,
+            "wins": 21
+        },
+        {
+            "year": 2022,
+            "pos": 1,
+            "points": 759,
+            "wins": 17
+        },
+        {
+            "year": 2021,
+            "pos": 2,
+            "points": 585.5,
+            "wins": 11
+        },
+        {
+            "year": 2020,
+            "pos": 2,
+            "points": 319,
+            "wins": 2
+        },
+        {
+            "year": 2019,
+            "pos": 3,
+            "points": 417,
+            "wins": 3
+        },
+        {
+            "year": 2018,
+            "pos": 3,
+            "points": 419,
+            "wins": 4
+        },
+        {
+            "year": 2017,
+            "pos": 3,
+            "points": 368,
+            "wins": 3
+        },
+        {
+            "year": 2016,
+            "pos": 2,
+            "points": 468,
+            "wins": 2
+        },
+        {
+            "year": 2015,
+            "pos": 4,
+            "points": 187,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "pos": 2,
+            "points": 405,
+            "wins": 3
+        },
+        {
+            "year": 2013,
+            "pos": 1,
+            "points": 596,
+            "wins": 13
+        },
+        {
+            "year": 2012,
+            "pos": 1,
+            "points": 460,
+            "wins": 7
+        },
+        {
+            "year": 2011,
+            "pos": 1,
+            "points": 650,
+            "wins": 12
+        },
+        {
+            "year": 2010,
+            "pos": 1,
+            "points": 498,
+            "wins": 9
+        },
+        {
+            "year": 2009,
+            "pos": 2,
+            "points": 153.5,
+            "wins": 6
+        },
+        {
+            "year": 2008,
+            "pos": 7,
+            "points": 29,
+            "wins": 0
+        },
+        {
+            "year": 2007,
+            "pos": 5,
+            "points": 24,
+            "wins": 0
+        },
+        {
+            "year": 2006,
+            "pos": 7,
+            "points": 16,
+            "wins": 0
+        },
+        {
+            "year": 2005,
+            "pos": 7,
+            "points": 34,
+            "wins": 0
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "driver": "Max Verstappen",
+            "driverId": 801
+        },
+        {
+            "raceId": 1338,
+            "race": "2026 Singapore Grand Prix",
+            "year": 2026,
+            "driver": "Max Verstappen",
+            "driverId": 801
+        },
+        {
+            "raceId": 1337,
+            "race": "2026 Bahrain Grand Prix in Malaysia",
+            "year": 2026,
+            "driver": "Max Verstappen",
+            "driverId": 801
+        },
+        {
+            "raceId": 1291,
+            "race": "2025 Abu Dhabi Grand Prix",
+            "year": 2025,
+            "driver": "Max Verstappen",
+            "driverId": 801
+        },
+        {
+            "raceId": 1290,
+            "race": "2025 Qatar Grand Prix",
+            "year": 2025,
+            "driver": "Max Verstappen",
+            "driverId": 801
+        },
+        {
+            "raceId": 1289,
+            "race": "2025 Las Vegas Grand Prix",
+            "year": 2025,
+            "driver": "Max Verstappen",
+            "driverId": 801
+        },
+        {
+            "raceId": 1286,
+            "race": "2025 United States Grand Prix",
+            "year": 2025,
+            "driver": "Max Verstappen",
+            "driverId": 801
+        },
+        {
+            "raceId": 1284,
+            "race": "2025 Azerbaijan Grand Prix",
+            "year": 2025,
+            "driver": "Max Verstappen",
+            "driverId": 801
+        },
+        {
+            "raceId": 1283,
+            "race": "2025 Italian Grand Prix",
+            "year": 2025,
+            "driver": "Max Verstappen",
+            "driverId": 801
+        },
+        {
+            "raceId": 1274,
+            "race": "2025 Emilia Romagna Grand Prix",
+            "year": 2025,
+            "driver": "Max Verstappen",
+            "driverId": 801
+        }
+    ],
+    "lineup": [
+        {
+            "id": 68,
+            "name": "David Coulthard",
+            "photo": "assets/img/drivers/68.jpg"
+        },
+        {
+            "id": 1294,
+            "name": "Isack Hadjar",
+            "photo": "assets/img/drivers/1294.jpg"
+        },
+        {
+            "id": 205,
+            "name": "Mark Webber",
+            "photo": "assets/img/drivers/205.jpg"
+        },
+        {
+            "id": 801,
+            "name": "Max Verstappen",
+            "photo": "assets/img/drivers/801.jpg"
+        },
+        {
+            "id": 352,
+            "name": "Robert Doornbos",
+            "photo": "assets/img/drivers/352.jpg"
+        }
+    ]
+}

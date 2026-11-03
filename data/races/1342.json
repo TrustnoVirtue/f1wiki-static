@@ -1,0 +1,20 @@
+{
+    "id": 1342,
+    "name": "2026 Las Vegas Grand Prix",
+    "year": 2026,
+    "round": 21,
+    "date": "2026-11-22",
+    "hasResults": false,
+    "circuitId": 1184,
+    "circuit": "Las Vegas Strip Street Circuit",
+    "country": "USA",
+    "winnerId": 0,
+    "winner": "",
+    "winnerTeam": "",
+    "winnerColor": "#E10600",
+    "poleId": 0,
+    "pole": "",
+    "fastestId": 0,
+    "fastest": "",
+    "results": []
+}

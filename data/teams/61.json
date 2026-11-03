@@ -1,0 +1,86 @@
+{
+    "team": {
+        "id": 61,
+        "slug": "jordan",
+        "name": "Jordan",
+        "nat": "Irish",
+        "color": "#F7D117",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 208,
+            "wins": 1,
+            "podiums": 4,
+            "poles": 0,
+            "points": 75,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2005
+    },
+    "seasons": [
+        {
+            "year": 2005,
+            "pos": 9,
+            "points": 12,
+            "wins": 0
+        },
+        {
+            "year": 2004,
+            "pos": 9,
+            "points": 5,
+            "wins": 0
+        },
+        {
+            "year": 2003,
+            "pos": 9,
+            "points": 13,
+            "wins": 1
+        },
+        {
+            "year": 2002,
+            "pos": 6,
+            "points": 9,
+            "wins": 0
+        },
+        {
+            "year": 2001,
+            "pos": 5,
+            "points": 19,
+            "wins": 0
+        },
+        {
+            "year": 2000,
+            "pos": 6,
+            "points": 17,
+            "wins": 0
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 233,
+            "race": "2003 Brazilian Grand Prix",
+            "year": 2003,
+            "driver": "Giancarlo Fisichella",
+            "driverId": 47
+        }
+    ],
+    "lineup": [
+        {
+            "id": 292,
+            "name": "Giorgio Pantano",
+            "photo": "assets/img/drivers/292.jpg"
+        },
+        {
+            "id": 63,
+            "name": "Jean Alesi",
+            "photo": "assets/img/drivers/63.jpg"
+        },
+        {
+            "id": 250,
+            "name": "Ralph Firman",
+            "photo": "assets/img/drivers/250.jpg"
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "driver": {
+        "id": 1154,
+        "slug": "nyck-de-vries",
+        "name": "Nyck de Vries",
+        "nat": "Dutch",
+        "code": "DEV",
+        "number": "",
+        "dob": "1995-02-06",
+        "photo": "assets/img/drivers/1154.jpg",
+        "credit": "Photo: NickeldimeC · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:TGR_Nyck_de_Vries_240908.jpg",
+        "teamId": 1038,
+        "teamName": "AlphaTauri",
+        "color": "#5E8FAA",
+        "stats": {
+            "starts": 11,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 2,
+            "championships": 0,
+            "best": 21,
+            "bestYear": 2022
+        },
+        "firstSeason": 2022,
+        "lastSeason": 2023
+    },
+    "seasons": [
+        {
+            "year": 2023,
+            "teamId": 1038,
+            "team": "AlphaTauri",
+            "color": "#5E8FAA",
+            "pos": 22,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 21,
+            "points": 2,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1173,
+            "race": "2023 British Grand Prix",
+            "year": 2023,
+            "round": 10,
+            "pos": "17",
+            "points": 0,
+            "team": "AlphaTauri",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1172,
+            "race": "2023 Austrian Grand Prix",
+            "year": 2023,
+            "round": 9,
+            "pos": "17",
+            "points": 0,
+            "team": "AlphaTauri",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1171,
+            "race": "2023 Canadian Grand Prix",
+            "year": 2023,
+            "round": 8,
+            "pos": "18",
+            "points": 0,
+            "team": "AlphaTauri",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1170,
+            "race": "2023 Spanish Grand Prix",
+            "year": 2023,
+            "round": 7,
+            "pos": "14",
+            "points": 0,
+            "team": "AlphaTauri",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1169,
+            "race": "2023 Monaco Grand Prix",
+            "year": 2023,
+            "round": 6,
+            "pos": "12",
+            "points": 0,
+            "team": "AlphaTauri",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1168,
+            "race": "2023 Miami Grand Prix",
+            "year": 2023,
+            "round": 5,
+            "pos": "18",
+            "points": 0,
+            "team": "AlphaTauri",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1167,
+            "race": "2023 Azerbaijan Grand Prix",
+            "year": 2023,
+            "round": 4,
+            "pos": "R",
+            "points": 0,
+            "team": "AlphaTauri",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1166,
+            "race": "2023 Australian Grand Prix",
+            "year": 2023,
+            "round": 3,
+            "pos": "15",
+            "points": 0,
+            "team": "AlphaTauri",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1165,
+            "race": "2023 Saudi Arabian Grand Prix",
+            "year": 2023,
+            "round": 2,
+            "pos": "14",
+            "points": 0,
+            "team": "AlphaTauri",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1164,
+            "race": "2023 Bahrain Grand Prix",
+            "year": 2023,
+            "round": 1,
+            "pos": "14",
+            "points": 0,
+            "team": "AlphaTauri",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1131,
+            "race": "2022 Italian Grand Prix",
+            "year": 2022,
+            "round": 16,
+            "pos": "9",
+            "points": 2,
+            "team": "Williams",
+            "status": "Finished"
+        }
+    ]
+}

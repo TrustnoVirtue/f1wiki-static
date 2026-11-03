@@ -1,0 +1,70 @@
+{
+    "team": {
+        "id": 567,
+        "slug": "hrt",
+        "name": "HRT",
+        "nat": "Spanish",
+        "color": "#E10600",
+        "logo": "assets/img/teams/567.png",
+        "credit": "Logo: Unknown authorUnknown author · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:HRT_F1_TEAM_2012.svg",
+        "stats": {
+            "starts": 112,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2010,
+        "lastSeason": 2012
+    },
+    "seasons": [
+        {
+            "year": 2012,
+            "pos": 12,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2011,
+            "pos": 11,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2010,
+            "pos": 11,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 291,
+            "name": "Christian Klien",
+            "photo": "assets/img/drivers/291.jpg"
+        },
+        {
+            "id": 336,
+            "name": "Narain Karthikeyan",
+            "photo": "assets/img/drivers/336.jpg"
+        },
+        {
+            "id": 69,
+            "name": "Pedro de la Rosa",
+            "photo": "assets/img/drivers/69.jpg"
+        },
+        {
+            "id": 401,
+            "name": "Sakon Yamamoto",
+            "photo": "assets/img/drivers/401.jpg"
+        },
+        {
+            "id": 343,
+            "name": "Vitantonio Liuzzi",
+            "photo": "assets/img/drivers/343.jpg"
+        }
+    ]
+}

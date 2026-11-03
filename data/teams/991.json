@@ -1,0 +1,72 @@
+{
+    "team": {
+        "id": 991,
+        "slug": "alfa",
+        "name": "Alfa Romeo",
+        "nat": "Swiss",
+        "color": "#FF87BC",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 208,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 147,
+            "championships": 0
+        },
+        "firstSeason": 2019,
+        "lastSeason": 2023
+    },
+    "seasons": [
+        {
+            "year": 2023,
+            "pos": 9,
+            "points": 16,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "pos": 6,
+            "points": 55,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "pos": 9,
+            "points": 13,
+            "wins": 0
+        },
+        {
+            "year": 2020,
+            "pos": 8,
+            "points": 8,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "pos": 8,
+            "points": 57,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 897,
+            "name": "Antonio Giovinazzi",
+            "photo": "assets/img/drivers/897.jpg"
+        },
+        {
+            "id": 161,
+            "name": "Kimi Räikkönen",
+            "photo": "assets/img/drivers/161.jpg"
+        },
+        {
+            "id": 403,
+            "name": "Robert Kubica",
+            "photo": "assets/img/drivers/403.jpg"
+        }
+    ]
+}

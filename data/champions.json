@@ -1,0 +1,245 @@
+[
+    {
+        "year": 2000,
+        "driverId": 53,
+        "driver": "Nick Heidfeld",
+        "teamId": 52,
+        "team": "Minardi",
+        "color": "#111111",
+        "points": 0
+    },
+    {
+        "year": 2001,
+        "driverId": 59,
+        "driver": "Gastón Mazzacane",
+        "teamId": 52,
+        "team": "Minardi",
+        "color": "#111111",
+        "points": 0
+    },
+    {
+        "year": 2002,
+        "driverId": 223,
+        "driver": "Anthony Davidson",
+        "teamId": 41,
+        "team": "Ferrari",
+        "color": "#E8002D",
+        "points": 0
+    },
+    {
+        "year": 2003,
+        "driverId": 40,
+        "driver": "Michael Schumacher",
+        "teamId": 41,
+        "team": "Ferrari",
+        "color": "#E8002D",
+        "points": 93
+    },
+    {
+        "year": 2004,
+        "driverId": 40,
+        "driver": "Michael Schumacher",
+        "teamId": 41,
+        "team": "Ferrari",
+        "color": "#E8002D",
+        "points": 148
+    },
+    {
+        "year": 2005,
+        "driverId": 49,
+        "driver": "Ricardo Zonta",
+        "teamId": 208,
+        "team": "Renault",
+        "color": "#FFF500",
+        "points": 0
+    },
+    {
+        "year": 2006,
+        "driverId": 163,
+        "driver": "Fernando Alonso",
+        "teamId": 208,
+        "team": "Renault",
+        "color": "#FFF500",
+        "points": 134
+    },
+    {
+        "year": 2007,
+        "driverId": 445,
+        "driver": "Markus Winkelhock",
+        "teamId": 65,
+        "team": "McLaren",
+        "color": "#FF8000",
+        "points": 0
+    },
+    {
+        "year": 2008,
+        "driverId": 431,
+        "driver": "Lewis Hamilton",
+        "teamId": 41,
+        "team": "Ferrari",
+        "color": "#E8002D",
+        "points": 98
+    },
+    {
+        "year": 2009,
+        "driverId": 57,
+        "driver": "Jenson Button",
+        "teamId": 518,
+        "team": "Brawn",
+        "color": "#B8FD36",
+        "points": 95
+    },
+    {
+        "year": 2010,
+        "driverId": 441,
+        "driver": "Sebastian Vettel",
+        "teamId": 335,
+        "team": "Red Bull",
+        "color": "#3671C6",
+        "points": 256
+    },
+    {
+        "year": 2011,
+        "driverId": 441,
+        "driver": "Sebastian Vettel",
+        "teamId": 335,
+        "team": "Red Bull",
+        "color": "#3671C6",
+        "points": 392
+    },
+    {
+        "year": 2012,
+        "driverId": 441,
+        "driver": "Sebastian Vettel",
+        "teamId": 335,
+        "team": "Red Bull",
+        "color": "#3671C6",
+        "points": 281
+    },
+    {
+        "year": 2013,
+        "driverId": 441,
+        "driver": "Sebastian Vettel",
+        "teamId": 335,
+        "team": "Red Bull",
+        "color": "#3671C6",
+        "points": 397
+    },
+    {
+        "year": 2014,
+        "driverId": 767,
+        "driver": "André Lotterer",
+        "teamId": 563,
+        "team": "Mercedes",
+        "color": "#27F4D2",
+        "points": 0
+    },
+    {
+        "year": 2015,
+        "driverId": 753,
+        "driver": "Kevin Magnussen",
+        "teamId": 563,
+        "team": "Mercedes",
+        "color": "#27F4D2",
+        "points": 0
+    },
+    {
+        "year": 2016,
+        "driverId": 382,
+        "driver": "Nico Rosberg",
+        "teamId": 563,
+        "team": "Mercedes",
+        "color": "#27F4D2",
+        "points": 385
+    },
+    {
+        "year": 2017,
+        "driverId": 613,
+        "driver": "Paul di Resta",
+        "teamId": 563,
+        "team": "Mercedes",
+        "color": "#27F4D2",
+        "points": 0
+    },
+    {
+        "year": 2018,
+        "driverId": 431,
+        "driver": "Lewis Hamilton",
+        "teamId": 563,
+        "team": "Mercedes",
+        "color": "#27F4D2",
+        "points": 408
+    },
+    {
+        "year": 2019,
+        "driverId": 431,
+        "driver": "Lewis Hamilton",
+        "teamId": 563,
+        "team": "Mercedes",
+        "color": "#27F4D2",
+        "points": 413
+    },
+    {
+        "year": 2020,
+        "driverId": 431,
+        "driver": "Lewis Hamilton",
+        "teamId": 563,
+        "team": "Mercedes",
+        "color": "#27F4D2",
+        "points": 347
+    },
+    {
+        "year": 2021,
+        "driverId": 801,
+        "driver": "Max Verstappen",
+        "teamId": 563,
+        "team": "Mercedes",
+        "color": "#27F4D2",
+        "points": 395.5
+    },
+    {
+        "year": 2022,
+        "driverId": 801,
+        "driver": "Max Verstappen",
+        "teamId": 335,
+        "team": "Red Bull",
+        "color": "#3671C6",
+        "points": 454
+    },
+    {
+        "year": 2023,
+        "driverId": 801,
+        "driver": "Max Verstappen",
+        "teamId": 335,
+        "team": "Red Bull",
+        "color": "#3671C6",
+        "points": 575
+    },
+    {
+        "year": 2024,
+        "driverId": 801,
+        "driver": "Max Verstappen",
+        "teamId": 65,
+        "team": "McLaren",
+        "color": "#FF8000",
+        "points": 437
+    },
+    {
+        "year": 2025,
+        "driverId": 993,
+        "driver": "Lando Norris",
+        "teamId": 65,
+        "team": "McLaren",
+        "color": "#FF8000",
+        "points": 423
+    },
+    {
+        "year": 2026,
+        "driverId": 1292,
+        "driver": "Andrea Kimi Antonelli",
+        "teamId": 563,
+        "team": "Mercedes",
+        "color": "#27F4D2",
+        "points": 380
+    }
+]

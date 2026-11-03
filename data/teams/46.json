@@ -1,0 +1,62 @@
+{
+    "team": {
+        "id": 46,
+        "slug": "bar",
+        "name": "BAR",
+        "nat": "British",
+        "color": "#A7A9AC",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 204,
+            "wins": 0,
+            "podiums": 15,
+            "poles": 2,
+            "points": 227,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2005
+    },
+    "seasons": [
+        {
+            "year": 2005,
+            "pos": 6,
+            "points": 38,
+            "wins": 0
+        },
+        {
+            "year": 2004,
+            "pos": 2,
+            "points": 119,
+            "wins": 0
+        },
+        {
+            "year": 2003,
+            "pos": 5,
+            "points": 26,
+            "wins": 0
+        },
+        {
+            "year": 2002,
+            "pos": 8,
+            "points": 7,
+            "wins": 0
+        },
+        {
+            "year": 2001,
+            "pos": 6,
+            "points": 17,
+            "wins": 0
+        },
+        {
+            "year": 2000,
+            "pos": 5,
+            "points": 20,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": []
+}

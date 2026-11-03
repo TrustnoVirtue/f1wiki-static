@@ -1,0 +1,32 @@
+{
+    "team": {
+        "id": 386,
+        "slug": "mf1",
+        "name": "MF1",
+        "nat": "Russian",
+        "color": "#3671C6",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 28,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 0,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2006
+    },
+    "seasons": [
+        {
+            "year": 2006,
+            "pos": 10,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": []
+}

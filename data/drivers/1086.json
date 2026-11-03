@@ -1,0 +1,228 @@
+{
+    "driver": {
+        "id": 1086,
+        "slug": "yuki-tsunoda",
+        "name": "Yuki Tsunoda",
+        "nat": "Japanese",
+        "code": "TSU",
+        "number": "",
+        "dob": "2000-05-11",
+        "photo": "assets/img/drivers/1086.jpg",
+        "credit": "Photo: Yu Chu Chin · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Yuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A8096).jpg",
+        "teamId": 1238,
+        "teamName": "RB F1 Team",
+        "color": "#6692FF",
+        "stats": {
+            "starts": 117,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 1,
+            "points": 109,
+            "championships": 0,
+            "best": 12,
+            "bestYear": 2024
+        },
+        "firstSeason": 2021,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 1238,
+            "team": "RB F1 Team",
+            "color": "#6692FF",
+            "pos": 20,
+            "points": 1,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "teamId": 335,
+            "team": "Red Bull",
+            "color": "#3671C6",
+            "pos": 17,
+            "points": 33,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "teamId": 1238,
+            "team": "RB F1 Team",
+            "color": "#6692FF",
+            "pos": 12,
+            "points": 30,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "teamId": 1038,
+            "team": "AlphaTauri",
+            "color": "#5E8FAA",
+            "pos": 14,
+            "points": 17,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "teamId": 1038,
+            "team": "AlphaTauri",
+            "color": "#5E8FAA",
+            "pos": 17,
+            "points": 12,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "teamId": 1038,
+            "team": "AlphaTauri",
+            "color": "#5E8FAA",
+            "pos": 14,
+            "points": 32,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1335,
+            "race": "2026 Spanish Grand Prix",
+            "year": 2026,
+            "round": 14,
+            "pos": "14",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1333,
+            "race": "2026 Italian Grand Prix",
+            "year": 2026,
+            "round": 13,
+            "pos": "10",
+            "points": 1,
+            "team": "RB F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1332,
+            "race": "2026 Dutch Grand Prix",
+            "year": 2026,
+            "round": 12,
+            "pos": "11",
+            "points": 0,
+            "team": "RB F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1291,
+            "race": "2025 Abu Dhabi Grand Prix",
+            "year": 2025,
+            "round": 24,
+            "pos": "14",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1290,
+            "race": "2025 Qatar Grand Prix",
+            "year": 2025,
+            "round": 23,
+            "pos": "10",
+            "points": 1,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1289,
+            "race": "2025 Las Vegas Grand Prix",
+            "year": 2025,
+            "round": 22,
+            "pos": "12",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1288,
+            "race": "2025 São Paulo Grand Prix",
+            "year": 2025,
+            "round": 21,
+            "pos": "17",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1287,
+            "race": "2025 Mexico City Grand Prix",
+            "year": 2025,
+            "round": 20,
+            "pos": "11",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1286,
+            "race": "2025 United States Grand Prix",
+            "year": 2025,
+            "round": 19,
+            "pos": "7",
+            "points": 6,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1285,
+            "race": "2025 Singapore Grand Prix",
+            "year": 2025,
+            "round": 18,
+            "pos": "12",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1284,
+            "race": "2025 Azerbaijan Grand Prix",
+            "year": 2025,
+            "round": 17,
+            "pos": "6",
+            "points": 8,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1283,
+            "race": "2025 Italian Grand Prix",
+            "year": 2025,
+            "round": 16,
+            "pos": "13",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1282,
+            "race": "2025 Dutch Grand Prix",
+            "year": 2025,
+            "round": 15,
+            "pos": "9",
+            "points": 2,
+            "team": "Red Bull",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1281,
+            "race": "2025 Hungarian Grand Prix",
+            "year": 2025,
+            "round": 14,
+            "pos": "17",
+            "points": 0,
+            "team": "Red Bull",
+            "status": "Lapped"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "team": {
+        "id": 1088,
+        "slug": "alpine",
+        "name": "Alpine F1 Team",
+        "nat": "French",
+        "color": "#FF87BC",
+        "logo": "assets/img/teams/1088.png",
+        "credit": "Logo: originally uploaded to en.wikipedia by SuperUserCode under the file name Alpine logo.svg.(+/−) · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Alpine_logo.svg",
+        "stats": {
+            "starts": 266,
+            "wins": 1,
+            "podiums": 6,
+            "poles": 1,
+            "points": 590,
+            "championships": 0
+        },
+        "firstSeason": 2021,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "pos": 6,
+            "points": 74,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "pos": 10,
+            "points": 22,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "pos": 6,
+            "points": 65,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "pos": 6,
+            "points": 120,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "pos": 4,
+            "points": 173,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "pos": 5,
+            "points": 155,
+            "wins": 1
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 1071,
+            "race": "2021 Hungarian Grand Prix",
+            "year": 2021,
+            "driver": "Esteban Ocon",
+            "driverId": 865
+        }
+    ],
+    "lineup": [
+        {
+            "id": 1255,
+            "name": "Franco Colapinto",
+            "photo": "assets/img/drivers/1255.jpg"
+        },
+        {
+            "id": 1264,
+            "name": "Jack Doohan",
+            "photo": "assets/img/drivers/1264.jpg"
+        },
+        {
+            "id": 913,
+            "name": "Pierre Gasly",
+            "photo": "assets/img/drivers/913.jpg"
+        }
+    ]
+}

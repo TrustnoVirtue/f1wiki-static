@@ -1,0 +1,92 @@
+{
+    "team": {
+        "id": 479,
+        "slug": "force_india",
+        "name": "Force India",
+        "nat": "Indian",
+        "color": "#F596C8",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 424,
+            "wins": 0,
+            "podiums": 6,
+            "poles": 1,
+            "points": 1098,
+            "championships": 0
+        },
+        "firstSeason": 2008,
+        "lastSeason": 2018
+    },
+    "seasons": [
+        {
+            "year": 2018,
+            "pos": 5,
+            "points": 111,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "pos": 4,
+            "points": 187,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "pos": 4,
+            "points": 173,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "pos": 5,
+            "points": 136,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "pos": 6,
+            "points": 155,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "pos": 6,
+            "points": 77,
+            "wins": 0
+        },
+        {
+            "year": 2012,
+            "pos": 7,
+            "points": 109,
+            "wins": 0
+        },
+        {
+            "year": 2011,
+            "pos": 6,
+            "points": 69,
+            "wins": 0
+        },
+        {
+            "year": 2010,
+            "pos": 7,
+            "points": 68,
+            "wins": 0
+        },
+        {
+            "year": 2009,
+            "pos": 9,
+            "points": 13,
+            "wins": 0
+        },
+        {
+            "year": 2008,
+            "pos": 10,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": []
+}

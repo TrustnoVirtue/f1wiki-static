@@ -1,0 +1,20 @@
+{
+    "id": 1344,
+    "name": "2026 Abu Dhabi Grand Prix",
+    "year": 2026,
+    "round": 23,
+    "date": "2026-12-06",
+    "hasResults": false,
+    "circuitId": 516,
+    "circuit": "Yas Marina Circuit",
+    "country": "UAE",
+    "winnerId": 0,
+    "winner": "",
+    "winnerTeam": "",
+    "winnerColor": "#E10600",
+    "poleId": 0,
+    "pole": "",
+    "fastestId": 0,
+    "fastest": "",
+    "results": []
+}

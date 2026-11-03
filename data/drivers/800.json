@@ -1,0 +1,282 @@
+{
+    "driver": {
+        "id": 800,
+        "slug": "carlos-sainz",
+        "name": "Carlos Sainz",
+        "nat": "Spanish",
+        "code": "SAI",
+        "number": "",
+        "dob": "1994-09-01",
+        "photo": "assets/img/drivers/800.jpg",
+        "credit": "Photo: LucaFazPhoto · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Carlos_Sainz_at_the_83rd_Venice_FILM_festival-9_(cropped).jpg",
+        "teamId": 44,
+        "teamName": "Williams",
+        "color": "#64C4FF",
+        "stats": {
+            "starts": 251,
+            "wins": 4,
+            "podiums": 29,
+            "poles": 6,
+            "fastestLaps": 4,
+            "points": 1264.5,
+            "championships": 0,
+            "best": 5,
+            "bestYear": 2021
+        },
+        "firstSeason": 2015,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 18,
+            "points": 7,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 9,
+            "points": 64,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 5,
+            "points": 290,
+            "wins": 2
+        },
+        {
+            "year": 2023,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 7,
+            "points": 200,
+            "wins": 1
+        },
+        {
+            "year": 2022,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 5,
+            "points": 246,
+            "wins": 1
+        },
+        {
+            "year": 2021,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 5,
+            "points": 164.5,
+            "wins": 0
+        },
+        {
+            "year": 2020,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 6,
+            "points": 105,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 6,
+            "points": 96,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 10,
+            "points": 53,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 9,
+            "points": 54,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "teamId": 383,
+            "team": "Toro Rosso",
+            "color": "#4E7C9B",
+            "pos": 12,
+            "points": 46,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "teamId": 383,
+            "team": "Toro Rosso",
+            "color": "#4E7C9B",
+            "pos": 15,
+            "points": 18,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "round": 19,
+            "pos": "15",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1339,
+            "race": "2026 United States Grand Prix",
+            "year": 2026,
+            "round": 18,
+            "pos": "18",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1338,
+            "race": "2026 Singapore Grand Prix",
+            "year": 2026,
+            "round": 17,
+            "pos": "14",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1337,
+            "race": "2026 Bahrain Grand Prix in Malaysia",
+            "year": 2026,
+            "round": 16,
+            "pos": "17",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1336,
+            "race": "2026 Azerbaijan Grand Prix",
+            "year": 2026,
+            "round": 15,
+            "pos": "10",
+            "points": 1,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1335,
+            "race": "2026 Spanish Grand Prix",
+            "year": 2026,
+            "round": 14,
+            "pos": "R",
+            "points": 0,
+            "team": "Williams",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1333,
+            "race": "2026 Italian Grand Prix",
+            "year": 2026,
+            "round": 13,
+            "pos": "13",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1332,
+            "race": "2026 Dutch Grand Prix",
+            "year": 2026,
+            "round": 12,
+            "pos": "16",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1331,
+            "race": "2026 Hungarian Grand Prix",
+            "year": 2026,
+            "round": 11,
+            "pos": "18",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1330,
+            "race": "2026 Belgian Grand Prix",
+            "year": 2026,
+            "round": 10,
+            "pos": "16",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1329,
+            "race": "2026 British Grand Prix",
+            "year": 2026,
+            "round": 9,
+            "pos": "17",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1328,
+            "race": "2026 Austrian Grand Prix",
+            "year": 2026,
+            "round": 8,
+            "pos": "R",
+            "points": 0,
+            "team": "Williams",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1327,
+            "race": "2026 Barcelona Grand Prix",
+            "year": 2026,
+            "round": 7,
+            "pos": "12",
+            "points": 0,
+            "team": "Williams",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1326,
+            "race": "2026 Monaco Grand Prix",
+            "year": 2026,
+            "round": 6,
+            "pos": "16",
+            "points": 0,
+            "team": "Williams",
+            "status": "Retired"
+        }
+    ]
+}

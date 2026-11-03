@@ -1,0 +1,53 @@
+{
+    "driver": {
+        "id": 1055,
+        "slug": "jack-aitken",
+        "name": "Jack Aitken",
+        "nat": "British",
+        "code": "AIT",
+        "number": "",
+        "dob": "1995-09-23",
+        "photo": "assets/img/drivers/1055.jpg",
+        "credit": "Photo: Steffen Prößdorf · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:2024-04-27_Motorsport,_DTM,_Oschersleben_STP_2025_(cropped).jpg",
+        "teamId": 44,
+        "teamName": "Williams",
+        "color": "#64C4FF",
+        "stats": {
+            "starts": 1,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 0,
+            "championships": 0,
+            "best": 22,
+            "bestYear": 2020
+        },
+        "firstSeason": 2020,
+        "lastSeason": 2020
+    },
+    "seasons": [
+        {
+            "year": 2020,
+            "teamId": 44,
+            "team": "Williams",
+            "color": "#64C4FF",
+            "pos": 22,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1036,
+            "race": "2020 Sakhir Grand Prix",
+            "year": 2020,
+            "round": 16,
+            "pos": "16",
+            "points": 0,
+            "team": "Williams",
+            "status": "Finished"
+        }
+    ]
+}

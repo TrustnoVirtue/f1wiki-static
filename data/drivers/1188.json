@@ -1,0 +1,210 @@
+{
+    "driver": {
+        "id": 1188,
+        "slug": "oscar-piastri",
+        "name": "Oscar Piastri",
+        "nat": "Australian",
+        "code": "PIA",
+        "number": "",
+        "dob": "2001-04-06",
+        "photo": "assets/img/drivers/1188.jpg",
+        "credit": "Photo: Liauzh · CC BY 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Oscar_Piastri_(cropped)_(cropped).jpg",
+        "teamId": 65,
+        "teamName": "McLaren",
+        "color": "#FF8000",
+        "stats": {
+            "starts": 89,
+            "wins": 9,
+            "podiums": 28,
+            "poles": 6,
+            "fastestLaps": 9,
+            "points": 857,
+            "championships": 0,
+            "best": 3,
+            "bestYear": 2025
+        },
+        "firstSeason": 2023,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 7,
+            "points": 150,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 3,
+            "points": 410,
+            "wins": 7
+        },
+        {
+            "year": 2024,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 4,
+            "points": 292,
+            "wins": 2
+        },
+        {
+            "year": 2023,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 9,
+            "points": 97,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "round": 19,
+            "pos": "7",
+            "points": 6,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1339,
+            "race": "2026 United States Grand Prix",
+            "year": 2026,
+            "round": 18,
+            "pos": "7",
+            "points": 6,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1338,
+            "race": "2026 Singapore Grand Prix",
+            "year": 2026,
+            "round": 17,
+            "pos": "5",
+            "points": 10,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1337,
+            "race": "2026 Bahrain Grand Prix in Malaysia",
+            "year": 2026,
+            "round": 16,
+            "pos": "6",
+            "points": 8,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1336,
+            "race": "2026 Azerbaijan Grand Prix",
+            "year": 2026,
+            "round": 15,
+            "pos": "13",
+            "points": 0,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1335,
+            "race": "2026 Spanish Grand Prix",
+            "year": 2026,
+            "round": 14,
+            "pos": "8",
+            "points": 4,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1333,
+            "race": "2026 Italian Grand Prix",
+            "year": 2026,
+            "round": 13,
+            "pos": "5",
+            "points": 10,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1332,
+            "race": "2026 Dutch Grand Prix",
+            "year": 2026,
+            "round": 12,
+            "pos": "6",
+            "points": 8,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1331,
+            "race": "2026 Hungarian Grand Prix",
+            "year": 2026,
+            "round": 11,
+            "pos": "R",
+            "points": 0,
+            "team": "McLaren",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1330,
+            "race": "2026 Belgian Grand Prix",
+            "year": 2026,
+            "round": 10,
+            "pos": "5",
+            "points": 10,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1329,
+            "race": "2026 British Grand Prix",
+            "year": 2026,
+            "round": 9,
+            "pos": "11",
+            "points": 0,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1328,
+            "race": "2026 Austrian Grand Prix",
+            "year": 2026,
+            "round": 8,
+            "pos": "4",
+            "points": 12,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1327,
+            "race": "2026 Barcelona Grand Prix",
+            "year": 2026,
+            "round": 7,
+            "pos": "5",
+            "points": 10,
+            "team": "McLaren",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1326,
+            "race": "2026 Monaco Grand Prix",
+            "year": 2026,
+            "round": 6,
+            "pos": "4",
+            "points": 12,
+            "team": "McLaren",
+            "status": "Finished"
+        }
+    ]
+}

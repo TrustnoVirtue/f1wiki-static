@@ -1,0 +1,93 @@
+{
+    "driver": {
+        "id": 816,
+        "slug": "alexander-rossi",
+        "name": "Alexander Rossi",
+        "nat": "American",
+        "code": "RSS",
+        "number": "",
+        "dob": "1991-09-25",
+        "photo": "assets/img/drivers/816.jpg",
+        "credit": "Photo: NASA/Joel Kowsky · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Rossi_2026_(cropped).jpg",
+        "teamId": 804,
+        "teamName": "Manor Marussia",
+        "color": "#6E6E6E",
+        "stats": {
+            "starts": 5,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 0,
+            "championships": 0,
+            "best": 20,
+            "bestYear": 2015
+        },
+        "firstSeason": 2015,
+        "lastSeason": 2015
+    },
+    "seasons": [
+        {
+            "year": 2015,
+            "teamId": 804,
+            "team": "Manor Marussia",
+            "color": "#6E6E6E",
+            "pos": 20,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 797,
+            "race": "2015 Brazilian Grand Prix",
+            "year": 2015,
+            "round": 18,
+            "pos": "18",
+            "points": 0,
+            "team": "Manor Marussia",
+            "status": "+4 Laps"
+        },
+        {
+            "raceId": 796,
+            "race": "2015 Mexican Grand Prix",
+            "year": 2015,
+            "round": 17,
+            "pos": "15",
+            "points": 0,
+            "team": "Manor Marussia",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 794,
+            "race": "2015 United States Grand Prix",
+            "year": 2015,
+            "round": 16,
+            "pos": "12",
+            "points": 0,
+            "team": "Manor Marussia",
+            "status": "Finished"
+        },
+        {
+            "raceId": 792,
+            "race": "2015 Japanese Grand Prix",
+            "year": 2015,
+            "round": 14,
+            "pos": "18",
+            "points": 0,
+            "team": "Manor Marussia",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 791,
+            "race": "2015 Singapore Grand Prix",
+            "year": 2015,
+            "round": 13,
+            "pos": "14",
+            "points": 0,
+            "team": "Manor Marussia",
+            "status": "+2 Laps"
+        }
+    ]
+}

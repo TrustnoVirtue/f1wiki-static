@@ -1,0 +1,54 @@
+{
+    "team": {
+        "id": 54,
+        "slug": "prost",
+        "name": "Prost",
+        "nat": "French",
+        "color": "#1B3D6D",
+        "logo": "assets/img/teams/54.png",
+        "credit": "Logo: https://www.freepng.es/ · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Prost_Grand_Prix_Formula_One_Logo.png",
+        "stats": {
+            "starts": 67,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 4,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2001
+    },
+    "seasons": [
+        {
+            "year": 2001,
+            "pos": 9,
+            "points": 4,
+            "wins": 0
+        },
+        {
+            "year": 2000,
+            "pos": 0,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 59,
+            "name": "Gastón Mazzacane",
+            "photo": "assets/img/drivers/59.jpg"
+        },
+        {
+            "id": 82,
+            "name": "Luciano Burti",
+            "photo": "assets/img/drivers/82.jpg"
+        },
+        {
+            "id": 181,
+            "name": "Tomáš Enge",
+            "photo": "assets/img/drivers/181.jpg"
+        }
+    ]
+}

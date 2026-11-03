@@ -1,0 +1,255 @@
+{
+    "driver": {
+        "id": 945,
+        "slug": "charles-leclerc",
+        "name": "Charles Leclerc",
+        "nat": "Monegasque",
+        "code": "LEC",
+        "number": "",
+        "dob": "1997-10-16",
+        "photo": "assets/img/drivers/945.jpg",
+        "credit": "Photo: Gabriel Hutchinson · CC BY-SA 4.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Charles_Leclerc_at_the_2026_Cannes_Film_Festival_(cropped).jpg",
+        "teamId": 41,
+        "teamName": "Ferrari",
+        "color": "#E8002D",
+        "stats": {
+            "starts": 192,
+            "wins": 9,
+            "podiums": 56,
+            "poles": 27,
+            "fastestLaps": 15,
+            "points": 1799,
+            "championships": 0,
+            "best": 2,
+            "bestYear": 2022
+        },
+        "firstSeason": 2018,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 5,
+            "points": 245,
+            "wins": 1
+        },
+        {
+            "year": 2025,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 5,
+            "points": 242,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 3,
+            "points": 356,
+            "wins": 3
+        },
+        {
+            "year": 2023,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 5,
+            "points": 206,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 2,
+            "points": 308,
+            "wins": 3
+        },
+        {
+            "year": 2021,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 7,
+            "points": 159,
+            "wins": 0
+        },
+        {
+            "year": 2020,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 8,
+            "points": 98,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 4,
+            "points": 264,
+            "wins": 2
+        },
+        {
+            "year": 2018,
+            "teamId": 56,
+            "team": "Sauber",
+            "color": "#52E252",
+            "pos": 13,
+            "points": 39,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "round": 19,
+            "pos": "4",
+            "points": 12,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1339,
+            "race": "2026 United States Grand Prix",
+            "year": 2026,
+            "round": 18,
+            "pos": "2",
+            "points": 18,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1338,
+            "race": "2026 Singapore Grand Prix",
+            "year": 2026,
+            "round": 17,
+            "pos": "2",
+            "points": 18,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1337,
+            "race": "2026 Bahrain Grand Prix in Malaysia",
+            "year": 2026,
+            "round": 16,
+            "pos": "4",
+            "points": 12,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1336,
+            "race": "2026 Azerbaijan Grand Prix",
+            "year": 2026,
+            "round": 15,
+            "pos": "4",
+            "points": 12,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1335,
+            "race": "2026 Spanish Grand Prix",
+            "year": 2026,
+            "round": 14,
+            "pos": "4",
+            "points": 12,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1333,
+            "race": "2026 Italian Grand Prix",
+            "year": 2026,
+            "round": 13,
+            "pos": "R",
+            "points": 0,
+            "team": "Ferrari",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1332,
+            "race": "2026 Dutch Grand Prix",
+            "year": 2026,
+            "round": 12,
+            "pos": "5",
+            "points": 10,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1331,
+            "race": "2026 Hungarian Grand Prix",
+            "year": 2026,
+            "round": 11,
+            "pos": "4",
+            "points": 12,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1330,
+            "race": "2026 Belgian Grand Prix",
+            "year": 2026,
+            "round": 10,
+            "pos": "2",
+            "points": 18,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1329,
+            "race": "2026 British Grand Prix",
+            "year": 2026,
+            "round": 9,
+            "pos": "1",
+            "points": 25,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1328,
+            "race": "2026 Austrian Grand Prix",
+            "year": 2026,
+            "round": 8,
+            "pos": "8",
+            "points": 4,
+            "team": "Ferrari",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1327,
+            "race": "2026 Barcelona Grand Prix",
+            "year": 2026,
+            "round": 7,
+            "pos": "15",
+            "points": 0,
+            "team": "Ferrari",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1326,
+            "race": "2026 Monaco Grand Prix",
+            "year": 2026,
+            "round": 6,
+            "pos": "R",
+            "points": 0,
+            "team": "Ferrari",
+            "status": "Retired"
+        }
+    ]
+}

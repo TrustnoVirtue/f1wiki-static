@@ -1,0 +1,43 @@
+{
+    "team": {
+        "id": 434,
+        "slug": "spyker",
+        "name": "Spyker",
+        "nat": "Dutch",
+        "color": "#F26522",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 34,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "points": 1,
+            "championships": 0
+        },
+        "firstSeason": 2007,
+        "lastSeason": 2007
+    },
+    "seasons": [
+        {
+            "year": 2007,
+            "pos": 10,
+            "points": 1,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": [
+        {
+            "id": 339,
+            "name": "Christijan Albers",
+            "photo": "assets/img/drivers/339.jpg"
+        },
+        {
+            "id": 445,
+            "name": "Markus Winkelhock",
+            "photo": "assets/img/drivers/445.jpg"
+        }
+    ]
+}

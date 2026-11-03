@@ -1,0 +1,290 @@
+{
+    "team": {
+        "id": 65,
+        "slug": "mclaren",
+        "name": "McLaren",
+        "nat": "British",
+        "color": "#FF8000",
+        "logo": "assets/img/teams/65.png",
+        "credit": "Logo: https://www.mclaren.com/ · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:McLaren_Racing_logo.png",
+        "stats": {
+            "starts": 1044,
+            "wins": 82,
+            "podiums": 260,
+            "poles": 77,
+            "points": 5837,
+            "championships": 2
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "pos": 4,
+            "points": 371,
+            "wins": 2
+        },
+        {
+            "year": 2025,
+            "pos": 1,
+            "points": 833,
+            "wins": 14
+        },
+        {
+            "year": 2024,
+            "pos": 1,
+            "points": 666,
+            "wins": 6
+        },
+        {
+            "year": 2023,
+            "pos": 4,
+            "points": 302,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "pos": 5,
+            "points": 159,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "pos": 4,
+            "points": 275,
+            "wins": 1
+        },
+        {
+            "year": 2020,
+            "pos": 3,
+            "points": 202,
+            "wins": 0
+        },
+        {
+            "year": 2019,
+            "pos": 4,
+            "points": 145,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "pos": 7,
+            "points": 62,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "pos": 9,
+            "points": 30,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "pos": 6,
+            "points": 76,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "pos": 9,
+            "points": 27,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "pos": 5,
+            "points": 181,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "pos": 5,
+            "points": 122,
+            "wins": 0
+        },
+        {
+            "year": 2012,
+            "pos": 3,
+            "points": 378,
+            "wins": 7
+        },
+        {
+            "year": 2011,
+            "pos": 2,
+            "points": 497,
+            "wins": 6
+        },
+        {
+            "year": 2010,
+            "pos": 2,
+            "points": 454,
+            "wins": 5
+        },
+        {
+            "year": 2009,
+            "pos": 3,
+            "points": 71,
+            "wins": 2
+        },
+        {
+            "year": 2008,
+            "pos": 2,
+            "points": 151,
+            "wins": 6
+        },
+        {
+            "year": 2007,
+            "pos": 0,
+            "points": 0,
+            "wins": 8
+        },
+        {
+            "year": 2006,
+            "pos": 3,
+            "points": 110,
+            "wins": 0
+        },
+        {
+            "year": 2005,
+            "pos": 2,
+            "points": 182,
+            "wins": 10
+        },
+        {
+            "year": 2004,
+            "pos": 5,
+            "points": 69,
+            "wins": 1
+        },
+        {
+            "year": 2003,
+            "pos": 3,
+            "points": 142,
+            "wins": 2
+        },
+        {
+            "year": 2002,
+            "pos": 3,
+            "points": 65,
+            "wins": 1
+        },
+        {
+            "year": 2001,
+            "pos": 2,
+            "points": 102,
+            "wins": 4
+        },
+        {
+            "year": 2000,
+            "pos": 2,
+            "points": 162,
+            "wins": 7
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 1332,
+            "race": "2026 Dutch Grand Prix",
+            "year": 2026,
+            "driver": "Lando Norris",
+            "driverId": 993
+        },
+        {
+            "raceId": 1331,
+            "race": "2026 Hungarian Grand Prix",
+            "year": 2026,
+            "driver": "Lando Norris",
+            "driverId": 993
+        },
+        {
+            "raceId": 1288,
+            "race": "2025 São Paulo Grand Prix",
+            "year": 2025,
+            "driver": "Lando Norris",
+            "driverId": 993
+        },
+        {
+            "raceId": 1287,
+            "race": "2025 Mexico City Grand Prix",
+            "year": 2025,
+            "driver": "Lando Norris",
+            "driverId": 993
+        },
+        {
+            "raceId": 1282,
+            "race": "2025 Dutch Grand Prix",
+            "year": 2025,
+            "driver": "Oscar Piastri",
+            "driverId": 1188
+        },
+        {
+            "raceId": 1281,
+            "race": "2025 Hungarian Grand Prix",
+            "year": 2025,
+            "driver": "Lando Norris",
+            "driverId": 993
+        },
+        {
+            "raceId": 1280,
+            "race": "2025 Belgian Grand Prix",
+            "year": 2025,
+            "driver": "Oscar Piastri",
+            "driverId": 1188
+        },
+        {
+            "raceId": 1279,
+            "race": "2025 British Grand Prix",
+            "year": 2025,
+            "driver": "Lando Norris",
+            "driverId": 993
+        },
+        {
+            "raceId": 1278,
+            "race": "2025 Austrian Grand Prix",
+            "year": 2025,
+            "driver": "Lando Norris",
+            "driverId": 993
+        },
+        {
+            "raceId": 1276,
+            "race": "2025 Spanish Grand Prix",
+            "year": 2025,
+            "driver": "Oscar Piastri",
+            "driverId": 1188
+        }
+    ],
+    "lineup": [
+        {
+            "id": 57,
+            "name": "Jenson Button",
+            "photo": "assets/img/drivers/57.jpg"
+        },
+        {
+            "id": 164,
+            "name": "Juan Pablo Montoya",
+            "photo": "assets/img/drivers/164.jpg"
+        },
+        {
+            "id": 993,
+            "name": "Lando Norris",
+            "photo": "assets/img/drivers/993.jpg"
+        },
+        {
+            "id": 64,
+            "name": "Mika Häkkinen",
+            "photo": "assets/img/drivers/64.jpg"
+        },
+        {
+            "id": 1188,
+            "name": "Oscar Piastri",
+            "photo": "assets/img/drivers/1188.jpg"
+        },
+        {
+            "id": 853,
+            "name": "Stoffel Vandoorne",
+            "photo": "assets/img/drivers/853.jpg"
+        }
+    ]
+}

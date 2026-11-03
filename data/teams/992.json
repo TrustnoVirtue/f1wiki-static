@@ -1,0 +1,46 @@
+{
+    "team": {
+        "id": 992,
+        "slug": "racing_point",
+        "name": "Racing Point",
+        "nat": "British",
+        "color": "#F596C8",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 76,
+            "wins": 1,
+            "podiums": 4,
+            "poles": 1,
+            "points": 283,
+            "championships": 0
+        },
+        "firstSeason": 2019,
+        "lastSeason": 2020
+    },
+    "seasons": [
+        {
+            "year": 2020,
+            "pos": 4,
+            "points": 195,
+            "wins": 1
+        },
+        {
+            "year": 2019,
+            "pos": 7,
+            "points": 73,
+            "wins": 0
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 1036,
+            "race": "2020 Sakhir Grand Prix",
+            "year": 2020,
+            "driver": "Sergio Pérez",
+            "driverId": 616
+        }
+    ],
+    "lineup": []
+}

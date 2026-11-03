@@ -1,0 +1,64 @@
+{
+    "team": {
+        "id": 384,
+        "slug": "bmw_sauber",
+        "name": "BMW Sauber",
+        "nat": "German",
+        "color": "#293B6A",
+        "logo": "assets/img/teams/384.png",
+        "credit": "Logo: BMW · Public domain · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:BMW.svg",
+        "stats": {
+            "starts": 140,
+            "wins": 1,
+            "podiums": 17,
+            "poles": 1,
+            "points": 308,
+            "championships": 0
+        },
+        "firstSeason": 2006,
+        "lastSeason": 2009
+    },
+    "seasons": [
+        {
+            "year": 2009,
+            "pos": 6,
+            "points": 36,
+            "wins": 0
+        },
+        {
+            "year": 2008,
+            "pos": 3,
+            "points": 135,
+            "wins": 1
+        },
+        {
+            "year": 2007,
+            "pos": 2,
+            "points": 101,
+            "wins": 0
+        },
+        {
+            "year": 2006,
+            "pos": 5,
+            "points": 36,
+            "wins": 0
+        }
+    ],
+    "wins": [
+        {
+            "raceId": 463,
+            "race": "2008 Canadian Grand Prix",
+            "year": 2008,
+            "driver": "Robert Kubica",
+            "driverId": 403
+        }
+    ],
+    "lineup": [
+        {
+            "id": 45,
+            "name": "Jacques Villeneuve",
+            "photo": "assets/img/drivers/45.jpg"
+        }
+    ]
+}

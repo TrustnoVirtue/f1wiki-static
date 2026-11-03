@@ -1,0 +1,122 @@
+{
+    "driver": {
+        "id": 1264,
+        "slug": "jack-doohan",
+        "name": "Jack Doohan",
+        "nat": "Australian",
+        "code": "DOO",
+        "number": "",
+        "dob": "2003-01-20",
+        "photo": "assets/img/drivers/1264.jpg",
+        "credit": "Photo: Byxelized · CC0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Jack_Doohan_2023.jpg",
+        "teamId": 1088,
+        "teamName": "Alpine F1 Team",
+        "color": "#FF87BC",
+        "stats": {
+            "starts": 7,
+            "wins": 0,
+            "podiums": 0,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 0,
+            "championships": 0,
+            "best": 21,
+            "bestYear": 2025
+        },
+        "firstSeason": 2024,
+        "lastSeason": 2025
+    },
+    "seasons": [
+        {
+            "year": 2025,
+            "teamId": 1088,
+            "team": "Alpine F1 Team",
+            "color": "#FF87BC",
+            "pos": 21,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "teamId": 1088,
+            "team": "Alpine F1 Team",
+            "color": "#FF87BC",
+            "pos": 24,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1273,
+            "race": "2025 Miami Grand Prix",
+            "year": 2025,
+            "round": 6,
+            "pos": "R",
+            "points": 0,
+            "team": "Alpine F1 Team",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1272,
+            "race": "2025 Saudi Arabian Grand Prix",
+            "year": 2025,
+            "round": 5,
+            "pos": "17",
+            "points": 0,
+            "team": "Alpine F1 Team",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1271,
+            "race": "2025 Bahrain Grand Prix",
+            "year": 2025,
+            "round": 4,
+            "pos": "14",
+            "points": 0,
+            "team": "Alpine F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1270,
+            "race": "2025 Japanese Grand Prix",
+            "year": 2025,
+            "round": 3,
+            "pos": "15",
+            "points": 0,
+            "team": "Alpine F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1269,
+            "race": "2025 Chinese Grand Prix",
+            "year": 2025,
+            "round": 2,
+            "pos": "13",
+            "points": 0,
+            "team": "Alpine F1 Team",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1268,
+            "race": "2025 Australian Grand Prix",
+            "year": 2025,
+            "round": 1,
+            "pos": "R",
+            "points": 0,
+            "team": "Alpine F1 Team",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1237,
+            "race": "2024 Abu Dhabi Grand Prix",
+            "year": 2024,
+            "round": 24,
+            "pos": "15",
+            "points": 0,
+            "team": "Alpine F1 Team",
+            "status": "Lapped"
+        }
+    ]
+}

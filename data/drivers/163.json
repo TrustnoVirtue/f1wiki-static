@@ -1,0 +1,381 @@
+{
+    "driver": {
+        "id": 163,
+        "slug": "fernando-alonso",
+        "name": "Fernando Alonso",
+        "nat": "Spanish",
+        "code": "ALO",
+        "number": "",
+        "dob": "1981-07-29",
+        "photo": "assets/img/drivers/163.jpg",
+        "credit": "Photo: United Autosports · CC BY-SA 2.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Alonso-68_(24710447098).jpg",
+        "teamId": 1087,
+        "teamName": "Aston Martin",
+        "color": "#229971",
+        "stats": {
+            "starts": 447,
+            "wins": 32,
+            "podiums": 106,
+            "poles": 22,
+            "fastestLaps": 25,
+            "points": 2387,
+            "championships": 2,
+            "best": 1,
+            "bestYear": 2005
+        },
+        "firstSeason": 2001,
+        "lastSeason": 2026
+    },
+    "seasons": [
+        {
+            "year": 2026,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 17,
+            "points": 7,
+            "wins": 0
+        },
+        {
+            "year": 2025,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 10,
+            "points": 56,
+            "wins": 0
+        },
+        {
+            "year": 2024,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 9,
+            "points": 70,
+            "wins": 0
+        },
+        {
+            "year": 2023,
+            "teamId": 1087,
+            "team": "Aston Martin",
+            "color": "#229971",
+            "pos": 4,
+            "points": 206,
+            "wins": 0
+        },
+        {
+            "year": 2022,
+            "teamId": 1088,
+            "team": "Alpine F1 Team",
+            "color": "#FF87BC",
+            "pos": 9,
+            "points": 81,
+            "wins": 0
+        },
+        {
+            "year": 2021,
+            "teamId": 1088,
+            "team": "Alpine F1 Team",
+            "color": "#FF87BC",
+            "pos": 10,
+            "points": 81,
+            "wins": 0
+        },
+        {
+            "year": 2018,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 11,
+            "points": 50,
+            "wins": 0
+        },
+        {
+            "year": 2017,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 15,
+            "points": 17,
+            "wins": 0
+        },
+        {
+            "year": 2016,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 10,
+            "points": 54,
+            "wins": 0
+        },
+        {
+            "year": 2015,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 17,
+            "points": 11,
+            "wins": 0
+        },
+        {
+            "year": 2014,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 6,
+            "points": 161,
+            "wins": 0
+        },
+        {
+            "year": 2013,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 2,
+            "points": 242,
+            "wins": 2
+        },
+        {
+            "year": 2012,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 2,
+            "points": 278,
+            "wins": 3
+        },
+        {
+            "year": 2011,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 4,
+            "points": 257,
+            "wins": 1
+        },
+        {
+            "year": 2010,
+            "teamId": 41,
+            "team": "Ferrari",
+            "color": "#E8002D",
+            "pos": 2,
+            "points": 252,
+            "wins": 5
+        },
+        {
+            "year": 2009,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 9,
+            "points": 26,
+            "wins": 0
+        },
+        {
+            "year": 2008,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 5,
+            "points": 61,
+            "wins": 2
+        },
+        {
+            "year": 2007,
+            "teamId": 65,
+            "team": "McLaren",
+            "color": "#FF8000",
+            "pos": 3,
+            "points": 109,
+            "wins": 4
+        },
+        {
+            "year": 2006,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 1,
+            "points": 134,
+            "wins": 7
+        },
+        {
+            "year": 2005,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 1,
+            "points": 133,
+            "wins": 7
+        },
+        {
+            "year": 2004,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 4,
+            "points": 59,
+            "wins": 0
+        },
+        {
+            "year": 2003,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 6,
+            "points": 55,
+            "wins": 1
+        },
+        {
+            "year": 2001,
+            "teamId": 52,
+            "team": "Minardi",
+            "color": "#111111",
+            "pos": 0,
+            "points": 0,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 1340,
+            "race": "2026 Mexico City Grand Prix",
+            "year": 2026,
+            "round": 19,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1339,
+            "race": "2026 United States Grand Prix",
+            "year": 2026,
+            "round": 18,
+            "pos": "16",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1338,
+            "race": "2026 Singapore Grand Prix",
+            "year": 2026,
+            "round": 17,
+            "pos": "16",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1337,
+            "race": "2026 Bahrain Grand Prix in Malaysia",
+            "year": 2026,
+            "round": 16,
+            "pos": "8",
+            "points": 4,
+            "team": "Aston Martin",
+            "status": "Finished"
+        },
+        {
+            "raceId": 1336,
+            "race": "2026 Azerbaijan Grand Prix",
+            "year": 2026,
+            "round": 15,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1335,
+            "race": "2026 Spanish Grand Prix",
+            "year": 2026,
+            "round": 14,
+            "pos": "17",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1333,
+            "race": "2026 Italian Grand Prix",
+            "year": 2026,
+            "round": 13,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1332,
+            "race": "2026 Dutch Grand Prix",
+            "year": 2026,
+            "round": 12,
+            "pos": "9",
+            "points": 2,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1331,
+            "race": "2026 Hungarian Grand Prix",
+            "year": 2026,
+            "round": 11,
+            "pos": "14",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1330,
+            "race": "2026 Belgian Grand Prix",
+            "year": 2026,
+            "round": 10,
+            "pos": "19",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1329,
+            "race": "2026 British Grand Prix",
+            "year": 2026,
+            "round": 9,
+            "pos": "18",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1328,
+            "race": "2026 Austrian Grand Prix",
+            "year": 2026,
+            "round": 8,
+            "pos": "18",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Lapped"
+        },
+        {
+            "raceId": 1327,
+            "race": "2026 Barcelona Grand Prix",
+            "year": 2026,
+            "round": 7,
+            "pos": "R",
+            "points": 0,
+            "team": "Aston Martin",
+            "status": "Retired"
+        },
+        {
+            "raceId": 1326,
+            "race": "2026 Monaco Grand Prix",
+            "year": 2026,
+            "round": 6,
+            "pos": "10",
+            "points": 1,
+            "team": "Aston Martin",
+            "status": "Finished"
+        }
+    ]
+}

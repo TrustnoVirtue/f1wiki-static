@@ -1,0 +1,38 @@
+{
+    "team": {
+        "id": 48,
+        "slug": "benetton",
+        "name": "Benetton",
+        "nat": "Italian",
+        "color": "#00A19C",
+        "logo": "",
+        "credit": "",
+        "creditUrl": "",
+        "stats": {
+            "starts": 68,
+            "wins": 0,
+            "podiums": 4,
+            "poles": 0,
+            "points": 30,
+            "championships": 0
+        },
+        "firstSeason": 2000,
+        "lastSeason": 2001
+    },
+    "seasons": [
+        {
+            "year": 2001,
+            "pos": 7,
+            "points": 10,
+            "wins": 0
+        },
+        {
+            "year": 2000,
+            "pos": 4,
+            "points": 20,
+            "wins": 0
+        }
+    ],
+    "wins": [],
+    "lineup": []
+}

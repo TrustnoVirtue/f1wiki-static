@@ -1,0 +1,192 @@
+{
+    "driver": {
+        "id": 478,
+        "slug": "nelson-piquet-jr",
+        "name": "Nelson Piquet Jr.",
+        "nat": "Brazilian",
+        "code": "PIQ",
+        "number": "",
+        "dob": "1985-07-25",
+        "photo": "assets/img/drivers/478.jpg",
+        "credit": "Photo: Stock Car Brasil · CC BY 3.0 · Wikimedia Commons",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Nelson_Piquet_Jr._2021.jpg",
+        "teamId": 208,
+        "teamName": "Renault",
+        "color": "#FFF500",
+        "stats": {
+            "starts": 28,
+            "wins": 0,
+            "podiums": 1,
+            "poles": 0,
+            "fastestLaps": 0,
+            "points": 19,
+            "championships": 0,
+            "best": 12,
+            "bestYear": 2008
+        },
+        "firstSeason": 2008,
+        "lastSeason": 2009
+    },
+    "seasons": [
+        {
+            "year": 2009,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 21,
+            "points": 0,
+            "wins": 0
+        },
+        {
+            "year": 2008,
+            "teamId": 208,
+            "team": "Renault",
+            "color": "#FFF500",
+            "pos": 12,
+            "points": 19,
+            "wins": 0
+        }
+    ],
+    "recent": [
+        {
+            "raceId": 509,
+            "race": "2009 Hungarian Grand Prix",
+            "year": 2009,
+            "round": 10,
+            "pos": "12",
+            "points": 0,
+            "team": "Renault",
+            "status": "Finished"
+        },
+        {
+            "raceId": 508,
+            "race": "2009 German Grand Prix",
+            "year": 2009,
+            "round": 9,
+            "pos": "13",
+            "points": 0,
+            "team": "Renault",
+            "status": "Finished"
+        },
+        {
+            "raceId": 507,
+            "race": "2009 British Grand Prix",
+            "year": 2009,
+            "round": 8,
+            "pos": "12",
+            "points": 0,
+            "team": "Renault",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 506,
+            "race": "2009 Turkish Grand Prix",
+            "year": 2009,
+            "round": 7,
+            "pos": "16",
+            "points": 0,
+            "team": "Renault",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 505,
+            "race": "2009 Monaco Grand Prix",
+            "year": 2009,
+            "round": 6,
+            "pos": "R",
+            "points": 0,
+            "team": "Renault",
+            "status": "Collision"
+        },
+        {
+            "raceId": 504,
+            "race": "2009 Spanish Grand Prix",
+            "year": 2009,
+            "round": 5,
+            "pos": "12",
+            "points": 0,
+            "team": "Renault",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 503,
+            "race": "2009 Bahrain Grand Prix",
+            "year": 2009,
+            "round": 4,
+            "pos": "10",
+            "points": 0,
+            "team": "Renault",
+            "status": "Finished"
+        },
+        {
+            "raceId": 502,
+            "race": "2009 Chinese Grand Prix",
+            "year": 2009,
+            "round": 3,
+            "pos": "16",
+            "points": 0,
+            "team": "Renault",
+            "status": "+2 Laps"
+        },
+        {
+            "raceId": 501,
+            "race": "2009 Malaysian Grand Prix",
+            "year": 2009,
+            "round": 2,
+            "pos": "13",
+            "points": 0,
+            "team": "Renault",
+            "status": "+1 Lap"
+        },
+        {
+            "raceId": 500,
+            "race": "2009 Australian Grand Prix",
+            "year": 2009,
+            "round": 1,
+            "pos": "R",
+            "points": 0,
+            "team": "Renault",
+            "status": "Spun off"
+        },
+        {
+            "raceId": 476,
+            "race": "2008 Brazilian Grand Prix",
+            "year": 2008,
+            "round": 18,
+            "pos": "R",
+            "points": 0,
+            "team": "Renault",
+            "status": "Accident"
+        },
+        {
+            "raceId": 475,
+            "race": "2008 Chinese Grand Prix",
+            "year": 2008,
+            "round": 17,
+            "pos": "8",
+            "points": 1,
+            "team": "Renault",
+            "status": "Finished"
+        },
+        {
+            "raceId": 474,
+            "race": "2008 Japanese Grand Prix",
+            "year": 2008,
+            "round": 16,
+            "pos": "4",
+            "points": 5,
+            "team": "Renault",
+            "status": "Finished"
+        },
+        {
+            "raceId": 473,
+            "race": "2008 Singapore Grand Prix",
+            "year": 2008,
+            "round": 15,
+            "pos": "R",
+            "points": 0,
+            "team": "Renault",
+            "status": "Accident"
+        }
+    ]
+}
