@@ -594,9 +594,6 @@ p {
 }
 
 .tbl th {
-	position: sticky;
-	top: 108px;
-	z-index: 5;
 	background: #1a1a22;
 	color: var(--grey);
 	font-size: 10px;
@@ -1027,10 +1024,6 @@ p {
 
 	.site-head {
 		position: static;
-	}
-
-	.tbl th {
-		top: 0;
 	}
 
 	.dash-stats {
