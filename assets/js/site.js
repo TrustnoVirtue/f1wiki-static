@@ -54,6 +54,32 @@
 		return ( parts[ 0 ][ 0 ] + ( parts.length > 1 ? parts[ parts.length - 1 ][ 0 ] : '' ) ).toUpperCase();
 	}
 
+	function teamCode( name ) {
+		var map = {
+			'alfa romeo': 'AR',
+			'alphatauri': 'AT',
+			'alpine f1 team': 'ALP',
+			'aston martin': 'AM',
+			'bmw sauber': 'BMW',
+			'force india': 'FI',
+			'lotus f1': 'LOT',
+			'manor marussia': 'MRN',
+			'mf1': 'MF1',
+			'racing point': 'RP',
+			'rb f1 team': 'RB',
+			'red bull': 'RBR',
+			'spyker mf1': 'SPK',
+			'super aguri': 'SA',
+			'toro rosso': 'STR',
+			'virgin': 'VRG'
+		};
+		var key = String( name ).toLowerCase().trim();
+		if ( map[ key ] ) {
+			return map[ key ];
+		}
+		return String( name ).replace( /[^A-Za-z]/g, '' ).slice( 0, 3 ).toUpperCase() || 'F1';
+	}
+
 	function teamDot( color ) {
 		return '<span class="dot" style="--team-color:' + esc( color || '#999999' ) + '"></span>';
 	}
@@ -164,7 +190,7 @@
 					'<section class="dash-hero">' +
 						'<div class="dash-hero__copy">' +
 							'<p class="eyebrow">' + esc( site.from ) + '-' + esc( site.to ) + ' archive</p>' +
-							'<h1>Every result.<br><em>One archive.</em></h1>' +
+							'<h1>Every result.<br><span class="accent">One archive.</span></h1>' +
 							'<p>Drivers, teams, circuits and every championship from ' + esc( site.from ) + ' to ' + esc( site.to ) + ', generated from the Jolpica F1 API.</p>' +
 							'<div class="dash-stats">' +
 								'<div><strong>' + esc( site.counts.races ) + '</strong><span>races</span></div>' +
@@ -366,7 +392,7 @@
 			var tiles = teams.map( function ( team ) {
 				var media = team.logo
 					? '<img class="tile__logo" src="' + esc( team.logo ) + '" alt="" loading="lazy">'
-					: '<span class="tile__mark" style="--team-color:' + esc( team.color ) + '">' + esc( initials( team.name ) ) + '</span>';
+					: '<span class="tile__mark" style="--team-color:' + esc( team.color ) + '">' + esc( teamCode( team.name ) ) + '</span>';
 				return '<a class="tile" href="team.html?id=' + team.id + '" style="--team-color:' + esc( team.color ) + '">' +
 					media +
 					'<h3>' + esc( team.name ) + '</h3>' +
@@ -398,7 +424,7 @@
 
 			var media = team.logo
 				? '<img class="is-logo" src="' + esc( team.logo ) + '" alt="">'
-				: '<div style="padding:30px;text-align:center"><span class="tile__mark" style="--team-color:' + esc( team.color ) + ';min-height:120px;font-size:26px">' + esc( initials( team.name ) ) + '</span></div>';
+				: '<div style="padding:30px;text-align:center"><span class="tile__mark" style="--team-color:' + esc( team.color ) + ';min-height:120px;font-size:26px">' + esc( teamCode( team.name ) ) + '</span></div>';
 
 			var credit = team.credit
 				? '<p class="profile__credit">' + ( team.creditUrl ? '<a href="' + esc( team.creditUrl ) + '" rel="noopener noreferrer">' + esc( team.credit ) + '</a>' : esc( team.credit ) ) + '</p>'
