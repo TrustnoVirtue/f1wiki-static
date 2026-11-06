@@ -36,6 +36,7 @@
 	--panel: #1f1f27;
 	--panel-2: #26262f;
 	--white: #ffffff;
+	--ink-soft: #d9d9de;
 	--grey: #949498;
 	--grey-2: #6f6f78;
 	--red: #e10600;
@@ -413,20 +414,15 @@ p {
 	padding-top: 22px;
 }
 
-.dash-hero__copy h1 {
-	margin-bottom: 18px;
-	font-size: clamp(2.5rem, 6.4vw, 5rem);
-	letter-spacing: -0.02em;
-}
-
-.dash-hero__copy .accent {
-	color: var(--red);
-	font-style: normal;
-}
-
 .dash-hero__copy p {
 	max-width: 62ch;
 	color: var(--grey);
+}
+
+.dash-hero__copy > p:not(.eyebrow) {
+	font-size: clamp(1.1rem, 1.8vw, 1.35rem);
+	line-height: 1.6;
+	color: var(--ink-soft);
 }
 
 .dash-stats {

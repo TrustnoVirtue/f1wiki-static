@@ -189,8 +189,8 @@
 				render(
 					'<section class="dash-hero">' +
 						'<div class="dash-hero__copy">' +
+							'<h1 class="sr">F1 Archive - Formula 1 results ' + esc( site.from ) + '-' + esc( site.to ) + '</h1>' +
 							'<p class="eyebrow">' + esc( site.from ) + '-' + esc( site.to ) + ' archive</p>' +
-							'<h1>Every result.<br><span class="accent">One archive.</span></h1>' +
 							'<p>Drivers, teams, circuits and every championship from ' + esc( site.from ) + ' to ' + esc( site.to ) + ', generated from the Jolpica F1 API.</p>' +
 							'<div class="dash-stats">' +
 								'<div><strong>' + esc( site.counts.races ) + '</strong><span>races</span></div>' +
